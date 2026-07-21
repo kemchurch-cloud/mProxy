@@ -1,0 +1,24 @@
+# YouTube ONLY прокси (9 шт.)
+# Сортировка: RU → BY → остальные
+# Сгенерировано: 2026-07-21 15:45:54.352829
+
+
+# ===== Россия =====
+# RU | 617ms | 95.163.211.150:443
+vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 1190ms | 217.16.31.162:443
+vless://e97d3554-cde3-4391-9103-ea601b362763@217.16.31.162:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 1470ms | 95.163.211.150:443
+vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+# RU | 2357ms | 217.16.31.162:443
+vless://e97d3554-cde3-4391-9103-ea601b362763@217.16.31.162:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 5264ms | 51.250.82.165:443
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 5518ms | 109.120.183.69:443
+vless://e97d3554-cde3-4391-9103-ea601b362763@109.120.183.69:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=66c17371&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 7357ms | 51.250.82.165:443
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 7417ms | 51.250.82.165:443
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 8048ms | 109.120.183.69:443
+vless://e97d3554-cde3-4391-9103-ea601b362763@109.120.183.69:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
