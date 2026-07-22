@@ -1,24 +1,24 @@
 # YouTube + Telegram прокси (7 шт.)
-# Сгенерировано: 2026-07-22 16:32:33.315523
+# Сгенерировано: 2026-07-22 17:09:06.327381
 
-# RU | YT:1422ms TG:2230ms
-vless://755326c0-e79e-4cfa-b4ac-04e719e8158a@90.156.218.37:8443?encryption=none&mode=gun&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&security=reality&serviceName=grpc&sid=dfdee30a27b11f0f&sni=ads.x5.ru&type=grpc&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | YT:2861ms TG:1642ms
+vless://7a096244-99ca-4a8d-8981-173a3fc8df8b@213.219.212.254:8443?authority=360.yandex.ru&encryption=none&mode=gun&pbk=ZpXBddDY5CBXaRTnUz4lM4xs_KBVX4CPulN-q9AqhAI&security=reality&serviceName=ns&sni=360.yandex.ru&type=grpc&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:983ms TG:2144ms
-vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
-
-# RU | YT:763ms TG:1274ms
+# RU | YT:1867ms TG:1360ms
 vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
 
-# RU | YT:650ms TG:1409ms
-vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | YT:1720ms TG:1511ms
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
 
-# RU | YT:658ms TG:1489ms
+# RU | YT:728ms TG:1294ms
 vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
 
-# RU | YT:669ms TG:1238ms
+# RU | YT:603ms TG:1383ms
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+
+# RU | YT:634ms TG:1124ms
 vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
 
-# RU | YT:602ms TG:1299ms
+# RU | YT:655ms TG:1154ms
 vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 
