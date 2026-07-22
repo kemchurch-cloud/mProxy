@@ -1,14 +1,12 @@
-# YouTube ONLY прокси (4 шт.)
+# YouTube ONLY прокси (3 шт.)
 # Сортировка: RU → BY → остальные
-# Сгенерировано: 2026-07-22 14:22:28.356382
+# Сгенерировано: 2026-07-22 14:27:14.300867
 
 
 # ===== Россия =====
-# RU | 574ms | 95.163.211.150:443
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-# RU | 1336ms | 95.163.211.150:443
+# RU | 751ms | 95.163.211.150:443
 vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 2018ms | 95.163.211.150:443
+# RU | 888ms | 95.163.211.150:443
 vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 8489ms | 109.120.189.154:443
+# RU | 9660ms | 109.120.189.154:443
 vless://1cd83924-2950-4147-86c3-7c1c78e45d87@109.120.189.154:443?encryption=none&flow=xtls-rprx-vision&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&security=reality&sid=6aa44564cda562bc&sni=ads.x5.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
