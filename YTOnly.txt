@@ -1,12 +1,14 @@
-# YouTube ONLY прокси (3 шт.)
+# YouTube ONLY прокси (4 шт.)
 # Сортировка: RU → BY → остальные
-# Сгенерировано: 2026-07-22 14:27:14.300867
+# Сгенерировано: 2026-07-22 14:39:55.337253
 
 
 # ===== Россия =====
-# RU | 751ms | 95.163.211.150:443
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 888ms | 95.163.211.150:443
+# RU | 1511ms | 95.163.211.150:443
 vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 9660ms | 109.120.189.154:443
-vless://1cd83924-2950-4147-86c3-7c1c78e45d87@109.120.189.154:443?encryption=none&flow=xtls-rprx-vision&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&security=reality&sid=6aa44564cda562bc&sni=ads.x5.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 1593ms | 95.163.211.150:443
+vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 8554ms | 84.201.128.13:443
+vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@84.201.128.13:443?encryption=none&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=99e78ee91698aaaa&sni=eh3.vk.ru&type=raw&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 8807ms | 109.120.189.154:443
+vless://1cd83924-2950-4147-86c3-7c1c78e45d87@109.120.189.154:443?encryption=none&flow=xtls-rprx-vision&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&security=reality&sid=6aa44564cda562bc&sni=ads.x5.ru&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
