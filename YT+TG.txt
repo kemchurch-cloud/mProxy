@@ -1,12 +1,51 @@
-# YT+TG (3)
-# 2026-07-23 19:27:46.235485
+# YT+TG (16)
+# 2026-07-23 19:52:28.373720
 
-# RU | YT:679ms TG:904ms
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@185.147.27.155:443?encryption=none&extra=null&mode=auto&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&security=reality&sid=992f3294e2336744&sni=stats.vk-portal.net&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | YT:1529ms TG:2561ms
+vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:606ms TG:802ms
+# RU | YT:1703ms TG:2639ms
+vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:2550ms TG:2018ms
+vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:1941ms TG:4296ms
+vless://Fluffy_VPN-8d7GxL0p@94.103.87.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=xwToLX5ja_8pXKJL3PCZf6E4P955K_0eb11PHfiTolc&spx=%2F&type=tcp&headerType=none&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:2877ms TG:3577ms
+vless://Fluffy_VPN-8d7GxL0p@94.103.87.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=xwToLX5ja_8pXKJL3PCZf6E4P955K_0eb11PHfiTolc&spx=%2F&type=tcp&headerType=none&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1576ms TG:2346ms
+vless://Fluffy_VPN-8d7GxL0p@94.103.87.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=xwToLX5ja_8pXKJL3PCZf6E4P955K_0eb11PHfiTolc&spx=%2F&type=tcp&headerType=none&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:5346ms TG:2258ms
+vless://Fluffy_VPN-8d7GxL0p@195.209.214.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=absolute-disaster.org&pbk=nB8uPOyAjlKxZYQAgwlPzNVLL5yApB0KE5S_TbytBR0&spx=%2F&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:3281ms TG:3604ms
+vless://Fluffy_VPN-8d7GxL0p@195.209.214.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=absolute-disaster.org&pbk=nB8uPOyAjlKxZYQAgwlPzNVLL5yApB0KE5S_TbytBR0&spx=%2F&type=tcp&headerType=none&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1038ms TG:10314ms
+vless://Fluffy_VPN-8d7GxL0p@195.209.219.176:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=absolute-disaster.org&pbk=AzPJmJdRCwGXucsY1R-YPZk5xdxRo5IZPAWsA3JWOUI&spx=%2F&type=tcp&headerType=none&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:678ms TG:1000ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@185.147.27.155:443?encryption=none&extra=null&mode=auto&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&security=reality&sid=992f3294e2336744&sni=stats.vk-portal.net&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:759ms TG:964ms
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@185.147.27.155:443?encryption=none&extra=null&mode=auto&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&security=reality&sid=992f3294e2336744&sni=stats.vk-portal.net&type=xhttp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:688ms TG:906ms
+# RU | YT:704ms TG:1001ms
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@185.147.27.155:443?encryption=none&extra=null&mode=auto&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&security=reality&sid=992f3294e2336744&sni=stats.vk-portal.net&type=xhttp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:730ms TG:2080ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@185.147.27.155:443?encryption=none&extra=null&mode=auto&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&security=reality&sid=992f3294e2336744&sni=stats.vk-portal.net&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1807ms TG:2962ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:1718ms TG:2988ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:1732ms TG:2993ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
