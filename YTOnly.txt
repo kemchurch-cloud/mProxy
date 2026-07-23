@@ -1,9 +1,19 @@
-# YTOnly (2)
-# 2026-07-24 05:02:16.378058
+# YTOnly (7)
+# 2026-07-24 05:27:03.333173
 
 
 # ===== Россия =====
-# RU | 1721ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-# RU | 1773ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 754ms | yt.noooo.win:8443
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 1757ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 1760ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 1772ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 1783ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 5431ms | 158.160.246.193:443
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@158.160.246.193:443?encryption=none&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&security=reality&sid=2901df419dc4e3ff&sni=static-mon.yandex.net&type=grpc&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B9%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 8543ms | 158.160.246.193:443
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@158.160.246.193:443?encryption=none&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&security=reality&sid=2901df419dc4e3ff&sni=static-mon.yandex.net&type=grpc&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B9%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20YA
