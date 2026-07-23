@@ -1,11 +1,15 @@
-# YTOnly (3)
-# 2026-07-24 01:43:49.393331
+# YTOnly (5)
+# 2026-07-24 02:08:41.451376
 
 
 # ===== Россия =====
-# RU | 4971ms | 158.160.246.193:443
-vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@158.160.246.193:443?encryption=none&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&security=reality&sid=2901df419dc4e3ff&sni=static-mon.yandex.net&type=grpc&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B9%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20YA
-# RU | 9787ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-# RU | 10862ms | 46.29.163.32:29311
+# RU | 8253ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 8261ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 9570ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 9633ms | 46.29.163.32:29311
 vless://dee59997-f3f0-4dc5-bb26-ae24ae63ec5a@46.29.163.32:29311?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 10516ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
