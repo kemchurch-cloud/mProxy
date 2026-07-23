@@ -1,10 +1,9 @@
-# YouTube ONLY (2)
-# Сортировка: RU → BY → остальные
-# 2026-07-23 15:54:15.268571
+# YTOnly (2)
+# 2026-07-23 16:06:34.332159
 
 
 # ===== Россия =====
-# RU | 9415ms | 95.163.211.150:443
+# RU | 3548ms | 95.163.211.150:443
+vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+# RU | 4014ms | 95.163.211.150:443
 vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 9454ms | 95.163.211.150:443
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@95.163.211.150:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
