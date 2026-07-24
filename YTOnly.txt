@@ -1,49 +1,13 @@
-# YTOnly (22)
-# 2026-07-24 18:48:18.907649
+# YTOnly (4)
+# 2026-07-24 19:13:17.197590
 
 
 # ===== Россия =====
-# RU | 718ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 884ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 902ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?security=tls&type=tcp&alpn=h2&sni=ai-6a607097.noooo.win&fp=randomized&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1320ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&alpn=h2&type=tcp&headerType=none&host=yt.noooo.win&path=%2F&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1328ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a607097.noooo.win&fp=chrome&flow=xtls-rprx-vision-udp443#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1332ms | yt.noooo.win:8443
+# RU | 1244ms | yt.noooo.win:8443
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&alpn=h2&fp=randomized&type=tcp&headerType=none&host=yt.noooo.win&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1349ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1388ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1397ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision-udp443&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1510ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision-udp443&fp=safari&sni=ai-6a607097.noooo.win#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1514ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1540ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=ai-6a607097.noooo.win#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1597ms | 82.202.177.145:5269
-vless://391c4575-3195-4917-817c-f7f26fa7fe5b@82.202.177.145:5269?encryption=none&fp=firefox&pbk=dvue8xDyKMWNJELyMBrEYLy5SezehG_FOtDrDl-bVGQ&security=reality&sid=9473acb8aaf08627&sni=max.ru&type=raw#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
-# RU | 1909ms | one.alpheratzz.org:443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@one.alpheratzz.org:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&type=xhttp&allowInsecure=0&sni=app-6a607097.adhil.uk&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
-# RU | 1916ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=randomized&sni=yt.noooo.win#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1964ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2048ms | yt.noooo.win:8443
+# RU | 1941ms | yt.noooo.win:8443
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2052ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=ai-6a607097.noooo.win#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2173ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2210ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=safari&sni=yt.noooo.win#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2320ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2540ms | yt.noooo.win:8443
+# RU | 1946ms | yt.noooo.win:8443
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+# RU | 2126ms | yt.noooo.win:8443
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?&security=tls&flow=xtls-rprx-vision&alpn=h2&sni=ai-6a607097.noooo.win&type=tcp&headerType=none&host=yt.noooo.win&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
