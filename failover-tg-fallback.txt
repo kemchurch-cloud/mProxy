@@ -1,3 +1,22 @@
-# failover-tg-fallback.txt (0 прокси)
-# 2026-07-24 10:58:04.284328
+# failover-tg-fallback.txt (20 прокси) | 2026-07-24 17:02:44
 
+vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&security=none&type=ws&host=flat-heart-b60a.401-306.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8660  # ping: 1389ms
+vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.190.141:8880?encryption=none&security=none&type=ws&host=tiny-feather-4c41.227.workers.dev&path=%2F#4Sarina-8600  # ping: 1398ms
+vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.53:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8864  # ping: 1407ms
+vless://2acde116-5949-48d8-a1e6-60a1d2547deb@162.159.46.0:8880?encryption=none&security=none&type=ws&host=lively-pine-093d.144-868.workers.dev&path=%2F#4Sarina-8349  # ping: 1418ms
+vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-rice-3c1c.340-680.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8547  # ping: 1430ms
+vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@104.21.55.229:8880?encryption=none&security=none&type=ws&host=tiny-feather-4c41.227.workers.dev&path=%2F#4Sarina-8596  # ping: 1468ms
+vless://3a8aa3ad-d125-4285-8542-3a1832187f5d@104.25.123.12:443?encryption=none&security=tls&sni=alireza10.karamzade546alireza.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=alireza10.karamzade546alireza.workers.dev&path=%2F#4Sarina-8844  # ping: 1511ms
+vless://2a77a470-315c-493d-b690-59b814a804cb@82.40.23.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#4Sarina-8341  # ping: 1602ms
+vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@176.124.223.16:2087?encryption=none&security=tls&sni=valid22.validbv9501.ir&insecure=0&allowInsecure=0&type=ws&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D#4Sarina-8753  # ping: 1658ms
+vless://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?encryption=none&security=none&type=ws&host=tight-moon-2d50.457.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#4Sarina-8866  # ping: 1714ms
+vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8863  # ping: 2005ms
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ  # ping: 2037ms
+vless://3a8aa3ad-d125-4285-8542-3a1832187f5d@188.114.97.6:443?encryption=none&security=tls&sni=alireza10.karamzade546alireza.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=alireza10.karamzade546alireza.workers.dev&path=%2F#4Sarina-8845  # ping: 2213ms
+vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=%2F#4Sarina-8964  # ping: 2340ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?encryption=none&security=none&type=tcp&headerType=none#4Sarina-9052  # ping: 3615ms
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.6:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=abuse.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#4Sarina-8332  # ping: 3811ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 3934ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@34.132.50.119:443?encryption=none&security=tls&sni=learn00.evany.de5.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US  # ping: 5825ms
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=abuse.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#4Sarina-8330  # ping: 6011ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 6388ms
