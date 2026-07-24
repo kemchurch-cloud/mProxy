@@ -1,11 +1,13 @@
-# YTOnly (3)
-# 2026-07-25 00:15:09.462764
+# YTOnly (4)
+# 2026-07-25 00:40:15.407457
 
 
 # ===== Россия =====
-# RU | 4084ms | 109.120.189.154:443
+# RU | 3886ms | 87.242.85.201:35412
+vless://7abae19e-3dcb-44ae-a5f6-9f7a9dc1e0bd@87.242.85.201:35412?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 5382ms | 87.242.85.201:13561
+vless://7abae19e-3dcb-44ae-a5f6-9f7a9dc1e0bd@87.242.85.201:13561?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 5993ms | 109.120.189.154:443
 vless://1db0a61e-05f5-43ad-870c-ceff6ce06939@109.120.189.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&security=reality&sid=6aa44564cda562bc&sni=ads.x5.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 4132ms | 185.91.54.46:8443
-vless://deefcbeb-84db-471c-a176-b3bc1599a8ff@185.91.54.46:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H8vkSJ6M5678IDW377QR2MkwjNs0C-WlGRp5-cxJOCE&security=reality&sid=9db07670a7b491cb&sni=graphql.kinopoisk.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-# RU | 6828ms | 87.242.85.201:13561
+# RU | 6067ms | 87.242.85.201:13561
 vless://260abd76-572e-4e86-90b8-316aa8836eff@87.242.85.201:13561?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
