@@ -1,21 +1,45 @@
-# YT+TG (6)
-# 2026-07-24 23:49:58.380457
+# YT+TG (14)
+# 2026-07-25 00:15:09.396763
 
-# RU | YT:4916ms TG:5488ms
-vless://1da58b96-0a4b-4748-9015-41335e4938b2@suck-my-dick.apruxdomain.xyz:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | YT:3904ms TG:6310ms
+vless://7abae19e-3dcb-44ae-a5f6-9f7a9dc1e0bd@87.242.85.201:35412?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:5367ms TG:5746ms
-vless://1da58b96-0a4b-4748-9015-41335e4938b2@suck-my-dick.apruxdomain.xyz:80?type=ws&sni=suck-my-dick.apruxdomain.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | YT:1892ms TG:4123ms
+vless://deefcbeb-84db-471c-a176-b3bc1599a8ff@185.91.54.46:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=H8vkSJ6M5678IDW377QR2MkwjNs0C-WlGRp5-cxJOCE&security=reality&sid=9db07670a7b491cb&sni=graphql.kinopoisk.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 
-# RU | YT:4591ms TG:4908ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | YT:4076ms TG:6600ms
+vless://deefcbeb-84db-471c-a176-b3bc1599a8ff@185.91.54.46:8443?allowInsecure=1&type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=5FNsxaeEHfvOVVkCxvbwd2pWSLMLeG1So5vzLcygUzk&sid=9db07670a7b491cb&sni=static.2gis.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 
-# RU | YT:4491ms TG:5145ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | YT:1702ms TG:6735ms
+vless://deefcbeb-84db-471c-a176-b3bc1599a8ff@185.91.54.46:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=HlFbkqFN9DooGiknfgwdIovUDrlumu9OXOsAZnRxZiI&security=reality&sid=9db07670a7b491cb&sni=graphql-web.kinopoisk.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 
-# RU | YT:5081ms TG:5113ms
+# RU | YT:3321ms TG:6263ms
+vless://deefcbeb-84db-471c-a176-b3bc1599a8ff@185.91.54.46:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=PlAzlq9iZGrm6a4bpbd8oE3tgxyXubbGLN1BFhNS_x8&security=reality&sid=9db07670a7b491cb&sni=ozon.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:4206ms TG:6851ms
+vless://deefcbeb-84db-471c-a176-b3bc1599a8ff@185.91.54.46:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HlFbkqFN9DooGiknfgwdIovUDrlumu9OXOsAZnRxZiI&security=reality&sid=9db07670a7b491cb&sni=graphql-web.kinopoisk.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:8119ms TG:3984ms
+vless://deefcbeb-84db-471c-a176-b3bc1599a8ff@185.91.54.46:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PlAzlq9iZGrm6a4bpbd8oE3tgxyXubbGLN1BFhNS_x8&security=reality&sid=9db07670a7b491cb&sni=ozon.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:2063ms TG:8262ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:3621ms TG:8302ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:3533ms TG:7658ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:5996ms TG:2715ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:5722ms TG:5014ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:1650ms TG:1774ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | YT:5663ms TG:3103ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:3816ms TG:2062ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
