@@ -1,29 +1,15 @@
-# YTOnly (12)
-# 2026-07-24 13:23:02.298405
+# YTOnly (5)
+# 2026-07-24 13:47:48.357569
 
 
 # ===== Россия =====
-# RU | 1056ms | yt.noooo.win:8443
+# RU | 815ms | yt.noooo.win:8443
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?security=tls&flow=xtls-rprx-vision&alpn=h2&sni=ai-6a607097.noooo.win&type=tcp&headerType=none&host=yt.noooo.win&path=%2F&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 1117ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 1151ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1159ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?security=tls&flow=xtls-rprx-vision&alpn=h2&sni=ai-6a607097.noooo.win&type=tcp&headerType=none&host=yt.noooo.win&path=%2F&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 1160ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1295ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1440ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 1571ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 1967ms | 45.67.215.9:443
+# RU | 1691ms | 45.67.215.9:443
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 2217ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2640ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
-# RU | 2724ms | yt.noooo.win:8443
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+# RU | 1967ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 2004ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 2379ms | yt.noooo.win:8443
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline

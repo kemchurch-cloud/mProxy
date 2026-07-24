@@ -1,51 +1,72 @@
-# YT+TG (16)
-# 2026-07-24 13:23:02.296405
+# YT+TG (23)
+# 2026-07-24 13:47:48.319569
 
-# RU | YT:1096ms TG:1917ms
+# RU | YT:3093ms TG:4513ms
 vless://391c4575-3195-4917-817c-f7f26fa7fe5b@45.152.113.155:8443?encryption=none&pbk=hOKJ1Zm_GHspM0qZYvk4lzHN8Rcpb1P4qjaKs7cJWj4&security=reality&sid=8ed8c97a90673736&sni=www.vk.com&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1594ms TG:8171ms
+# RU | YT:1053ms TG:4514ms
 vless://391c4575-3195-4917-817c-f7f26fa7fe5b@45.152.113.155:8443?encryption=none&pbk=hOKJ1Zm_GHspM0qZYvk4lzHN8Rcpb1P4qjaKs7cJWj4&security=reality&sid=8ed8c97a90673736&sni=www.vk.com&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1456ms TG:1504ms
+# RU | YT:1159ms TG:1989ms
 vless://391c4575-3195-4917-817c-f7f26fa7fe5b@82.202.177.145:5269?encryption=none&pbk=dvue8xDyKMWNJELyMBrEYLy5SezehG_FOtDrDl-bVGQ&security=reality&sid=9473acb8aaf08627&sni=max.ru&type=raw&fp=qq#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1873ms TG:1290ms
+# RU | YT:1145ms TG:2409ms
 vless://391c4575-3195-4917-817c-f7f26fa7fe5b@82.202.177.145:5269?encryption=none&pbk=dvue8xDyKMWNJELyMBrEYLy5SezehG_FOtDrDl-bVGQ&security=reality&sid=9473acb8aaf08627&sni=max.ru&type=raw&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:971ms TG:1969ms
+# RU | YT:1160ms TG:1315ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:858ms TG:1255ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?security=tls&flow=xtls-rprx-vision&alpn=h2&sni=ai-6a607097.noooo.win&type=tcp&headerType=none&host=yt.noooo.win&path=%2F&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:719ms TG:1172ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:743ms TG:2165ms
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision-udp443&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D%20Beeline
 
-# RU | YT:735ms TG:1760ms
-vless://bedee8a6-cdca-4d75-aa9d-993bb3e21e23@ru10.sipipro.su:443?type=tcp&security=reality&sni=ru10.sipipro.su&pbk=bwCZQA36bHZreEcoFuhKznztNFhcnE6ellCHGyooDj8&sid=37645fbc3fdc11c3&spx=%2F&encryption=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1164ms TG:1812ms
+# RU | YT:895ms TG:1982ms
 vless://bedee8a6-cdca-4d75-aa9d-993bb3e21e23@ru10.sipipro.su:443?security=reality&pbk=bwCZQA36bHZreEcoFuhKznztNFhcnE6ellCHGyooDj8&sid=37645fbc3fdc11c3&sni=ru10.sipipro.su&type=tcp&headerType=none&host=ru10.sipipro.su&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:804ms TG:1736ms
+# RU | YT:571ms TG:2481ms
 vless://bedee8a6-cdca-4d75-aa9d-993bb3e21e23@ru10.sipipro.su:443?type=tcp&security=reality&sni=ru10.sipipro.su&pbk=bwCZQA36bHZreEcoFuhKznztNFhcnE6ellCHGyooDj8&sid=37645fbc3fdc11c3&spx=%2F&encryption=none&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1449ms TG:1261ms
+# RU | YT:620ms TG:2693ms
+vless://bedee8a6-cdca-4d75-aa9d-993bb3e21e23@ru10.sipipro.su:443?type=tcp&security=reality&sni=ru10.sipipro.su&pbk=bwCZQA36bHZreEcoFuhKznztNFhcnE6ellCHGyooDj8&sid=37645fbc3fdc11c3&spx=%2F&encryption=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:2334ms TG:3520ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:1905ms TG:3534ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:2131ms TG:3521ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:2347ms TG:3327ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?sni=ai-6a607097.noooo.win&alpn=h2&flow=xtls-rprx-vision-udp443&security=tls&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:1784ms TG:2801ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:1812ms TG:2779ms
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
 
-# RU | YT:716ms TG:2242ms
+# RU | YT:1964ms TG:2665ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&path=%2F&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:1179ms TG:3152ms
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@yt.noooo.win:8443?type=tcp&security=tls&sni=ai-6a607097.noooo.win&flow=xtls-rprx-vision-udp443&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20Beeline
 
-# RU | YT:1839ms TG:4377ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:1948ms TG:4296ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:1672ms TG:3017ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:1945ms TG:4330ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:1940ms TG:4309ms
+# RU | YT:1785ms TG:3026ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:1815ms TG:2922ms
+# RU | YT:1730ms TG:3035ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:1961ms TG:4464ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:1860ms TG:2922ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
