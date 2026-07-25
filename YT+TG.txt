@@ -1,96 +1,78 @@
-# YT+TG (31)
-# 2026-07-25 21:28:41.814650
+# YT+TG (25)
+# 2026-07-25 21:53:54.753649
 
-# RU | YT:6281ms TG:6213ms
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&type=raw&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | YT:843ms TG:2030ms
+vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:6915ms TG:6318ms
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | YT:9044ms TG:2641ms
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:5179ms TG:8317ms
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&type=raw&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
-
-# RU | YT:840ms TG:2084ms
-vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:973ms TG:2395ms
-vless://1bf44cb7-f947-441c-abb5-242c47e78292@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:985ms TG:4787ms
-vless://1bf44cb7-f947-441c-abb5-242c47e78292@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:5072ms TG:7369ms
+# RU | YT:1198ms TG:2008ms
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:890ms TG:4582ms
-vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
+# RU | YT:981ms TG:2516ms
+vless://1bf44cb7-f947-441c-abb5-242c47e78292@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:1225ms TG:2795ms
-vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
+# RU | YT:1028ms TG:2721ms
+vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:2102ms TG:7675ms
-vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:1284ms TG:2745ms
+# RU | YT:1107ms TG:2647ms
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:1274ms TG:2678ms
+# RU | YT:1037ms TG:6519ms
+vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:1385ms TG:3714ms
 vless://1bf44cb7-f947-441c-abb5-242c47e78292@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=ai.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:3094ms TG:1229ms
-vless://74d75009-f05f-4865-b1ba-16200ba35700@s13.fishvpn.ru:443?security=reality&flow=xtls-rprx-vision&pbk=xRWMf_LY42-HvyyXveIwActX0oBk-_LfV4CuT0aPdF8&sid=eb06abd74f14e6&sni=s13.fishvpn.ru&type=tcp&headerType=none&host=s13.fishvpn.ru&path=%2F&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:3110ms TG:1253ms
-vless://74d75009-f05f-4865-b1ba-16200ba35700@s13.fishvpn.ru:443?security=reality&flow=xtls-rprx-vision&pbk=xRWMf_LY42-HvyyXveIwActX0oBk-_LfV4CuT0aPdF8&sid=eb06abd74f14e6&sni=s13.fishvpn.ru&type=tcp&headerType=none&host=s13.fishvpn.ru&path=%2F&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:552ms TG:1600ms
+# RU | YT:524ms TG:1773ms
 vless://cfc3f0bd-5f7e-4e46-9278-75a53b9214e7@s71.fishserver.ru:443?security=reality&flow=xtls-rprx-vision&pbk=OIwXSQhQyd7BCM1gFruUWxgK5kvugEZohV2KsLKTyiY&sid=589a3d&sni=s71.fishserver.ru&type=tcp&headerType=none&host=s71.fishserver.ru&path=%2F&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:642ms TG:1413ms
+# RU | YT:601ms TG:1816ms
 vless://cfc3f0bd-5f7e-4e46-9278-75a53b9214e7@s71.fishserver.ru:443?type=tcp&security=reality&path=%2F&sni=s71.fishserver.ru&flow=xtls-rprx-vision&pbk=OIwXSQhQyd7BCM1gFruUWxgK5kvugEZohV2KsLKTyiY&sid=589a3d&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:551ms TG:1499ms
+# RU | YT:591ms TG:1793ms
 vless://cfc3f0bd-5f7e-4e46-9278-75a53b9214e7@s71.fishserver.ru:443?type=tcp&security=reality&path=%2F&sni=s71.fishserver.ru&flow=xtls-rprx-vision&pbk=OIwXSQhQyd7BCM1gFruUWxgK5kvugEZohV2KsLKTyiY&sid=589a3d&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1218ms TG:2100ms
+# RU | YT:2568ms TG:2313ms
 vless://1bf44cb7-f947-441c-abb5-242c47e78292@82.202.136.184:443?encryption=none&security=reality&type=tcp&sni=gb.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:660ms TG:1223ms
-vless://74d75009-f05f-4865-b1ba-16200ba35700@s13.fishvpn.ru:443?type=tcp&security=reality&path=%2F&sni=s13.fishvpn.ru&flow=xtls-rprx-vision&pbk=xRWMf_LY42-HvyyXveIwActX0oBk-_LfV4CuT0aPdF8&sid=eb06abd74f14e6&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | YT:4585ms TG:6213ms
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:637ms TG:4229ms
+# RU | YT:572ms TG:1609ms
 vless://74d75009-f05f-4865-b1ba-16200ba35700@s13.fishvpn.ru:443?type=tcp&security=reality&path=%2F&sni=s13.fishvpn.ru&flow=xtls-rprx-vision&pbk=xRWMf_LY42-HvyyXveIwActX0oBk-_LfV4CuT0aPdF8&sid=eb06abd74f14e6&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1546ms TG:3296ms
-vless://0108c657-a9bd-4c99-9179-74050cf78889@147.45.47.19:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
+# RU | YT:865ms TG:1507ms
+vless://1bf44cb7-f947-441c-abb5-242c47e78292@95.163.211.106:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:5082ms TG:1534ms
+# RU | YT:1355ms TG:8502ms
 vless://1bf44cb7-f947-441c-abb5-242c47e78292@87.242.87.34:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%A9%F0%9F%87%AA%20%5B%2ACIDR%5D
 
-# RU | YT:5742ms TG:6847ms
-vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20VK
+# RU | YT:8170ms TG:3537ms
+vless://1bf44cb7-f947-441c-abb5-242c47e78292@87.242.87.34:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%5B%2ACIDR%5D
 
-# RU | YT:1017ms TG:1361ms
+# RU | YT:868ms TG:1454ms
 vless://1bf44cb7-f947-441c-abb5-242c47e78292@87.242.87.34:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=se.sellflow.org&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
 
-# RU | YT:1796ms TG:3368ms
+# RU | YT:1997ms TG:3015ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:2069ms TG:3011ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:2052ms TG:3048ms
+# RU | YT:2000ms TG:3054ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:1703ms TG:3055ms
+# RU | YT:1854ms TG:3010ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:1755ms TG:3032ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:1696ms TG:3074ms
+# RU | YT:1873ms TG:2929ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:1848ms TG:2948ms
+# RU | YT:1770ms TG:3032ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:1811ms TG:3027ms
+# RU | YT:1825ms TG:2994ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
