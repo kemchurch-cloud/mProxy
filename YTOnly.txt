@@ -1,51 +1,55 @@
-# YTOnly (23)
-# 2026-07-27 11:24:29.471861
+# YTOnly (25)
+# 2026-07-27 11:49:18.665883
 
 
 # ===== Россия =====
-# RU | 512ms | 213.219.212.14:443
-vless://7ce9b876-5e2e-4f5c-84af-40ea3a406428@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 518ms | 213.219.212.30:443
-vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 518ms | 213.219.212.30:443
-vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 528ms | 213.219.212.24:443
-vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.24:443?type=raw&security=reality&encryption=none&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 553ms | 213.219.212.30:443
-vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 555ms | 213.219.212.30:443
+# RU | 623ms | 213.219.212.30:443
 vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 563ms | 213.219.212.30:443
-vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 567ms | pro-ru-213.emrata.top:443
-vless://f81b1299-f813-46ef-aed1-63afa5e61c91@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=pro-ru-213.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 569ms | 213.219.212.14:443
-vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 585ms | 213.219.212.14:443
-vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 588ms | 213.219.212.30:443
-vless://7ce9b876-5e2e-4f5c-84af-40ea3a406428@213.219.212.30:443?&security=reality&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-ru-213.emrata.top&type=tcp&headerType=none&host=pro-ru-213.emrata.top&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 593ms | 213.219.212.24:443
-vless://7ce9b876-5e2e-4f5c-84af-40ea3a406428@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 601ms | 213.219.212.24:443
-vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 604ms | 213.219.212.24:443
-vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.24:443?type=raw&security=reality&encryption=none&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 612ms | 213.219.212.14:443
-vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 644ms | 213.219.212.14:443
-vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 649ms | 213.219.212.24:443
-vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 649ms | 213.219.212.14:443
-vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 653ms | 213.219.212.24:443
-vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 701ms | 213.219.212.30:443
+# RU | 658ms | 213.219.212.30:443
 vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.30:443?type=raw&security=reality&encryption=none&sni=pro-ru-213.emrata.top&fp=edge&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 721ms | 213.219.212.30:443
-vless://7ce9b876-5e2e-4f5c-84af-40ea3a406428@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 770ms | pro-ru-213.emrata.top:443
+# RU | 924ms | pro-ru-213.emrata.top:443
 vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=pro-ru-213.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 1608ms | pro-ru-bridge.emrata.top:443
-vless://42c3337e-57f5-48d8-b7ad-46f75f5e7e8a@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 1003ms | 213.219.212.14:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1028ms | 213.219.212.24:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.24:443?type=raw&security=reality&encryption=none&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1091ms | 213.219.212.30:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1131ms | 213.219.212.24:443
+vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1133ms | 213.219.212.14:443
+vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1138ms | 213.219.212.24:443
+vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1143ms | 213.219.212.30:443
+vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1208ms | 213.219.212.14:443
+vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1324ms | 213.219.212.24:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1431ms | 213.219.212.14:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1434ms | 213.219.212.14:443
+vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1439ms | 213.219.212.24:443
+vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.24:443?type=raw&security=reality&encryption=none&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1580ms | pro-ru-213.emrata.top:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=pro-ru-213.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1637ms | 213.219.212.14:443
+vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1797ms | 51.250.104.176:29443
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@51.250.104.176:29443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NGze952SdwNsPo_v2VgZJE9-vuwwj4dn_wTQZtZTThM&security=reality&sid=209f2958ef7626ec&sni=ign.com&type=raw#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA
+# RU | 1882ms | 213.219.212.30:443
+vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1973ms | 213.219.212.14:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.14:443?type=raw&security=reality&encryption=none&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 2317ms | 213.219.212.30:443
+vless://ecedc1d3-6853-4cfd-b65c-1753c9ad57b2@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 2455ms | 51.250.104.176:29446
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@51.250.104.176:29446?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA
+# RU | 7664ms | 51.250.82.165:443
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&fp=edge&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F%2B&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 8075ms | 213.219.212.30:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+# RU | 10396ms | 213.219.212.30:443
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
