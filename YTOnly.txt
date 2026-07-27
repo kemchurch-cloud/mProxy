@@ -1,41 +1,31 @@
-# YTOnly (18)
-# 2026-07-27 17:13:06.743665
+# YTOnly (13)
+# 2026-07-27 17:37:55.021058
 
 
 # ===== Россия =====
-# RU | 432ms | 83.217.223.103:49055
-vless://c37e6820-1abf-44b0-a096-bb243f1ff497@83.217.223.103:49055?type=tcp&encryption=none&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 645ms | 37.9.4.12:443
+# RU | 667ms | 37.9.4.12:443
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&security=reality&sid=2b1fb8ca1ce79287&sni=career.avito.com&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 707ms | 37.9.4.12:443
+# RU | 898ms | 37.9.4.12:443
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&security=reality&sid=2b1fb8ca1ce79287&sni=career.avito.com&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 766ms | 37.9.4.12:443
-vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&security=reality&sid=2b1fb8ca1ce79287&sni=career.avito.com&type=grpc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 767ms | 37.9.4.12:443
+# RU | 969ms | 82.202.159.157:9882
+vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 1020ms | 82.202.159.157:9882
+vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 1303ms | 82.202.159.157:9882
+vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none&fp=random#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 1346ms | 37.9.4.12:443
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&security=reality&sid=2b1fb8ca1ce79287&sni=career.avito.com&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 957ms | 82.202.159.157:9882
-vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 1113ms | 213.219.212.14:443
-vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 1201ms | 84.201.156.151:443
-vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.156.151:443?encryption=none&flow=xtls-rprx-vision&pbk=di2ZUAOzfJD2nDPKdWltqoIDHBJGOFlzJyazMYmTRQE&security=reality&sni=ads.x5.ru&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 1627ms | 213.219.212.14:443
-vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 1765ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram+%40WangCai2&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 1801ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram+%40WangCai2&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 2282ms | 213.219.212.14:443
-vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 4903ms | 51.250.82.165:443
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F&type=raw&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 5219ms | red-fhmq5ehr3ievlnabv8l2.concept7.ru:443
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 5887ms | red-fhmq5ehr3ievlnabv8l2.concept7.ru:443
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 6257ms | red-fhmq5ehr3ievlnabv8l2.concept7.ru:443
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 6493ms | 51.250.82.165:443
+# RU | 1638ms | 51.250.82.165:443
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F&type=raw&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 7757ms | 51.250.82.165:443
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F&type=raw&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 2048ms | 213.219.212.14:443
+vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 2114ms | 37.9.4.12:443
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&security=reality&sid=2b1fb8ca1ce79287&sni=career.avito.com&type=grpc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 2167ms | 213.219.212.14:443
+vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 2768ms | red-fhmq5ehr3ievlnabv8l2.concept7.ru:443
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 3283ms | red-fhmq5ehr3ievlnabv8l2.concept7.ru:443
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 3581ms | 213.219.212.14:443
+vless://9eb316d8-3c0d-4ca0-b67c-875fad6fdbcb@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
