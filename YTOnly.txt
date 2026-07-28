@@ -1,9 +1,17 @@
-# YTOnly (2)
-# 2026-07-28 10:43:49.395259
+# YTOnly (6)
+# 2026-07-28 11:08:22.343354
 
 
 # ===== Россия =====
-# RU | 1134ms | 213.219.212.14:443
+# RU | 684ms | 213.219.212.30:443
+vless://d9e292f3-3c9e-4fea-9961-a0a8ae201eac@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 878ms | 213.219.212.30:443
+vless://138bfe7f-a2c4-443e-befe-6a9d13e1550b@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1121ms | pro-ru-213.emrata.top:443
+vless://d9e292f3-3c9e-4fea-9961-a0a8ae201eac@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=pro-ru-213.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1777ms | 213.219.212.14:443
 vless://7bfbb11d-9210-4954-b388-4af4f8083b44@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 1855ms | 176.123.165.127:12672
-vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@176.123.165.127:12672?type=tcp&security=none&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+# RU | 1896ms | 176.108.252.240:9443
+vless://9c444a99-da61-4d82-939f-c3dd8fb41e9b@176.108.252.240:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&security=reality&sni=www.io.ozone.ru&spx=%2F&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 2109ms | 176.108.252.240:9443
+vless://9c444a99-da61-4d82-939f-c3dd8fb41e9b@176.108.252.240:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&spx=%2F&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
