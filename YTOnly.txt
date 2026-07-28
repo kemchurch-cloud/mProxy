@@ -1,33 +1,29 @@
-# YTOnly (14)
-# 2026-07-29 03:49:50.774325
+# YTOnly (12)
+# 2026-07-29 04:14:46.093702
 
 
 # ===== Россия =====
-# RU | 2456ms | 176.124.222.180:17817
-vless://2ea8103d-a7aa-4e70-b910-e7b124c564d1@176.124.222.180:17817?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=vc6cljum-VhwR0m_PeuMON2IvTqGOHTYE67wuMFg1nc&sid=f5&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 2987ms | ruded2.onlinestreamself.com:443
-vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded2.onlinestreamself.com:443?encryption=none&security=reality&sni=apple.com&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 4231ms | 91.185.83.93:8443
-vless://59900462-606a-450a-a86a-b8feb3f8564e@91.185.83.93:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jtJQ3y3O3NJkZdT4pc7Dmao4O3VlUDUdeqm0sjhuLzk&security=reality&sid=0f4dacf0ffffff&sni=rutube.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 4839ms | 91.185.83.93:8443
-vless://59900462-606a-450a-a86a-b8feb3f8564e@91.185.83.93:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=jtJQ3y3O3NJkZdT4pc7Dmao4O3VlUDUdeqm0sjhuLzk&security=reality&sid=0f4dacf0ffffff&sni=rutube.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 5605ms | ruded1.onlinestreamself.com:443
-vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded1.onlinestreamself.com:443?encryption=none&security=reality&sni=apple.com&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 6138ms | 84.201.153.150:443
-vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.153.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=35UKxOxlMHfHFQ-vBLUgd5IBTSmSMOG9fMtsrNRDDwM&security=reality&sid=def012&sni=ads.x5.ru&spx=%2FgxoaKWnQIwrasdfUvi&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 6706ms | 94.126.206.121:443
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?security=reality&encryption=none&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.singaporeair.com&sid=7a5b89ecdb01f781#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
-# RU | 7308ms | ruded2.onlinestreamself.com:443
-vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded2.onlinestreamself.com:443?encryption=none&security=reality&sni=apple.com&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 7312ms | ruded2.onlinestreamself.com:443
-vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded2.onlinestreamself.com:443?encryption=none&security=reality&sni=apple.com&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 7434ms | 94.126.206.121:443
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=/&type=raw#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
-# RU | 7751ms | 82.202.159.157:9882
-vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none&fp=random#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
-# RU | 8116ms | ruded1.onlinestreamself.com:443
-vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded1.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sni=apple.com&serverName=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 9135ms | 82.202.159.157:9882
-vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&security=reality&sni=amd.com&spx=/&type=raw#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
-# RU | 10265ms | 94.126.206.121:443
+# RU | 2523ms | 94.139.251.191:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.191:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 2714ms | 176.124.222.180:34515
+vless://c576df4e-658d-419c-ac1b-764b0a1f9694@176.124.222.180:34515?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=bBdEeLwLFD6--2VA_YvHtjAhlgwFGFUldMoujeSeynE&sid=04c2&spx=/&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
+# RU | 2773ms | 94.126.206.41:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 3200ms | ruded1.onlinestreamself.com:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded1.onlinestreamself.com:443?&security=reality&flow=xtls-rprx-vision&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&fp=qq&sni=apple.com&type=tcp&headerType=none&host=apple.com&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 3216ms | ruded1.onlinestreamself.com:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded1.onlinestreamself.com:443?encryption=none&security=reality&sni=apple.com&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 4504ms | 176.124.222.180:46163
+vless://714443cb-5216-43ca-8d52-1044e9ad02da@176.124.222.180:46163?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=9wmuhvW_EtLAavWVenCWCefkktqnIriih1uToOp09F0&sid=d6c0&spx=/&type=tcp&headerType=none#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 4600ms | 158.160.223.233:29447
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.223.233:29447?encryption=none&type=tcp&security=reality&sni=www.twitch.tv&flow=xtls-rprx-vision&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&sid=2749d73d715730e1&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20YA
+# RU | 4838ms | 94.126.206.121:443
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=%2F&type=raw&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
+# RU | 5447ms | ruded1.onlinestreamself.com:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded1.onlinestreamself.com:443?encryption=none&security=reality&sni=apple.com&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 5457ms | ruded1.onlinestreamself.com:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded1.onlinestreamself.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sni=apple.com&serverName=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 5959ms | 91.185.83.93:8443
+vless://59900462-606a-450a-a86a-b8feb3f8564e@91.185.83.93:8443?encryption=none&flow=xtls-rprx-vision&pbk=jtJQ3y3O3NJkZdT4pc7Dmao4O3VlUDUdeqm0sjhuLzk&security=reality&sid=0f4dacf0ffffff&sni=rutube.ru&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 7176ms | 91.185.83.93:8443
+vless://59900462-606a-450a-a86a-b8feb3f8564e@91.185.83.93:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jtJQ3y3O3NJkZdT4pc7Dmao4O3VlUDUdeqm0sjhuLzk&security=reality&sid=0f4dacf0ffffff&sni=rutube.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
