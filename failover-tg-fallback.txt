@@ -1,9 +1,5 @@
-# failover-tg-fallback.txt (7 прокси) | 2026-07-28 19:32:53
+# failover-tg-fallback.txt (3 прокси) | 2026-07-28 20:32:54
 
-vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.53:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8864  # ping: 1532ms
-vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@104.21.56.202:8880?encryption=none&security=none&type=ws&host=tiny-feather-4c41.227.workers.dev&path=%2F#4Sarina-8597  # ping: 1626ms
-vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8863  # ping: 1819ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?encryption=none&security=none&type=tcp&headerType=none#4Sarina-9052  # ping: 3178ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D  # ping: 3436ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 5971ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 7738ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 3339ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?encryption=none&security=none&type=tcp&headerType=none#4Sarina-9052  # ping: 3912ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 9103ms
