@@ -1,5 +1,12 @@
-# failover-tg-top10.txt (3 прокси) | 2026-07-29 01:33:11
+# failover-tg-top10.txt (10 прокси) | 2026-07-29 02:33:14
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 3492ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?encryption=none&security=none&type=tcp&headerType=none#4Sarina-9052  # ping: 7553ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D  # ping: 7993ms
+vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.53:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8864  # ping: 3816ms
+vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8863  # ping: 5449ms
+trojan://KV63147582@wondrous-dogfish.rooster465.autos:443?security=tls&sni=wondrous-dogfish.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20trojan-US  # ping: 6165ms
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.6:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=abuse.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#4Sarina-8332  # ping: 7007ms
+vless://3a8aa3ad-d125-4285-8542-3a1832187f5d@188.114.97.6:443?encryption=none&security=tls&sni=alireza10.karamzade546alireza.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=alireza10.karamzade546alireza.workers.dev&path=%2F#4Sarina-8845  # ping: 7081ms
+vless://4834f2fb-0f56-5fe5-37df-2082896b4f75@ezaccess1-x4g-ezaccess1-e6b8.up.railway.app:443?encryption=none&security=tls&sni=ezaccess1-x4g-ezaccess1-e6b8.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ezaccess1-x4g-ezaccess1-e6b8.up.railway.app&path=%2Fws%2F4834f2fb-0f56-5fe5-37df-2082896b4f75#4Sarina-9183  # ping: 7352ms
+vless://2acde116-5949-48d8-a1e6-60a1d2547deb@162.159.46.0:8880?encryption=none&security=none&type=ws&host=lively-pine-093d.144-868.workers.dev&path=%2F#4Sarina-8349  # ping: 7781ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.112.70:22222?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR  # ping: 7829ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@34.132.50.119:443?encryption=none&security=tls&sni=learn00.evany.de5.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US  # ping: 7829ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D  # ping: 7839ms
