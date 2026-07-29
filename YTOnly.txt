@@ -1,19 +1,19 @@
 # YTOnly (7)
-# 2026-07-30 02:19:21.479845
+# 2026-07-30 02:43:44.752639
 
 
 # ===== Россия =====
-# RU | 3063ms | 213.219.212.14:443
-vless://72b9b9bd-8cb9-49ed-bfd4-20fab16829ba@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 3356ms | 213.219.212.14:443
-vless://72b9b9bd-8cb9-49ed-bfd4-20fab16829ba@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 4144ms | 46.8.209.131:8443
-vless://fa9c9f0f-a89c-001c-95d6-a8b47311a6d6@46.8.209.131:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=smartcaptcha.yandexcloud.net&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 5624ms | 213.219.212.14:443
-vless://72b9b9bd-8cb9-49ed-bfd4-20fab16829ba@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 6001ms | 46.8.209.131:8443
+# RU | 1028ms | 46.8.209.131:8443
+vless://fa9c9f0f-a89c-001c-95d6-a8b47311a6d6@46.8.209.131:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=smartcaptcha.yandexcloud.net&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 1245ms | 46.8.209.131:8443
 vless://fa9c9f0f-a89c-001c-95d6-a8b47311a6d6@46.8.209.131:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=smartcaptcha.yandexcloud.net&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 6642ms | 94.126.206.121:443
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=%2F&type=raw&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 6646ms | 94.126.206.121:443
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=%2F&type=raw&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 2584ms | 46.8.209.131:8443
+vless://fa9c9f0f-a89c-001c-95d6-a8b47311a6d6@46.8.209.131:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=smartcaptcha.yandexcloud.net&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 4895ms | 91.243.86.196:443
+vless://34a1ada8-4a1a-434b-8583-7b68668f6e9d@91.243.86.196:443?encryption=none&flow=xtls-rprx-vision&pbk=dRPcJM7ZWihjiGNHuIJ4iaCpLxHAKoo59WE-vsTZASs&security=reality&sid=41f6de54&sni=www.cloudflare.com&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 5357ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?security=reality&encryption=none&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.singaporeair.com&sid=7a5b89ecdb01f781&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 6683ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?security=reality&encryption=none&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.singaporeair.com&sid=7a5b89ecdb01f781&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 7848ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=cs10210.vk.com&spx=%2F&type=raw&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20YA
