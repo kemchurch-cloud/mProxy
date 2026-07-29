@@ -1,33 +1,19 @@
-# YTOnly (14)
-# 2026-07-29 07:32:55.256588
+# YTOnly (7)
+# 2026-07-29 07:58:46.560170
 
 
 # ===== Россия =====
-# RU | 722ms | 82.117.87.248:2096
-vless://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:2096?security=reality&flow=xtls-rprx-vision&type=raw&sni=it-one.quiet-rogue.site&pbk=pWPvxPIVtdzgaL0cdFZ73qn1FihjKDZ7TE55wg57Vl8&sid=9b43ece6010612b0&fp=qq#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D
-# RU | 759ms | 82.117.87.248:8443
-vless://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443?security=reality&flow=xtls-rprx-vision&type=raw&sni=de-two.quiet-rogue.site&pbk=QMJRGTqZRbpeLpIAdvn6dhftuzrpwbtwmVG2s5IuuU0&sid=00a02855ba568c29&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 1202ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram+%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 1244ms | 31.12.75.27:443
-trojan://521314@31.12.75.27:443?security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws&host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 1286ms | 82.117.87.248:8443
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443?sni=de-two.quiet-rogue.site#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-# RU | 1312ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram+%40WangCai2&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 1610ms | 31.12.75.27:443
-trojan://521314@31.12.75.27:443?security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws&host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 1645ms | 84.201.153.150:443
-vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.153.150:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=35UKxOxlMHfHFQ-vBLUgd5IBTSmSMOG9fMtsrNRDDwM&sid=def012&sni=ads.x5.ru&spx=%2FgxoaKWnQIwrasdfUvi&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 1829ms | 31.12.75.27:443
-trojan://521314@31.12.75.27:443?security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws&host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 1945ms | 82.202.159.157:9882
-vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&security=reality&sni=amd.com&spx=%2F&type=raw&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 2273ms | 185.148.106.27:443
-trojan://521314@185.148.106.27:443?security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws&host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 2472ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram+%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 5395ms | 185.148.105.27:443
-trojan://521314@185.148.105.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-# RU | 8131ms | 158.160.223.233:29445
+# RU | 604ms | 84.201.153.150:443
+vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.153.150:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=35UKxOxlMHfHFQ-vBLUgd5IBTSmSMOG9fMtsrNRDDwM&sid=def012&sni=ads.x5.ru&spx=%2FgxoaKWnQIwrasdfUvi&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20YA
+# RU | 661ms | 87.242.85.201:13561
+vless://7a30eabc-aee8-4cd3-833a-5fc13f0015d2@87.242.85.201:13561?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 905ms | 176.123.165.127:57836
+vless://6556ea2e-494c-4c5f-8821-31a6efc2e916@176.123.165.127:57836?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+# RU | 948ms | 82.202.159.157:9882
+vless://884d811f-577b-421e-aabb-608660b0ecfa@82.202.159.157:9882?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&spx=%2F&type=tcp&headerType=none&fp=random#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
+# RU | 1686ms | 158.160.223.233:29445
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.223.233:29445?encryption=none&type=tcp&security=reality&sni=www.twitch.tv&flow=xtls-rprx-vision&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&sid=1297b6f0f6dc88d0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA
+# RU | 3704ms | 158.160.223.233:29446
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.223.233:29446?encryption=none&type=tcp&security=reality&sni=www.twitch.tv&flow=xtls-rprx-vision&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&sid=1297b6f0f6dc88d0&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA
+# RU | 6814ms | 84.201.153.150:443
+vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.153.150:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=35UKxOxlMHfHFQ-vBLUgd5IBTSmSMOG9fMtsrNRDDwM&sid=def012&sni=ads.x5.ru&spx=/gxoaKWnQIwrasdfUvi#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D%20YA
