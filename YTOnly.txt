@@ -1,51 +1,41 @@
-# YTOnly (23)
-# 2026-07-29 15:04:58.350492
+# YTOnly (18)
+# 2026-07-29 15:29:01.138968
 
 
 # ===== Россия =====
-# RU | 701ms | 82.117.87.248:8443
-vless://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=QMJRGTqZRbpeLpIAdvn6dhftuzrpwbtwmVG2s5IuuU0&sid=00a02855ba568c29&sni=de-two.quiet-rogue.site&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 780ms | 213.219.212.14:443
-vless://a3160bea-8479-4eb0-bcb5-a79453a4d0f7@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 843ms | 213.219.212.14:443
-vless://72b9b9bd-8cb9-49ed-bfd4-20fab16829ba@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 896ms | 213.219.212.14:443
-vless://3bb5ed47-99f9-4a13-be10-ac18ab6837bf@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 899ms | 213.219.212.14:443
-vless://2e72e2ca-2113-4775-9259-1ab5f9724d2e@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 989ms | 84.201.153.150:443
-vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.153.150:443?encryption=none&flow=xtls-rprx-vision&pbk=35UKxOxlMHfHFQ-vBLUgd5IBTSmSMOG9fMtsrNRDDwM&security=reality&sid=def012&sni=ads.x5.ru&spx=%2FgxoaKWnQIwrasdfUvi&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 1064ms | 213.219.212.14:443
-vless://72b9b9bd-8cb9-49ed-bfd4-20fab16829ba@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 1702ms | 213.219.212.14:443
-vless://9c271c9f-b895-47e3-8874-cd31f9396ced@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 1850ms | 213.219.212.14:443
-vless://72b9b9bd-8cb9-49ed-bfd4-20fab16829ba@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 1858ms | 213.219.212.14:443
-vless://a3160bea-8479-4eb0-bcb5-a79453a4d0f7@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 2041ms | 213.219.212.14:443
-vless://2e72e2ca-2113-4775-9259-1ab5f9724d2e@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 2495ms | 213.219.212.14:443
+# RU | 732ms | 94.139.251.191:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=safari&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 786ms | 213.219.212.14:443
 vless://9c271c9f-b895-47e3-8874-cd31f9396ced@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 2541ms | 213.219.212.14:443
-vless://a3160bea-8479-4eb0-bcb5-a79453a4d0f7@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 2688ms | 213.219.212.14:443
+# RU | 869ms | 94.139.251.23:443
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.23:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com&serverName=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 921ms | 94.139.251.189:443
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&type=tcp&headerType=none&host=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 1000ms | 213.219.212.14:443
+vless://72b9b9bd-8cb9-49ed-bfd4-20fab16829ba@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1136ms | 213.219.212.14:443
 vless://3bb5ed47-99f9-4a13-be10-ac18ab6837bf@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 2690ms | 213.219.212.14:443
-vless://3bb5ed47-99f9-4a13-be10-ac18ab6837bf@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-# RU | 3021ms | 84.201.153.150:443
-vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.153.150:443?encryption=none&flow=xtls-rprx-vision&pbk=35UKxOxlMHfHFQ-vBLUgd5IBTSmSMOG9fMtsrNRDDwM&security=reality&sid=def012&sni=ads.x5.ru&spx=%2FgxoaKWnQIwrasdfUvi&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 4170ms | 213.219.212.14:443
+# RU | 2092ms | 213.219.212.14:443
+vless://2e72e2ca-2113-4775-9259-1ab5f9724d2e@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 2668ms | 213.219.212.14:443
 vless://9c271c9f-b895-47e3-8874-cd31f9396ced@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-# RU | 8872ms | rude.go-bull.pro:2089
-vless://7f967c17-c037-4a61-b73d-404468e5add8@rude.go-bull.pro:2089?security=reality&encryption=none&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=proshkola.ru&sid=45d6167db76a82c1&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 8892ms | 89.208.230.67:2089
-vless://7f967c17-c037-4a61-b73d-404468e5add8@89.208.230.67:2089?encryption=none&flow=xtls-rprx-vision&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&security=reality&sid=45d6167db76a82c1&sni=proshkola.ru&type=raw&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 8937ms | 89.208.230.67:2089
-vless://7f967c17-c037-4a61-b73d-404468e5add8@89.208.230.67:2089?encryption=none&flow=xtls-rprx-vision&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&security=reality&sid=45d6167db76a82c1&sni=proshkola.ru&type=raw&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 9215ms | rude.go-bull.pro:2089
-vless://7f967c17-c037-4a61-b73d-404468e5add8@rude.go-bull.pro:2089?security=reality&encryption=none&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=proshkola.ru&sid=45d6167db76a82c1&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 10060ms | rude.go-bull.pro:2095
-vless://7f967c17-c037-4a61-b73d-404468e5add8@rude.go-bull.pro:2095?security=reality&encryption=none&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=proshkola.ru&sid=8f2a1c4b9d7e6053&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 10262ms | 89.208.230.67:2095
-vless://7f967c17-c037-4a61-b73d-404468e5add8@89.208.230.67:2095?encryption=none&flow=xtls-rprx-vision&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&security=reality&sid=8f2a1c4b9d7e6053&sni=proshkola.ru&type=raw&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 3428ms | 213.219.212.14:443
+vless://a3160bea-8479-4eb0-bcb5-a79453a4d0f7@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 3495ms | 213.219.212.14:443
+vless://a3160bea-8479-4eb0-bcb5-a79453a4d0f7@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 3620ms | 213.219.212.14:443
+vless://3bb5ed47-99f9-4a13-be10-ac18ab6837bf@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 3981ms | 84.201.153.150:443
+vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.153.150:443?encryption=none&flow=xtls-rprx-vision&pbk=35UKxOxlMHfHFQ-vBLUgd5IBTSmSMOG9fMtsrNRDDwM&security=reality&sid=def012&sni=ads.x5.ru&spx=%2FgxoaKWnQIwrasdfUvi&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
+# RU | 5197ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?security=reality&encryption=none&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.singaporeair.com&sid=7a5b89ecdb01f781&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
+# RU | 5271ms | node-tw0.omhvp.co:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.singaporeair.com&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&type=tcp&headerType=none&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
+# RU | 5464ms | node-tw0.omhvp.co:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cs10210.vk.com&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&spx=%2F&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA
+# RU | 6385ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=/&type=raw#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
+# RU | 7260ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?security=reality&encryption=none&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.singaporeair.com&sid=7a5b89ecdb01f781#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
+# RU | 9194ms | node-tw0.omhvp.co:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?security=reality&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&type=tcp&headerType=none&host=www.singaporeair.com&path=%2F&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA
