@@ -1,12 +1,12 @@
-# failover-tg-top10.txt (10 прокси) | 2026-07-30 18:32:42
+# failover-tg-top10.txt (10 прокси) | 2026-07-30 19:32:39
 
-vless://2b5753cf-4d0a-4746-b63d-cd67a3de2ccc@104.21.89.181:8880?encryption=none&security=none&type=ws&host=crimson-hill-8061.166-dcf.workers.dev&path=%2F#4Sarina-8353  # ping: 1093ms
-vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-rice-3c1c.340-680.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8547  # ping: 1129ms
-vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=%2F#4Sarina-8964  # ping: 1182ms
-vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&security=none&type=ws&host=flat-heart-b60a.401-306.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8660  # ping: 1199ms
-vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@104.16.100.66:8880?encryption=none&security=none&type=ws&host=shrill-cell-cca7.158-6fa.workers.dev&path=%2F#4Sarina-8904  # ping: 1295ms
-vless://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?encryption=none&security=none&type=ws&host=tight-moon-2d50.457.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#4Sarina-8866  # ping: 1507ms
-vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8863  # ping: 2248ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?encryption=none&security=none&type=tcp&headerType=none#4Sarina-9052  # ping: 2916ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 3237ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 5002ms
+vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=%2F#4Sarina-8964  # ping: 1142ms
+vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-rice-3c1c.340-680.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8547  # ping: 1211ms
+vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&security=none&type=ws&host=flat-heart-b60a.401-306.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8660  # ping: 1237ms
+vless://2acde116-5949-48d8-a1e6-60a1d2547deb@162.159.46.0:8880?encryption=none&security=none&type=ws&host=lively-pine-093d.144-868.workers.dev&path=%2F#4Sarina-8349  # ping: 1272ms
+vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?encryption=none&security=none&type=ws&host=icy-glade-ad0f.412.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8545  # ping: 1692ms
+vless://2e9012a2-7f8c-4233-b78b-5228a9a4951b@104.17.26.45:8880?encryption=none&security=none&type=ws&host=icy-breeze-126c.211-eb3.workers.dev&path=%2F#4Sarina-8517  # ping: 1746ms
+vless://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?encryption=none&security=none&type=ws&host=tight-moon-2d50.457.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#4Sarina-8866  # ping: 1758ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D  # ping: 2140ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?encryption=none&security=none&type=tcp&headerType=none#4Sarina-9052  # ping: 2950ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 3099ms
