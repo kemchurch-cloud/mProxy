@@ -1,11 +1,11 @@
-# failover-tg-fallback.txt (9 прокси) | 2026-07-31 09:32:36
+# failover-tg-fallback.txt (9 прокси) | 2026-07-31 10:32:46
 
-vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.53:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8864  # ping: 1906ms
-vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=%2F#4Sarina-8964  # ping: 2292ms
-vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&security=none&type=ws&host=flat-heart-b60a.401-306.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8660  # ping: 2494ms
-vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-rice-3c1c.340-680.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#4Sarina-8547  # ping: 2502ms
-vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?encryption=none&security=tls&sni=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gentle-dream-6aa3.soh8khan13.workers.dev&path=%2F#4Sarina-8863  # ping: 2517ms
-vless://3a8aa3ad-d125-4285-8542-3a1832187f5d@104.25.123.12:443?encryption=none&security=tls&sni=alireza10.karamzade546alireza.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=alireza10.karamzade546alireza.workers.dev&path=%2F#4Sarina-8844  # ping: 2746ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 3105ms
-vless://2e9012a2-7f8c-4233-b78b-5228a9a4951b@104.17.26.45:8880?encryption=none&security=none&type=ws&host=icy-breeze-126c.211-eb3.workers.dev&path=%2F#4Sarina-8517  # ping: 3511ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 4563ms
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?sni=wopa1.api3-max.ru&insecure=0&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D  # ping: 2495ms
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D  # ping: 2656ms
+vless://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=_custom_&fp=firefox&pbk=8wD0IhR27ftD5LyJDq9CaFzi6DgA4vFtB-UP6QIdWVc&sid=e8ca5079a5e91481&type=tcp&headerType=none#PL%20%20%20VLESS-TCP-RLT%20-%20H2nexus%20Ltd%20%20144.31.0.34  # ping: 2714ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D  # ping: 2792ms
+trojan://humanity@208.103.161.159:443?security=tls&sni=www.ignitelimit.com&fp=qq&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D  # ping: 2861ms
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ger.leontunel.ru:443?sni=ger.leontunel.ru&insecure=0&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D  # ping: 2870ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 3539ms
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&type=tcp&headerType=none#MY%20%20%20VLESS-TCP-RLT%20-%20Yandex.Cloud%20LLC%20%2094.126.206.29  # ping: 4840ms
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.204.143:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&type=tcp&headerType=none#RU%20%20%20VLESS-TCP-RLT%20-%20Yandex.Cloud%20LLC%20%2094.126.204.143  # ping: 6541ms
