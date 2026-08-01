@@ -1,31 +1,21 @@
-# YTOnly (13)
-# 2026-08-02 03:13:18.965188
+# YTOnly (8)
+# 2026-08-02 03:38:48.058503
 
 
 # ===== Россия =====
-# RU | 524ms | 5.129.193.179:443
+# RU | 464ms | 5.129.193.179:443
 vless://1efb9322-cb87-4e8e-abc2-7c923894104e@5.129.193.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nrt.sunrocket.org&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 559ms | 94.139.251.19:443
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.browser.yandex.ru&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&type=tcp&headerType=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 594ms | 94.139.251.19:443
+# RU | 610ms | 94.139.251.19:443
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.browser.yandex.ru&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 629ms | 89.23.116.147:443
-vless://1efb9322-cb87-4e8e-abc2-7c923894104e@89.23.116.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nrt.sunrocket.org&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 665ms | rubr7.cheburnetnastalgia1998.com:50053
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr7.cheburnetnastalgia1998.com:50053?encryption=none&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&sid=eb3b7e6bbc66552e&type=grpc&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
-# RU | 730ms | 45.67.215.9:443
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-# RU | 843ms | 176.124.213.24:443
-vless://1efb9322-cb87-4e8e-abc2-7c923894104e@176.124.213.24:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nrt.sunrocket.org&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 1104ms | 89.23.116.147:443
-vless://1efb9322-cb87-4e8e-abc2-7c923894104e@89.23.116.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nrt.sunrocket.org&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&type=tcp&headerType=none&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 2757ms | 176.124.213.24:443
-vless://1efb9322-cb87-4e8e-abc2-7c923894104e@176.124.213.24:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nrt.sunrocket.org&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&type=tcp&headerType=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 4097ms | 176.123.165.127:57836
-vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:57836?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-# RU | 7731ms | 186.246.29.29:443
-vless://1efb9322-cb87-4e8e-abc2-7c923894104e@186.246.29.29:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nrt.sunrocket.org&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 8826ms | 94.126.206.121:443
+# RU | 647ms | 94.139.251.19:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.browser.yandex.ru&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&type=tcp&headerType=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 789ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 924ms | 45.67.215.9:443
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | 2164ms | 176.123.165.127:56745
+vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:56745?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+# RU | 7885ms | 94.126.206.121:443
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.browser.yandex.ru&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 9652ms | 94.126.206.121:443
+# RU | 8054ms | 94.126.206.121:443
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.browser.yandex.ru&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
