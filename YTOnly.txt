@@ -1,11 +1,15 @@
-# YTOnly (3)
-# 2026-08-01 13:27:53.003801
+# YTOnly (5)
+# 2026-08-01 13:52:22.969319
 
 
 # ===== Россия =====
-# RU | 2059ms | 213.219.212.30:443
+# RU | 1194ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=%2F&type=raw&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 3164ms | 213.219.212.14:443
+vless://ec6ec723-6998-4180-8f68-5c11ce288487@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 3202ms | 213.219.212.14:443
+vless://ec6ec723-6998-4180-8f68-5c11ce288487@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=edge#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 4125ms | 213.219.212.30:443
 vless://ec6ec723-6998-4180-8f68-5c11ce288487@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 7812ms | 213.219.212.14:443
-vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 9379ms | 213.219.212.30:443
+# RU | 4458ms | 213.219.212.30:443
 vless://ec6ec723-6998-4180-8f68-5c11ce288487@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=safari#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20%5B%2ACIDR%5D%20VK
