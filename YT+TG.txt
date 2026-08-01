@@ -1,42 +1,51 @@
-# YT+TG (13)
-# 2026-08-01 20:07:42.202216
+# YT+TG (16)
+# 2026-08-01 20:32:44.382641
 
-# RU | YT:1213ms TG:1149ms
+# RU | YT:983ms TG:1570ms
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@9bae1d148edc10e6.apruxdomain.xyz:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:754ms TG:1199ms
-vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@9bae1d148edc10e6.apruxdomain.xyz:80?type=ws&sni=9bae1d148edc10e6.apruxdomain.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-
-# RU | YT:722ms TG:1208ms
+# RU | YT:762ms TG:1153ms
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@9c32fa182e9a7e35.apruxdomain.xyz:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:725ms TG:1315ms
-vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@9c32fa182e9a7e35.apruxdomain.xyz:80?type=ws&sni=9c32fa182e9a7e35.apruxdomain.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | YT:1208ms TG:1136ms
+vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@9bae1d148edc10e6.apruxdomain.xyz:80?type=ws&sni=9bae1d148edc10e6.apruxdomain.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:888ms TG:1200ms
-vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@a612c6f9aee16076.apruxdomain.xyz:80?type=ws&sni=a612c6f9aee16076.apruxdomain.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-
-# RU | YT:2011ms TG:2729ms
+# RU | YT:741ms TG:1244ms
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@a612c6f9aee16076.apruxdomain.xyz:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:1262ms TG:1611ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | YT:861ms TG:1380ms
+vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@9c32fa182e9a7e35.apruxdomain.xyz:80?type=ws&sni=9c32fa182e9a7e35.apruxdomain.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:1242ms TG:1810ms
+# RU | YT:958ms TG:1422ms
+vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@a612c6f9aee16076.apruxdomain.xyz:80?type=ws&sni=a612c6f9aee16076.apruxdomain.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:2213ms TG:2016ms
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@wx-deu-022.cdnphotos.org:443?encryption=none&security=tls&sni=wx-deu-022.cdnphotos.org&alpn=h2&type=xhttp&path=%2Fapi%2Fv1%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22cMaxLifetimeMs%22%3A%22180000-300000%22%2C%22cMaxReuseTimes%22%3A%220%22%7D%7D&allowInsecure=0&insecure=0&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1948ms TG:2627ms
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@wx-deu-022.cdnphotos.org:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2F&host=wx-deu-022.cdnphotos.org&packetEncoding=none&alpn=h2&sni=wx-deu-022.cdnphotos.org&mode=auto&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:2725ms TG:2082ms
+vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@wx-deu-022.cdnphotos.org:443?encryption=none&security=tls&sni=wx-deu-022.cdnphotos.org&alpn=h2&type=xhttp&path=%2Fapi%2Fv1%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22cMaxLifetimeMs%22%3A%22180000-300000%22%2C%22cMaxReuseTimes%22%3A%220%22%7D%7D&allowInsecure=0&insecure=0&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:792ms TG:1643ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:973ms TG:1579ms
+# RU | YT:1929ms TG:7764ms
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.151.62.156:443?encryption=none&mode=gun&pbk=aBs0x09cXtjTpsrGb21cJsEmDsaCaC1RPeutNu404V0&security=reality&serviceName=grpc&sid=6fa13cdb&sni=dogs.abvphelp.cc&type=grpc&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:852ms TG:1577ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:968ms TG:1645ms
+# RU | YT:782ms TG:1453ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:825ms TG:1438ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:998ms TG:1622ms
+# RU | YT:792ms TG:1514ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:793ms TG:1512ms
+# RU | YT:802ms TG:1714ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:1061ms TG:2403ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
