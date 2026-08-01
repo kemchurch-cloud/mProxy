@@ -1,9 +1,19 @@
-# YTOnly (2)
-# 2026-08-01 14:42:25.627841
+# YTOnly (7)
+# 2026-08-01 15:07:21.737117
 
 
 # ===== Россия =====
-# RU | 1720ms | 51.250.3.73:443
+# RU | 947ms | 51.250.3.73:443
+vless://3fffe7ed-7374-57ba-956f-6e930f10f04f@51.250.3.73:443?encryption=none&pbk=QapbUJT61NbhceZHd1X5ylScWQpkHOEkUZ5VG6p53w4&security=reality&sid=ed1fd4c7&sni=ads.x5.ru&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 1400ms | 51.250.3.73:443
 vless://3fffe7ed-7374-57ba-956f-6e930f10f04f@51.250.3.73:443?encryption=none&pbk=QapbUJT61NbhceZHd1X5ylScWQpkHOEkUZ5VG6p53w4&security=reality&sid=ed1fd4c7&sni=ads.x5.ru&type=tcp&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2239ms | 51.250.3.73:443
+# RU | 4529ms | 51.250.3.73:443
+vless://3fffe7ed-7374-57ba-956f-6e930f10f04f@51.250.3.73:443?encryption=none&pbk=QapbUJT61NbhceZHd1X5ylScWQpkHOEkUZ5VG6p53w4&security=reality&sid=ed1fd4c7&sni=ads.x5.ru&type=tcp&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 6066ms | 51.250.3.73:443
 vless://3fffe7ed-7374-57ba-956f-6e930f10f04f@51.250.3.73:443?encryption=none&pbk=QapbUJT61NbhceZHd1X5ylScWQpkHOEkUZ5VG6p53w4&security=reality&sid=ed1fd4c7&sni=ads.x5.ru&type=tcp&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 6618ms | 94.139.251.19:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=%2F&type=raw&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 6769ms | 94.139.251.19:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=%2F&type=raw&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 7327ms | 94.126.206.121:443
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=%2F&type=raw&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D%20YA
