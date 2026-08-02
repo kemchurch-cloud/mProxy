@@ -1,55 +1,9 @@
-# YTOnly (25)
-# 2026-08-02 20:44:43.339167
+# YTOnly (2)
+# 2026-08-02 21:07:36.356805
 
 
 # ===== Россия =====
-# RU | 701ms | 94.139.250.34:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.250.34:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 740ms | 94.126.204.159:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.159:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 760ms | 94.139.250.34:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.250.34:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 846ms | 94.126.206.41:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.41:443?type=raw&security=reality&encryption=none&sni=apple.com&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 879ms | ruded2.onlinestreamself.com:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@ruded2.onlinestreamself.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apple.com&fp=qq&echfq=none&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 1003ms | 94.126.205.65:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.205.65:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=chrome&insecure=0&allowInsecure=0&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 1081ms | ruded3.onlinestreamself.com:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@ruded3.onlinestreamself.com:443?flow=xtls-rprx-vision&fp=ios&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 1095ms | 94.126.206.41:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 1470ms | 94.126.206.29:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 1701ms | ruded3.onlinestreamself.com:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@ruded3.onlinestreamself.com:443?flow=xtls-rprx-vision&fp=ios&headertype=none&host=apple.com&path=%2F&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 1995ms | 94.139.250.35:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.250.35:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2012ms | 94.139.251.191:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&servername=apple.com&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2059ms | 94.139.250.35:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.250.35:443?type=raw&security=reality&encryption=none&sni=apple.com&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2227ms | 94.126.204.159:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.159:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2286ms | 94.126.204.159:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.159:443?security=reality&encryption=none&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2353ms | 94.126.204.159:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.159:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2587ms | ruded3.onlinestreamself.com:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@ruded3.onlinestreamself.com:443?flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 3292ms | 94.126.204.143:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.143:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 3371ms | 94.126.204.143:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.143:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 3466ms | 94.126.205.65:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.205.65:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 3499ms | 94.139.251.23:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.23:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 3532ms | 94.126.206.129:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.129:443?security=reality&encryption=none&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 3691ms | 94.126.206.129:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 5295ms | 94.139.250.34:443
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.250.34:443?type=raw&security=reality&sni=apple.com&fp=qq&flow=xtls-rprx-vision&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 7638ms | 37.18.15.41:443
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
+# RU | 513ms | 87.242.85.201:13561
+vless://943ecfd7-bea6-4520-8898-e1fa536250cc@87.242.85.201:13561?encryption=none&security=none&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 1095ms | 45.67.57.57:28559
+vless://0c7ba501-13f9-453d-a82e-80f70e291fad@45.67.57.57:28559?type=tcp&security=none&encryption=none&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
