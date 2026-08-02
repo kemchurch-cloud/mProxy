@@ -1,48 +1,24 @@
-# YT+TG (15)
-# 2026-08-03 00:02:23.931586
+# YT+TG (7)
+# 2026-08-03 00:27:50.946045
 
-# RU | YT:4124ms TG:3553ms
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@193.233.245.121:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=th2Eu0Zvmu02_hA8MEjlFahwjXl37ck9W1JD7k2BhEg&sid=12334e&type=xhttp&path=%2F&mode=auto&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-
-# RU | YT:3900ms TG:3972ms
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@193.233.245.121:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=th2Eu0Zvmu02_hA8MEjlFahwjXl37ck9W1JD7k2BhEg&sid=12334e&type=xhttp&path=%2F&mode=auto&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-
-# RU | YT:6849ms TG:3560ms
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@rus10.routexvpn.space:443?encryption=none&type=xhttp&mode=auto&security=reality&sni=www.cloudflare.com&pbk=th2Eu0Zvmu02_hA8MEjlFahwjXl37ck9W1JD7k2BhEg&sid=12334e&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:4893ms TG:5572ms
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@193.233.245.121:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=th2Eu0Zvmu02_hA8MEjlFahwjXl37ck9W1JD7k2BhEg&sid=12334e&type=xhttp&path=%2F&mode=auto&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-
-# RU | YT:3426ms TG:7522ms
+# RU | YT:6270ms TG:6508ms
 vless://c46e2605-be24-4555-b7db-0fc6773ad004@rus10.routexvpn.space:443?encryption=none&type=xhttp&mode=auto&security=reality&sni=www.cloudflare.com&pbk=th2Eu0Zvmu02_hA8MEjlFahwjXl37ck9W1JD7k2BhEg&sid=12334e&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:2693ms TG:9581ms
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@rus10.routexvpn.space:443?encryption=none&type=xhttp&mode=auto&security=reality&sni=www.cloudflare.com&pbk=th2Eu0Zvmu02_hA8MEjlFahwjXl37ck9W1JD7k2BhEg&sid=12334e&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:3921ms TG:4401ms
+# RU | YT:4078ms TG:5117ms
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@hentai.colorbox.space:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:8509ms TG:2785ms
+# RU | YT:6093ms TG:4003ms
 vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:1513ms TG:1821ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:855ms TG:1627ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:732ms TG:1690ms
+# RU | YT:848ms TG:1413ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:881ms TG:1594ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | YT:930ms TG:1907ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:792ms TG:1479ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | YT:703ms TG:1893ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:696ms TG:1470ms
+# RU | YT:961ms TG:1518ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-
-# RU | YT:741ms TG:1473ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
