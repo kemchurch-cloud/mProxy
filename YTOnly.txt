@@ -1,11 +1,15 @@
-# YTOnly (3)
-# 2026-08-03 01:17:33.412211
+# YTOnly (5)
+# 2026-08-03 01:42:26.005616
 
 
 # ===== Россия =====
-# RU | 646ms | 176.98.176.110:443
-vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1738ms | 176.98.176.110:443
-vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 4648ms | 176.98.176.110:443
+# RU | 1170ms | 176.98.176.110:443
 vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 1579ms | 176.123.165.127:56745
+vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:56745?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 2835ms | 176.98.176.110:443
+vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 2981ms | 176.98.176.110:443
+vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 3252ms | 176.98.176.110:443
+vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
