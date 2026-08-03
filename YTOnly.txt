@@ -1,13 +1,7 @@
-# YTOnly (4)
-# 2026-08-03 10:29:07.344117
+# YTOnly (1)
+# 2026-08-03 10:53:34.499295
 
 
 # ===== Россия =====
-# RU | 720ms | 94.126.204.159:443
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.204.159:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 1845ms | 213.219.212.30:443
-vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D%20VK
-# RU | 2094ms | 213.219.212.30:443
-vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D%20VK
-# RU | 6935ms | 178.154.192.85:443
-vless://d1e816db-0dc6-4b44-8037-c59700028214@178.154.192.85:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=rbIDMX2v2d2GuriYPOMe6CJBrZ2dLAUm0R4g6-Pm1UA&security=reality&sid=e2cf6fb5137ac98d&sni=m.vk.com&type=raw#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
+# RU | 1287ms | 213.219.212.30:443
+vless://12e05835-011f-4c8b-bc05-1b883f0503f2@213.219.212.30:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=eh.vk.ru#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D%20VK
