@@ -1,33 +1,39 @@
-# YT+TG (10)
-# 2026-08-03 16:43:23.367717
+# YT+TG (12)
+# 2026-08-03 17:08:09.273046
 
-# RU | YT:1428ms TG:1006ms
+# RU | YT:1946ms TG:1342ms
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@hentai.colorbox.space:80?security=none&type=ws&path=%2F&host=hentai.colorbox.space&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:689ms TG:957ms
-vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@hentai.colorbox.space:80?type=ws&sni=hentai.colorbox.space#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-
-# RU | YT:634ms TG:1348ms
+# RU | YT:756ms TG:5099ms
 vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@hentai.colorbox.space:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:1730ms TG:3621ms
-vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:57836?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+# RU | YT:2443ms TG:3702ms
+vless://a95b3155-bc03-4789-b367-944b83be8f86@176.98.178.136:443?security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&sid=4952fc975688bce3&pbk=M0OIVB0y6CXMfNZ16OfHfWrHktWU9yZ0rgQ3a9-_gUY&encryption=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:756ms TG:1308ms
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+# RU | YT:2111ms TG:4228ms
+vless://a95b3155-bc03-4789-b367-944b83be8f86@176.98.178.136:443?security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&sid=4952fc975688bce3&pbk=M0OIVB0y6CXMfNZ16OfHfWrHktWU9yZ0rgQ3a9-_gUY&encryption=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:791ms TG:1533ms
+# RU | YT:2012ms TG:4283ms
+vless://a95b3155-bc03-4789-b367-944b83be8f86@176.98.178.136:443?security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&sid=4952fc975688bce3&pbk=M0OIVB0y6CXMfNZ16OfHfWrHktWU9yZ0rgQ3a9-_gUY&encryption=none&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:2233ms TG:2887ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:979ms TG:1559ms
+# RU | YT:2230ms TG:3066ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:723ms TG:1410ms
+# RU | YT:1365ms TG:3393ms
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:1262ms TG:3348ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:718ms TG:1474ms
+# RU | YT:1608ms TG:3619ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 
-# RU | YT:797ms TG:1462ms
+# RU | YT:1512ms TG:3594ms
 trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+
+# RU | YT:2232ms TG:8109ms
+vless://a95b3155-bc03-4789-b367-944b83be8f86@176.98.178.136:443?security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&sid=4952fc975688bce3&pbk=M0OIVB0y6CXMfNZ16OfHfWrHktWU9yZ0rgQ3a9-_gUY&encryption=none&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
