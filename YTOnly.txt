@@ -1,15 +1,17 @@
-# YTOnly (5)
-# 2026-08-04 16:27:57.082378
+# YTOnly (6)
+# 2026-08-04 16:52:56.246483
 
 
 # ===== Россия =====
-# RU | 1511ms | 178.154.207.56:443
-vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@178.154.207.56:443?encryption=none&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=sun6-21.userapi.com&type=raw&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 1608ms | 178.154.207.56:443
-vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@178.154.207.56:443?encryption=none&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=sun6-21.userapi.com&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 1743ms | 87ti0iiuqc.country-31.de-nfast.com:443
-vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@87ti0iiuqc.country-31.de-nfast.com:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=sun6-21.userapi.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 6330ms | 87ti0iiuqc.country-31.de-nfast.com:443
+# RU | 5603ms | 176.109.94.150:443
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 6795ms | 176.109.94.150:443
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 7045ms | 87ti0iiuqc.country-31.de-nfast.com:443
 vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@87ti0iiuqc.country-31.de-nfast.com:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=sun6-21.userapi.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA
-# RU | 6350ms | 178.154.207.56:443
-vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@178.154.207.56:443?encryption=none&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=sun6-21.userapi.com&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 7908ms | 178.154.207.56:443
+vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@178.154.207.56:443?encryption=none&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=sun6-21.userapi.com&type=raw&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 8293ms | 87ti0iiuqc.country-31.de-nfast.com:443
+vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@87ti0iiuqc.country-31.de-nfast.com:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=sun6-21.userapi.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
+# RU | 9336ms | 87ti0iiuqc.country-31.de-nfast.com:443
+vless://5edc9e88-4f18-402d-99b4-cf8d224ea2de@87ti0iiuqc.country-31.de-nfast.com:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=sun6-21.userapi.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
