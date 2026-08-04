@@ -1,11 +1,9 @@
-# YTOnly (3)
-# 2026-08-04 12:42:49.146724
+# YTOnly (2)
+# 2026-08-04 13:08:00.465159
 
 
 # ===== Россия =====
-# RU | 825ms | 185.192.247.214:777
-vless://83220ad5-a25d-4ea7-9246-fb35be471d12@185.192.247.214:777?mode=gun&security=reality&encryption=none&pbk=NC8AaboeT3ArcV6Y3I0dWwRzY5ldg5a2XcN_-_QgwWo&spx=%2F&type=grpc&sni=yahoo.com&sid=da9590&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 2538ms | 185.192.247.214:777
-vless://83220ad5-a25d-4ea7-9246-fb35be471d12@185.192.247.214:777?mode=gun&security=reality&encryption=none&pbk=NC8AaboeT3ArcV6Y3I0dWwRzY5ldg5a2XcN_-_QgwWo&spx=%2F&type=grpc&sni=yahoo.com&sid=da9590&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 2563ms | 176.109.94.150:443
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 6034ms | 37.18.15.41:443
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
+# RU | 9368ms | 176.109.94.150:443
+vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
