@@ -1,15 +1,11 @@
-# YTOnly (5)
-# 2026-08-04 12:17:53.081067
+# YTOnly (3)
+# 2026-08-04 12:42:49.146724
 
 
 # ===== Россия =====
-# RU | 986ms | 185.192.247.214:777
+# RU | 825ms | 185.192.247.214:777
+vless://83220ad5-a25d-4ea7-9246-fb35be471d12@185.192.247.214:777?mode=gun&security=reality&encryption=none&pbk=NC8AaboeT3ArcV6Y3I0dWwRzY5ldg5a2XcN_-_QgwWo&spx=%2F&type=grpc&sni=yahoo.com&sid=da9590&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 2538ms | 185.192.247.214:777
 vless://83220ad5-a25d-4ea7-9246-fb35be471d12@185.192.247.214:777?mode=gun&security=reality&encryption=none&pbk=NC8AaboeT3ArcV6Y3I0dWwRzY5ldg5a2XcN_-_QgwWo&spx=%2F&type=grpc&sni=yahoo.com&sid=da9590&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 5084ms | 176.109.94.150:443
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 5304ms | 176.109.94.150:443
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 7015ms | 176.109.94.150:443
+# RU | 2563ms | 176.109.94.150:443
 vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 7811ms | 176.109.94.150:443
-vless://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@176.109.94.150:443?encryption=none&flow=xtls-rprx-vision&pbk=SGke3Xg-FLnDu0-T7zXLF7tgqKDMqaPDDxYDUE2uSzc&security=reality&sid=b0c41ea19f63efc4&sni=api.ok.ru&spx=%2F&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
