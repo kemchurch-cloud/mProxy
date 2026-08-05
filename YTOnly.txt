@@ -1,15 +1,13 @@
-# YTOnly (5)
-# 2026-08-05 07:03:27.174464
+# YTOnly (4)
+# 2026-08-05 07:27:48.848478
 
 
 # ===== Россия =====
-# RU | 500ms | 158.160.9.223:443
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
-# RU | 529ms | 158.160.9.223:443
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
-# RU | 542ms | 158.160.9.223:443
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
-# RU | 574ms | 158.160.9.223:443
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
-# RU | 5343ms | 37.139.43.57:443
-vless://ceeba701-bb9f-4f2c-8142-677d27a2acb1@37.139.43.57:443?encryption=none&flow=xtls-rprx-vision&pbk=3v-9P94hjSE1fw6we1J4RvyIYnFhySQUAe1DUKqkaBo&security=reality&sid=7f2e9c4b1a8d6a53&sni=eh.vk.com&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+# RU | 473ms | 109.237.98.150:443
+vless://6eff5ebe-18bc-40fa-b9b1-f37648214309@109.237.98.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&security=reality&sid=0f19f0c8102dc695&sni=d3-ru.cloud-cdn.xyz&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 498ms | 109.237.98.150:443
+vless://6eff5ebe-18bc-40fa-b9b1-f37648214309@109.237.98.150:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=d3-ru.cloud-cdn.xyz&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&sid=0f19f0c8102dc695&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 547ms | b3aa11az-k15gg1.ru.y-tun.com:8443
+vless://8f126e1e-2733-43b2-81ad-1fc66a8a1fb0@b3aa11az-k15gg1.ru.y-tun.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20YA
+# RU | 932ms | 62.152.56.73:443
+vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
