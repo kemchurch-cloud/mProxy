@@ -1,36 +1,27 @@
-# YT+TG (11)
-# 2026-08-05 11:12:29.666802
+# YT+TG (8)
+# 2026-08-05 11:37:39.700256
 
-# RU | YT:1011ms TG:1291ms
+# RU | YT:1017ms TG:1300ms
 vless://c1428642-8cf6-4fce-b97a-dee5d95f0e84@51.250.101.16:443?encryption=none&flow=xtls-rprx-vision&pbk=KQwnDPI_7rJnJvmjaEg0NCFuNWnSRQ8SBHJB8iFun2A&security=reality&sid=3fe939c78d2c1c7a&sni=y-12.rita-cloud.com&type=raw&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
 
-# RU | YT:1046ms TG:1308ms
+# RU | YT:1293ms TG:1272ms
 vless://c1428642-8cf6-4fce-b97a-dee5d95f0e84@51.250.101.16:443?encryption=none&flow=xtls-rprx-vision&pbk=KQwnDPI_7rJnJvmjaEg0NCFuNWnSRQ8SBHJB8iFun2A&security=reality&sid=3fe939c78d2c1c7a&sni=y-12.rita-cloud.com&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
 
-# RU | YT:828ms TG:3026ms
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:2198ms TG:3589ms
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1724ms TG:2373ms
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1752ms TG:2404ms
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-
-# RU | YT:2581ms TG:3187ms
+# RU | YT:6028ms TG:2678ms
 vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:2839ms TG:4708ms
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
-
-# RU | YT:5160ms TG:3869ms
+# RU | YT:9968ms TG:9932ms
 vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:4391ms TG:1196ms
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | YT:2753ms TG:3635ms
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:8382ms TG:1212ms
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | YT:1475ms TG:7369ms
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:835ms TG:1740ms
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:758ms TG:1568ms
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
