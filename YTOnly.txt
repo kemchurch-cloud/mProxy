@@ -1,19 +1,15 @@
-# YTOnly (7)
-# 2026-08-06 05:07:15.082849
+# YTOnly (5)
+# 2026-08-06 05:32:09.120401
 
 
 # ===== Россия =====
-# RU | 456ms | 85.209.135.10:443
-vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 490ms | 85.209.135.10:443
-vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 533ms | 85.209.135.10:443
+# RU | 499ms | 85.209.135.10:443
 vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 574ms | 85.209.135.10:443
+# RU | 534ms | 85.209.135.10:443
+vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 538ms | 85.209.135.10:443
 vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 596ms | 85.209.135.10:443
+# RU | 635ms | 85.209.135.10:443
 vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 816ms | 176.123.165.103:9895
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 1553ms | 37.9.4.137:443
-vless://25284d30-b4e6-4f86-b214-a78d4365ed05@37.9.4.137:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DCnvRXkB1qwzIypOgce-l4qtgcx9HgYP84QmFjPjBQ4&sid=8cc57f803665&sni=ya.ru&spx=%2F&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D
+# RU | 736ms | 85.209.135.10:443
+vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
