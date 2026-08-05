@@ -1,45 +1,39 @@
-# YT+TG (14)
-# 2026-08-05 09:57:47.657097
+# YT+TG (12)
+# 2026-08-05 10:22:47.814835
 
-# RU | YT:609ms TG:1485ms
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:655ms TG:3555ms
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:938ms TG:1603ms
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1068ms TG:1730ms
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:5173ms TG:4914ms
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
-
-# RU | YT:906ms TG:1369ms
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-
-# RU | YT:757ms TG:1288ms
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-
-# RU | YT:808ms TG:1414ms
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-
-# RU | YT:7833ms TG:3141ms
+# RU | YT:6172ms TG:3682ms
 vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:794ms TG:1214ms
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:867ms TG:1308ms
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:7021ms TG:3296ms
+# RU | YT:7182ms TG:3134ms
 vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:8744ms TG:5245ms
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
+# RU | YT:6466ms TG:5909ms
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:7443ms TG:6256ms
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&mode=auto&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
+# RU | YT:1420ms TG:3792ms
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1608ms TG:9140ms
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@176.109.88.214:443?encryption=none&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=b0c58c398abb6842&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1245ms TG:1726ms
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1717ms TG:1890ms
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:714ms TG:1215ms
+vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:810ms TG:1249ms
+vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:742ms TG:1298ms
+vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:762ms TG:1240ms
+vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:854ms TG:1279ms
+vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 
