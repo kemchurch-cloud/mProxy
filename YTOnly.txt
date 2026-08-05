@@ -1,13 +1,13 @@
 # YTOnly (4)
-# 2026-08-05 07:27:48.848478
+# 2026-08-05 07:52:48.647289
 
 
 # ===== Россия =====
-# RU | 473ms | 109.237.98.150:443
-vless://6eff5ebe-18bc-40fa-b9b1-f37648214309@109.237.98.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&security=reality&sid=0f19f0c8102dc695&sni=d3-ru.cloud-cdn.xyz&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 498ms | 109.237.98.150:443
+# RU | 478ms | 109.237.98.150:443
 vless://6eff5ebe-18bc-40fa-b9b1-f37648214309@109.237.98.150:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=d3-ru.cloud-cdn.xyz&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&sid=0f19f0c8102dc695&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 547ms | b3aa11az-k15gg1.ru.y-tun.com:8443
-vless://8f126e1e-2733-43b2-81ad-1fc66a8a1fb0@b3aa11az-k15gg1.ru.y-tun.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20YA
-# RU | 932ms | 62.152.56.73:443
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | 504ms | 109.237.98.150:443
+vless://6eff5ebe-18bc-40fa-b9b1-f37648214309@109.237.98.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&security=reality&sid=0f19f0c8102dc695&sni=d3-ru.cloud-cdn.xyz&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 526ms | 212.41.8.108:40443
+vless://ed2c5f6c-8383-4f7a-a231-c28916489f76@212.41.8.108:40443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=mN3HPTLNAfHMSD6fhEk72KGOpsXhIwHg9ECyag0-iyk&sid=a1b1c5d5#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
+# RU | 864ms | 37.9.4.224:443
+vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
