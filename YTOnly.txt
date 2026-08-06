@@ -1,31 +1,19 @@
-# YTOnly (13)
-# 2026-08-06 18:53:54.847947
+# YTOnly (7)
+# 2026-08-06 19:18:40.582846
 
 
 # ===== Россия =====
-# RU | 668ms | 94.139.250.35:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.250.35:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 743ms | 94.139.251.189:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.189:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sni=apple.com&serverName=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 751ms | 94.139.250.34:443
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.250.34:443?type=raw&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 755ms | 94.126.206.41:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.41:443?type=raw&security=reality&encryption=none&sni=apple.com&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 772ms | 94.139.250.36:443
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.250.36:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 793ms | 94.126.206.129:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.129:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 813ms | 94.126.205.65:443
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.205.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 826ms | 94.126.206.29:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.29:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 853ms | 94.126.206.29:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.29:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 887ms | 94.139.251.189:443
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.251.189:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 923ms | 94.139.250.34:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.250.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 945ms | 94.139.250.34:443
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.250.34:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-# RU | 2918ms | 94.139.251.189:443
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.189:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 701ms | 94.139.251.189:443
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.251.189:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sni=apple.com&serverName=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 768ms | 94.139.251.189:443
+vless://435d616b-f0e6-489d-a70d-bdde70750b43@94.139.251.189:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 789ms | 94.139.250.36:443
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.250.36:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 1410ms | 94.139.250.34:443
+vless://07b2251d-ece9-42c3-a72f-d4fa5cc5ed79@94.139.250.34:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 1427ms | 94.139.251.189:443
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.251.189:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&insecure=1&sni=apple.com&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sid=#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 2563ms | 94.126.205.65:443
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.205.65:443?security=reality&encryption=none&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | 3324ms | 46.243.232.12:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&sni=storage.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
