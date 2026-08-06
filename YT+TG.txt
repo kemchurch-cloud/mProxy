@@ -1,39 +1,36 @@
-# YT+TG (12)
-# 2026-08-06 13:27:22.251418
+# YT+TG (11)
+# 2026-08-06 13:52:25.228955
 
-# RU | YT:1080ms TG:1365ms
-vless://b28e3400-f466-4e65-8586-1091b5e3456f@188.68.218.120:443?encryption=none&fp=firefox&mode=gun&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&security=reality&sni=ads.x5.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
-
-# RU | YT:836ms TG:2179ms
-vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
-
-# RU | YT:1181ms TG:3194ms
-vless://b28e3400-f466-4e65-8586-1091b5e3456f@5.188.115.159:8446?encryption=none&fp=firefox&mode=gun&pbk=rUCHk3_64Wv_f_v46OfVNYldKu9fUqHpX937bmGeeDs&security=reality&sni=360.yandex.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
-
-# RU | YT:937ms TG:4228ms
+# RU | YT:646ms TG:1374ms
 vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
 
-# RU | YT:775ms TG:4390ms
-vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
+# RU | YT:1750ms TG:4544ms
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&sni=storage.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:712ms TG:5447ms
+# RU | YT:1251ms TG:1415ms
+vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
+
+# RU | YT:1073ms TG:1515ms
 vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
 
-# RU | YT:683ms TG:2575ms
-vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | YT:1279ms TG:1504ms
+vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
 
-# RU | YT:853ms TG:1307ms
-vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-
-# RU | YT:954ms TG:4075ms
-vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-
-# RU | YT:859ms TG:6568ms
-vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-
-# RU | YT:744ms TG:10667ms
+# RU | YT:2207ms TG:1168ms
 vless://aa8b4a23-655f-0001-aef6-27b0c45e7877@46.8.210.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&security=reality&sid=0f4daaf87f9dff&sni=smartcaptcha.yandexcloud.net&type=raw#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:3657ms TG:6426ms
-vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | YT:725ms TG:1283ms
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:677ms TG:1229ms
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:692ms TG:1327ms
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:658ms TG:1399ms
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:3763ms TG:7617ms
+vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=ads.x5.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 

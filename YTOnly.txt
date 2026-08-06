@@ -1,29 +1,29 @@
 # YTOnly (12)
-# 2026-08-06 13:27:22.255422
+# 2026-08-06 13:52:25.228955
 
 
 # ===== Россия =====
-# RU | 666ms | 31.200.250.162:443
-vless://bed8856b-3b0e-4c4c-8fe0-25b7824a88b2@31.200.250.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&security=reality&sid=e8c3ff51&sni=api.max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 721ms | 31.200.250.162:443
-vless://bed8856b-3b0e-4c4c-8fe0-25b7824a88b2@31.200.250.162:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&security=reality&sid=e8c3ff51&sni=api.max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1063ms | 91.185.83.70:443
-vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 1328ms | 104.171.133.18:443
+# RU | 976ms | 104.171.133.18:443
 vless://bff1f3ee-aff7-480a-a968-d3511d9a33cb@104.171.133.18:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=yFdgeRvZ7pYNp7C5v3sOq1x3gwHxWYem62W2tB9RJ0k&security=reality&sni=max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1358ms | 104.171.133.18:443
+# RU | 1002ms | 104.171.133.18:443
 vless://bff1f3ee-aff7-480a-a968-d3511d9a33cb@104.171.133.18:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yFdgeRvZ7pYNp7C5v3sOq1x3gwHxWYem62W2tB9RJ0k&security=reality&sni=max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1585ms | 194.55.239.14:9442
-vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@194.55.239.14:9442?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4T_g0pGf0GLsp9y7xfFGY8Iy-TGH-gcsCAHwkOPPhG0&security=reality&sid=4321916c00ee1ca6&sni=ads.x5.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-# RU | 2855ms | 91.185.83.70:443
+# RU | 1409ms | 31.200.250.162:443
+vless://bed8856b-3b0e-4c4c-8fe0-25b7824a88b2@31.200.250.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&security=reality&sid=e8c3ff51&sni=api.max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 1823ms | 188.225.33.206:8443
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 2082ms | 31.200.250.162:443
+vless://bed8856b-3b0e-4c4c-8fe0-25b7824a88b2@31.200.250.162:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&security=reality&sid=e8c3ff51&sni=api.max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 2986ms | 91.185.83.70:443
 vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=ads.x5.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 3695ms | 91.185.83.70:443
-vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=ads.x5.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 4195ms | 46.243.232.12:2027
+# RU | 3411ms | 46.243.232.12:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
+# RU | 3566ms | 46.243.232.12:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
-# RU | 4406ms | 91.185.83.70:443
+# RU | 3918ms | 91.185.83.70:443
+vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 5541ms | 194.55.239.14:9442
+vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@194.55.239.14:9442?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4T_g0pGf0GLsp9y7xfFGY8Iy-TGH-gcsCAHwkOPPhG0&security=reality&sid=4321916c00ee1ca6&sni=ads.x5.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+# RU | 9032ms | 91.185.83.70:443
 vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=ads.x5.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 6170ms | 46.8.158.22:443
-vless://89755337-8050-401c-86d1-c8c34fb88d89@46.8.158.22:443?security=reality&encryption=none&pbk=wdWQNp1lnaFZ3L_r9hRK5vpVgv9M7UBb5JZuYPcWDAE&headerType=none&spx=%2F&type=tcp&sni=www.icloud.com&sid=e96bc8c85c3836&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 9457ms | 91.185.83.70:443
-vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 9141ms | 91.185.83.70:443
+vless://e9177091-3ec0-4b7e-8b63-b5ad7e06edfb@91.185.83.70:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
