@@ -1,12 +1,30 @@
-# YT+TG (3)
-# 2026-08-07 11:08:14.164263
+# YT+TG (9)
+# 2026-08-07 11:33:05.924823
 
-# RU | YT:697ms TG:1338ms
-vless://6c76b874-2273-56cf-8ba2-1b387e85af7c@84.201.165.239:443?encryption=none&flow=xtls-rprx-vision&pbk=nP_8HCJb-7_QaRP8MM_Gn4DFvukednJ2xSkmRAW1EAo&security=reality&sni=api-maps.yandex.ru&spx=%2F&type=raw&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-
-# RU | YT:1026ms TG:7089ms
+# RU | YT:1034ms TG:2299ms
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.wikipedia.org&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:1552ms TG:8184ms
+# RU | YT:1266ms TG:2938ms
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&sni=www.wikipedia.org&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=%2F&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:976ms TG:1551ms
+vless://6c76b874-2273-56cf-8ba2-1b387e85af7c@84.201.165.239:443?encryption=none&flow=xtls-rprx-vision&pbk=nP_8HCJb-7_QaRP8MM_Gn4DFvukednJ2xSkmRAW1EAo&security=reality&sni=api-maps.yandex.ru&spx=%2F&type=raw&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
+
+# RU | YT:1015ms TG:1625ms
+vless://bfa91d79-049c-41e1-be94-029397377150@176.123.165.127:56745?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
+
+# RU | YT:1015ms TG:5023ms
+vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.79:6443?encryption=none&security=reality&sni=avatars.mds.yandex.net&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba&type=xhttp&path=%2F&extra=null&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+
+# RU | YT:1547ms TG:7743ms
+vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.76:8443?encryption=none&mode=gun&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&security=reality&serviceName=grpc-yandex&sid=844352756c1fabba&sni=ads.x5.ru&type=grpc&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+
+# RU | YT:1275ms TG:4565ms
+vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.82:8443?encryption=none&mode=gun&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&security=reality&serviceName=grpc-yandex&sid=844352756c1fabba&sni=ads.x5.ru&type=grpc&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+
+# RU | YT:9175ms TG:6597ms
+hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.250.230:8443?sni=quic.tyr-agentstvo.tech&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20Beeline
+
+# RU | YT:9168ms TG:7783ms
+hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.250.230:8443?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20Beeline
 
