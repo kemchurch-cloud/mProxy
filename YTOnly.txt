@@ -1,23 +1,11 @@
-# YTOnly (9)
-# 2026-08-08 00:28:20.369086
+# YTOnly (3)
+# 2026-08-08 00:52:24.809535
 
 
 # ===== Россия =====
-# RU | 547ms | 157.22.193.73:443
-vless://1bced29a-3051-42b8-b393-005135b97616@157.22.193.73:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=larkix.pulsio.cfd&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 562ms | 157.22.193.73:443
-vless://1bced29a-3051-42b8-b393-005135b97616@157.22.193.73:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=larkix.pulsio.cfd&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 584ms | 157.22.193.73:443
-vless://1bced29a-3051-42b8-b393-005135b97616@157.22.193.73:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=larkix.pulsio.cfd&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 1950ms | 157.22.193.73:443
-vless://1bced29a-3051-42b8-b393-005135b97616@157.22.193.73:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=larkix.pulsio.cfd&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 1975ms | 37.252.17.192:8449
-vless://6d94a071-8084-413f-8317-bc9c7dbcbaf5@37.252.17.192:8449?encryption=none&flow=xtls-rprx-vision&pbk=GRsIfBNDoa_oKblyBwY5BDIjirktnzYFUL1_F9KaQVo&security=reality&sid=15154145b2244829&sni=www.rumedia-cdn.com&type=raw&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 2154ms | 37.252.17.192:8449
+# RU | 3688ms | 176.123.165.127:56745
+vless://bfa91d79-049c-41e1-be94-029397377150@176.123.165.127:56745?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 7328ms | 37.252.17.192:8449
 vless://6d94a071-8084-413f-8317-bc9c7dbcbaf5@37.252.17.192:8449?encryption=none&flow=xtls-rprx-vision&pbk=GRsIfBNDoa_oKblyBwY5BDIjirktnzYFUL1_F9KaQVo&security=reality&sid=15154145b2244829&sni=www.rumedia-cdn.com&type=raw&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 3590ms | 37.252.17.192:8449
-vless://6d94a071-8084-413f-8317-bc9c7dbcbaf5@37.252.17.192:8449?encryption=none&flow=xtls-rprx-vision&pbk=GRsIfBNDoa_oKblyBwY5BDIjirktnzYFUL1_F9KaQVo&security=reality&sid=15154145b2244829&sni=www.rumedia-cdn.com&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 3726ms | 37.252.17.192:8449
-vless://6d94a071-8084-413f-8317-bc9c7dbcbaf5@37.252.17.192:8449?encryption=none&flow=xtls-rprx-vision&pbk=GRsIfBNDoa_oKblyBwY5BDIjirktnzYFUL1_F9KaQVo&security=reality&sid=15154145b2244829&sni=www.rumedia-cdn.com&type=raw&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 5649ms | 37.77.106.249:443
-vless://23e18cb4-9db3-4eb1-93d3-26c62095159d@37.77.106.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mail.ru&pbk=xSvlclDt9Oz7WKqoCCyuT3mEGnLwyp5ciOUClsZADH8&sid=d4331052&spx=%2F&type=tcp&headerType=none&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 9674ms | 37.252.17.192:8449
+vless://6d94a071-8084-413f-8317-bc9c7dbcbaf5@37.252.17.192:8449?encryption=none&flow=xtls-rprx-vision&pbk=GRsIfBNDoa_oKblyBwY5BDIjirktnzYFUL1_F9KaQVo&security=reality&sid=15154145b2244829&sni=www.rumedia-cdn.com&type=raw&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
