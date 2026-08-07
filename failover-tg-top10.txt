@@ -1,12 +1,12 @@
-# failover-tg-top10.txt (10 прокси) | 2026-08-08 00:34:39
+# failover-tg-top10.txt (10 прокси) | 2026-08-08 01:34:40
 
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.205.243:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10266  # ping: 885ms
-vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mold.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%A9%20MD-12  # ping: 2242ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.222.167:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10258  # ping: 3426ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.99:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-81  # ping: 3462ms
-vless://ed2f2ae0-b897-45fe-9807-acabcff4371a@37.156.47.242:8080?encryption=none&security=reality&sni=mbp.yimg.com&fp=chrome&pbk=MYlH37mavAUEvPJJFGgdLvAytETP0CuXq0_iO7WNO1U&sid=b292f6488eae95ae&spx=%2Fa80bc758af3f28f&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-949  # ping: 4809ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.150:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-87  # ping: 5130ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.5:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-88  # ping: 5411ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.174.125:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10254  # ping: 5444ms
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Draper%20%7C%20%5BBL%5D  # ping: 5984ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.172.26:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10270  # ping: 6306ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.222.167:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10258  # ping: 2029ms
+vless://ed2f2ae0-b897-45fe-9807-acabcff4371a@37.156.47.242:8080?encryption=none&security=reality&sni=mbp.yimg.com&fp=chrome&pbk=MYlH37mavAUEvPJJFGgdLvAytETP0CuXq0_iO7WNO1U&sid=b292f6488eae95ae&spx=%2Fa80bc758af3f28f&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-949  # ping: 4253ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.5:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-88  # ping: 4430ms
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-2141  # ping: 4533ms
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Draper%20%7C%20%5BBL%5D  # ping: 4940ms
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG%20%20%23%20ping%3A%202631ms  # ping: 5468ms
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-FR%20%20%23%20ping%3A%202588ms  # ping: 5468ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-84  # ping: 5850ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.172.26:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10270  # ping: 6102ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.174.125:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10254  # ping: 6783ms
