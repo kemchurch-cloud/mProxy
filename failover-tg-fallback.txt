@@ -1,10 +1,10 @@
-# failover-tg-fallback.txt (8 прокси) | 2026-08-09 01:34:40
+# failover-tg-fallback.txt (8 прокси) | 2026-08-09 02:34:41
 
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xby.mangshe.xyz:2056?sni=mg2.mangshe.xyz&insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D%20%20%23%20ping%3A%202203ms  # ping: 6156ms
-trojan://ND91608427@careful-tadpole.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-FR%20%20%23%20ping%3A%201766ms  # ping: 6439ms
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 7182ms
-trojan://ND91608427@43.207.155.134:443?security=tls&sni=smart-pup.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 7184ms
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 7184ms
-trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-KR  # ping: 7186ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 7673ms
-trojan://ND91608427@18.179.31.199:443?security=tls&sni=prompt-duckling.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 9285ms
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp3.mangshe.xyz:2060?sni=xjp3.mangshe.xyz&insecure=1&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D%20%20%23%20ping%3A%203495ms  # ping: 6050ms
+trojan://ND91608427@careful-tadpole.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-FR%20%20%23%20ping%3A%201766ms  # ping: 6400ms
+trojan://ND91608427@43.207.155.134:443?security=tls&sni=smart-pup.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 8742ms
+trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 8744ms
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-KR  # ping: 8746ms
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 8746ms
+trojan://ND91608427@18.179.31.199:443?security=tls&sni=prompt-duckling.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 8748ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 9159ms
