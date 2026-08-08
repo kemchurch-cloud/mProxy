@@ -1,15 +1,13 @@
-# YTOnly (5)
-# 2026-08-09 02:18:18.922733
+# YTOnly (4)
+# 2026-08-09 02:43:39.195943
 
 
 # ===== Россия =====
-# RU | 1405ms | 81.94.148.119:43000
-vless://25d25f21-7a9e-426f-8c14-0c06782585ff@81.94.148.119:43000?encryption=none&flow=xtls-rprx-vision&pbk=CH7SpnfklhoBKYhez8VhcLzr9wzFkvbKAThOU_3y9lE&security=reality&sid=7523ef69&sni=iv.kommersant.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 1407ms | 81.94.148.119:43000
+# RU | 1847ms | 82.117.87.119:443
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@82.117.87.119:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=UvJqmTGvadeK94_38ncycxTRqU4lmsjhDjJBuL0CQSA&sid=c71af684feb2fef4&sni=nl-one.quiet-rogue.site&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 2609ms | 37.252.17.192:8448
+vless://0c95558f-3771-4f9d-bf65-4434262cce82@37.252.17.192:8448?encryption=none&flow=xtls-rprx-vision&pbk=irO6YqLiim7GfFqMXpWv1dNeahEq7mHN4qx0zswPDAo&security=reality&sid=29e52be4beb63ec3&sni=www.rumedia-cdn.com&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+# RU | 10646ms | 81.94.148.119:43000
 vless://25d25f21-7a9e-426f-8c14-0c06782585ff@81.94.148.119:43000?encryption=none&flow=xtls-rprx-vision&pbk=CH7SpnfklhoBKYhez8VhcLzr9wzFkvbKAThOU_3y9lE&security=reality&sid=7523ef69&sni=iv.kommersant.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 2292ms | 79.174.92.254:443
-vless://70a3501a-93a5-41ad-82a0-46631cdd5856@79.174.92.254:443?encryption=none&flow=xtls-rprx-vision&pbk=hlJpjNVBd0c3DP2ngqXoaKtgw-0p5PKj5eF9mO_Od3I&security=reality&sid=45ba91f179ad1f26&sni=api-maps.yandex.ru&type=raw&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-# RU | 4953ms | 185.119.59.107:443
-vless://1bced29a-3051-42b8-b393-005135b97616@185.119.59.107:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=stratix.orbvia.online&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 4957ms | 185.119.59.107:443
-vless://1bced29a-3051-42b8-b393-005135b97616@185.119.59.107:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=stratix.orbvia.online&type=raw&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 10783ms | 81.94.148.119:43000
+vless://25d25f21-7a9e-426f-8c14-0c06782585ff@81.94.148.119:43000?encryption=none&flow=xtls-rprx-vision&pbk=CH7SpnfklhoBKYhez8VhcLzr9wzFkvbKAThOU_3y9lE&security=reality&sid=7523ef69&sni=iv.kommersant.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
