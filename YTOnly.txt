@@ -1,31 +1,25 @@
-# YTOnly (13)
-# 2026-08-10 22:02:24.753513
+# YTOnly (10)
+# 2026-08-10 22:27:09.555133
 
 
 # ===== Россия =====
-# RU | 491ms | 81.94.148.119:65056
-vless://e6601d79-8a5f-46f9-a610-534a2703e1ce@81.94.148.119:65056?encryption=none&flow=xtls-rprx-vision&pbk=K6K0OS6d6Pg_GK3DwIOwjnXOdTVAyn7uEWeSUYECBhM&security=reality&sid=d853dc58&sni=iv.kommersant.ru&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 540ms | 81.94.148.119:65056
-vless://e6601d79-8a5f-46f9-a610-534a2703e1ce@81.94.148.119:65056?encryption=none&flow=xtls-rprx-vision&pbk=K6K0OS6d6Pg_GK3DwIOwjnXOdTVAyn7uEWeSUYECBhM&security=reality&sid=d853dc58&sni=iv.kommersant.ru&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 570ms | 217.16.30.58:443
-vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 605ms | 217.16.30.58:443
-vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 612ms | 217.16.30.58:443
-vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 666ms | 217.16.30.58:443
-vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 937ms | 188.225.72.231:443
-vless://1bced29a-3051-42b8-b393-005135b97616@188.225.72.231:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=stratix.orbvia.online&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 1981ms | 188.225.72.231:443
-vless://1bced29a-3051-42b8-b393-005135b97616@188.225.72.231:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=stratix.orbvia.online&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 4670ms | 83.217.223.122:443
+# RU | 456ms | 83.217.223.122:443
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 4776ms | 83.217.223.122:443
-vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 5212ms | 81.94.148.119:65056
-vless://e6601d79-8a5f-46f9-a610-534a2703e1ce@81.94.148.119:65056?encryption=none&flow=xtls-rprx-vision&pbk=K6K0OS6d6Pg_GK3DwIOwjnXOdTVAyn7uEWeSUYECBhM&security=reality&sid=d853dc58&sni=iv.kommersant.ru&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20CDN
-# RU | 5266ms | 83.217.223.122:443
+# RU | 580ms | 83.217.223.122:443
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 5364ms | 83.217.223.122:443
+# RU | 609ms | 83.217.223.122:443
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 621ms | 83.217.223.122:443
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 670ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 830ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 838ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 1906ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 4374ms | 188.225.72.231:443
+vless://1bced29a-3051-42b8-b393-005135b97616@188.225.72.231:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=stratix.orbvia.online&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 4587ms | 188.225.72.231:443
+vless://1bced29a-3051-42b8-b393-005135b97616@188.225.72.231:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=stratix.orbvia.online&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
