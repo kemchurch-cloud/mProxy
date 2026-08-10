@@ -1,18 +1,21 @@
-# YT+TG (5)
-# 2026-08-10 17:53:29.551518
+# YT+TG (6)
+# 2026-08-10 18:18:59.688439
 
-# RU | YT:3976ms TG:9883ms
+# RU | YT:2262ms TG:3508ms
+vless://1995a4e0-fd85-4de2-94f1-f86829e44308@91.194.213.187:443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=fi.sellflow.org&type=tcp&headerType=none&host=fi.sellflow.org&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:802ms TG:10401ms
 vless://38bf23b6-251a-43aa-895d-3928dc6fc953@91.194.213.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=raw#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:7162ms TG:10000ms
+# RU | YT:4442ms TG:7317ms
 vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&security=reality&sid=12b9ecabbf3a3b88&sni=max.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 
-# RU | YT:971ms TG:2299ms
-vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.14.31:443?security=reality&encryption=none&pbk=dqNf0WzsieOO2lPrm_clopblTaFeX9xHNwWsaUY9CC0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bestrecipes-online.site&sid=ec35d84c1661b372#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | YT:944ms TG:2108ms
+vless://b90d6e73-ade0-41e7-8c48-bc29401a2174@193.233.255.7:443?security=reality&type=tcp&sni=de.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%5B%2ACIDR%5D
 
-# RU | YT:1118ms TG:1900ms
-vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.14.31:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=bestrecipes-online.site&fp=qq&pbk=dqNf0WzsieOO2lPrm_clopblTaFeX9xHNwWsaUY9CC0&sid=ec35d84c1661b372#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | YT:5551ms TG:1416ms
+vless://e6601d79-8a5f-46f9-a610-534a2703e1ce@81.94.148.119:65056?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K6K0OS6d6Pg_GK3DwIOwjnXOdTVAyn7uEWeSUYECBhM&security=reality&sid=d853dc58&sni=iv.kommersant.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:936ms TG:2193ms
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.25:443?encryption=none&security=reality&type=tcp&sni=abuse.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
+# RU | YT:3316ms TG:6654ms
+vless://50e636af-b554-4526-94ad-d0f4b34adecc@193.233.255.25:443?security=reality&type=tcp&sni=at.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%5B%2ACIDR%5D
 
