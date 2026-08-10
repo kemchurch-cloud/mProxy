@@ -1,17 +1,31 @@
-# YTOnly (6)
-# 2026-08-10 21:12:54.552514
+# YTOnly (13)
+# 2026-08-10 21:37:55.731785
 
 
 # ===== Россия =====
-# RU | 689ms | tunix.ciphero.xyz:443
-vless://e3c40721-22bc-4862-a358-09502fc14af6@tunix.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=tcp&headerType=none&host=tunix.ciphero.xyz&path=%2F&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 691ms | tunix.ciphero.xyz:443
-vless://e3c40721-22bc-4862-a358-09502fc14af6@tunix.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=tcp&headerType=none&host=tunix.ciphero.xyz&path=%2F&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 1575ms | tunix.ciphero.xyz:443
-vless://e3c40721-22bc-4862-a358-09502fc14af6@tunix.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=tcp&headerType=none&host=tunix.ciphero.xyz&path=%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 1857ms | arclo.ciphero.xyz:443
-vless://1bced29a-3051-42b8-b393-005135b97616@arclo.ciphero.xyz:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=arclo.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&encryption=none&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 2155ms | arclo.ciphero.xyz:443
-vless://1bced29a-3051-42b8-b393-005135b97616@arclo.ciphero.xyz:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=arclo.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&encryption=none&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 2307ms | arclo.ciphero.xyz:443
-vless://1bced29a-3051-42b8-b393-005135b97616@arclo.ciphero.xyz:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=arclo.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&encryption=none&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 465ms | 157.22.197.166:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@157.22.197.166:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=stormix.pulsio.cfd&type=raw&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+# RU | 466ms | 157.22.197.166:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@157.22.197.166:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=stormix.pulsio.cfd&type=raw&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+# RU | 484ms | 157.22.197.166:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@157.22.197.166:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=stormix.pulsio.cfd&type=raw&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+# RU | 570ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 571ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 579ms | 157.22.197.166:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@157.22.197.166:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=stormix.pulsio.cfd&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+# RU | 612ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 623ms | 217.16.30.58:443
+vless://683f5168-7a48-4b24-bc2a-fab28144450a@217.16.30.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=sun6-22.userapi.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 1068ms | 80.90.187.140:443
+vless://1bced29a-3051-42b8-b393-005135b97616@80.90.187.140:443?encryption=none&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=arclo.ciphero.xyz&type=raw&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+# RU | 1108ms | 80.90.187.140:443
+vless://1bced29a-3051-42b8-b393-005135b97616@80.90.187.140:443?encryption=none&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=arclo.ciphero.xyz&type=raw&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+# RU | 1247ms | 80.90.187.140:443
+vless://1bced29a-3051-42b8-b393-005135b97616@80.90.187.140:443?encryption=none&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=arclo.ciphero.xyz&type=raw&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+# RU | 1519ms | 80.90.187.140:443
+vless://1bced29a-3051-42b8-b393-005135b97616@80.90.187.140:443?encryption=none&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=arclo.ciphero.xyz&type=raw&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+# RU | 2234ms | 80.90.187.140:443
+vless://1bced29a-3051-42b8-b393-005135b97616@80.90.187.140:443?encryption=none&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=arclo.ciphero.xyz&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
