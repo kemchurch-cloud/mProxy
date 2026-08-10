@@ -1,11 +1,23 @@
-# YTOnly (3)
-# 2026-08-10 20:00:29.701761
+# YTOnly (9)
+# 2026-08-10 20:22:52.430298
 
 
 # ===== Россия =====
-# RU | 1839ms | 176.109.85.140:9444
-vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9444?encryption=none&flow=xtls-rprx-vision&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&security=reality&sid=12b9ecabbf3a3b88&sni=max.ru&type=raw&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 1981ms | 176.109.85.140:9444
-vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@176.109.85.140:9444?encryption=none&flow=xtls-rprx-vision&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&security=reality&sid=12b9ecabbf3a3b88&sni=max.ru&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 4291ms | 83.217.223.122:443
+# RU | 645ms | tunix.ciphero.xyz:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@tunix.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=tcp&headerType=none&host=tunix.ciphero.xyz&path=%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 650ms | tunix.ciphero.xyz:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@tunix.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=tcp&headerType=none&host=tunix.ciphero.xyz&path=%2F&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 833ms | tunix.ciphero.xyz:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@tunix.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=tcp&headerType=none&host=tunix.ciphero.xyz&path=%2F&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 877ms | tunix.ciphero.xyz:443
+vless://e3c40721-22bc-4862-a358-09502fc14af6@tunix.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=tcp&headerType=none&host=tunix.ciphero.xyz&path=%2F&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 3589ms | 83.217.223.122:443
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 3676ms | 83.217.223.122:443
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 3700ms | 83.217.223.122:443
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 4018ms | 83.217.223.122:443
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@83.217.223.122:443?encryption=none&extra=null&mode=auto&path=%2F&pbk=tm9ddb_N0Wto30PZafl231j8zL-o4FmGVRxsbX_GbGQ&security=reality&sid=2665&sni=5post-gate.x5.ru&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 6589ms | 81.94.148.119:65056
+vless://e6601d79-8a5f-46f9-a610-534a2703e1ce@81.94.148.119:65056?encryption=none&flow=xtls-rprx-vision&pbk=K6K0OS6d6Pg_GK3DwIOwjnXOdTVAyn7uEWeSUYECBhM&security=reality&sid=d853dc58&sni=iv.kommersant.ru&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
