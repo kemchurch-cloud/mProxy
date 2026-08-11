@@ -1,23 +1,15 @@
-# YTOnly (9)
-# 2026-08-11 17:37:32.504795
+# YTOnly (5)
+# 2026-08-11 18:02:15.824061
 
 
 # ===== Россия =====
-# RU | 492ms | 72.56.245.183:443
-vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
-# RU | 493ms | 72.56.245.183:443
-vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
-# RU | 496ms | 72.56.245.183:443
+# RU | 467ms | 72.56.245.183:443
 vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
-# RU | 563ms | 72.56.245.183:443
+# RU | 491ms | 72.56.245.183:443
+vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+# RU | 496ms | 72.56.245.183:443
+vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+# RU | 505ms | 72.56.245.183:443
 vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
 # RU | 565ms | 72.56.245.183:443
-vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
-# RU | 765ms | 45.9.15.93:443
-vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.15.93:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=bestrecipes-online.site&pbk=wO1R7iYLFX09H4HXMZdSA3fUbHsP_Z9mwqO_egrs1nU&sid=e1e175913f44af71&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 5492ms | 45.9.15.93:443
-vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.15.93:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=bestrecipes-online.site&pbk=wO1R7iYLFX09H4HXMZdSA3fUbHsP_Z9mwqO_egrs1nU&sid=e1e175913f44af71&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 5971ms | 45.9.15.93:443
-vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.15.93:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=bestrecipes-online.site&pbk=wO1R7iYLFX09H4HXMZdSA3fUbHsP_Z9mwqO_egrs1nU&sid=e1e175913f44af71&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 7016ms | 45.9.15.93:443
-vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.15.93:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=bestrecipes-online.site&pbk=wO1R7iYLFX09H4HXMZdSA3fUbHsP_Z9mwqO_egrs1nU&sid=e1e175913f44af71&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://0dc40f96-a2d1-4382-88b7-70ee01853229@72.56.245.183:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=ferrvia.pulsio.cfd&type=raw&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
