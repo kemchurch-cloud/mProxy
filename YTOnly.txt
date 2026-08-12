@@ -1,31 +1,33 @@
-# YTOnly (13)
-# 2026-08-12 14:28:03.960166
+# YTOnly (14)
+# 2026-08-12 14:52:45.967364
 
 
 # ===== Россия =====
-# RU | 890ms | 92.53.97.70:443
+# RU | 889ms | 92.53.97.70:443
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@92.53.97.70:443?encryption=none&flow=xtls-rprx-vision&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&security=reality&sid=f0ba53a31b489b3e&sni=novea.shieldix.top&type=raw&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-# RU | 1039ms | 92.53.97.70:443
+# RU | 1034ms | 92.53.97.70:443
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@92.53.97.70:443?encryption=none&flow=xtls-rprx-vision&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&security=reality&sid=f0ba53a31b489b3e&sni=novea.shieldix.top&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-# RU | 1146ms | novea.shieldix.top:443
+# RU | 1254ms | novea.shieldix.top:443
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@novea.shieldix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=novea.shieldix.top&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&packetEncoding=xudp&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 1163ms | novea.shieldix.top:443
-vless://b50a52ba-891f-44ff-af82-f5f0f3317024@novea.shieldix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=novea.shieldix.top&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&packetEncoding=xudp&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 1208ms | novea.shieldix.top:443
+# RU | 1260ms | novea.shieldix.top:443
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@novea.shieldix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=novea.shieldix.top&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&packetEncoding=xudp&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
-# RU | 1603ms | boltea.ciphero.xyz:443
-vless://b50a52ba-891f-44ff-af82-f5f0f3317024@boltea.ciphero.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=boltea.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&packetEncoding=xudp&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 1650ms | novea.shieldix.top:443
+# RU | 1277ms | novea.shieldix.top:443
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@novea.shieldix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=novea.shieldix.top&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&packetEncoding=xudp&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 4446ms | ru156.mechvpn.online:443
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 5496ms | ru156.mechvpn.online:443
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 5996ms | ru156.mechvpn.online:443
+# RU | 1317ms | novea.shieldix.top:443
+vless://b50a52ba-891f-44ff-af82-f5f0f3317024@novea.shieldix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=novea.shieldix.top&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&packetEncoding=xudp&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 3534ms | ru156.mechvpn.online:443
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&security=tls&sni=ru156.mechvpn.online&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+# RU | 3832ms | ru156.mechvpn.online:443
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 6004ms | ru156.mechvpn.online:443
+# RU | 4713ms | ru156.mechvpn.online:443
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 6031ms | ru156.mechvpn.online:443
+# RU | 5385ms | ru156.mechvpn.online:443
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&security=tls&sni=ru156.mechvpn.online&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 6393ms | ru156.mechvpn.online:443
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&security=tls&sni=ru156.mechvpn.online&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 6355ms | ru156.mechvpn.online:443
+# RU | 7264ms | ru156.mechvpn.online:443
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&security=tls&sni=ru156.mechvpn.online&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+# RU | 7679ms | ru156.mechvpn.online:443
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+# RU | 8320ms | ru156.mechvpn.online:443
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
