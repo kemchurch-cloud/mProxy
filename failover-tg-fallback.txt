@@ -1,8 +1,7 @@
-# failover-tg-fallback.txt (6 прокси) | 2026-08-12 07:04:36
+# failover-tg-fallback.txt (5 прокси) | 2026-08-12 07:34:37
 
-vless://52fb52b1-82de-4c6f-b7d3-599ce5d57f1c@upwork.com:8880?encryption=none&security=none&type=ws&host=damp-disk-1ae9.138-c4c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20Dynamic-22672  # ping: 3399ms
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Draper%20%7C%20%5BBL%5D  # ping: 6003ms
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 7099ms
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 7101ms
-trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-KR  # ping: 7101ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 7584ms
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Draper%20%7C%20%5BBL%5D  # ping: 6024ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 6074ms
+trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 7094ms
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-KR  # ping: 7096ms
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 7096ms
