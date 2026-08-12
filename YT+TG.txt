@@ -1,42 +1,27 @@
-# YT+TG (13)
-# 2026-08-12 13:38:00.940944
+# YT+TG (8)
+# 2026-08-12 14:02:46.986008
 
-# RU | YT:3027ms TG:9811ms
-vless://58a64424-53d2-4b44-87f4-136aad59d4fa@31.184.215.130:444?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&pbk=rI6DHOxduRhc-0r-vPZRspAY9za5XdYws0-STGOmEzk&sid=c226283c4de5b1ad&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D
+# RU | YT:1249ms TG:1253ms
+vless://b50a52ba-891f-44ff-af82-f5f0f3317024@boltea.ciphero.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=boltea.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&packetEncoding=xudp&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:5979ms TG:9068ms
-vless://58a64424-53d2-4b44-87f4-136aad59d4fa@31.184.215.130:444?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&pbk=rI6DHOxduRhc-0r-vPZRspAY9za5XdYws0-STGOmEzk&sid=c226283c4de5b1ad&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D
+# RU | YT:1126ms TG:1434ms
+vless://b50a52ba-891f-44ff-af82-f5f0f3317024@boltea.ciphero.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=boltea.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&packetEncoding=xudp&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:629ms TG:2405ms
+# RU | YT:1082ms TG:2055ms
+vless://b50a52ba-891f-44ff-af82-f5f0f3317024@boltea.ciphero.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=boltea.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&packetEncoding=xudp&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1133ms TG:5363ms
+vless://b50a52ba-891f-44ff-af82-f5f0f3317024@boltea.ciphero.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=boltea.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&packetEncoding=xudp&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:579ms TG:2219ms
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@quorvia.pulsio.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=quorvia.pulsio.cfd&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&packetEncoding=xudp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:570ms TG:2907ms
+# RU | YT:504ms TG:2563ms
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@quorvia.pulsio.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=quorvia.pulsio.cfd&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&packetEncoding=xudp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1127ms TG:2725ms
+# RU | YT:647ms TG:2364ms
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@quorvia.pulsio.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=quorvia.pulsio.cfd&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&packetEncoding=xudp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1900ms TG:2107ms
+# RU | YT:587ms TG:2267ms
 vless://b50a52ba-891f-44ff-af82-f5f0f3317024@quorvia.pulsio.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=quorvia.pulsio.cfd&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&packetEncoding=xudp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:620ms TG:1078ms
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:578ms TG:2715ms
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:688ms TG:1224ms
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:564ms TG:1063ms
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:575ms TG:1247ms
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:592ms TG:2567ms
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-
-# RU | YT:584ms TG:4089ms
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 
