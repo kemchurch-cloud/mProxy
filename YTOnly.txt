@@ -1,13 +1,11 @@
-# YTOnly (4)
-# 2026-08-13 00:02:00.321005
+# YTOnly (3)
+# 2026-08-13 00:27:23.717939
 
 
 # ===== Россия =====
-# RU | 2107ms | 185.189.195.6:443
+# RU | 1959ms | 185.189.195.6:443
+vless://373baa79-106f-415c-807e-6701d26e4218@185.189.195.6:443?encryption=none&flow=xtls-rprx-vision&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&security=reality&sni=addons.mozilla.org&type=raw&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 2154ms | 185.189.195.6:443
 vless://373baa79-106f-415c-807e-6701d26e4218@185.189.195.6:443?encryption=none&flow=xtls-rprx-vision&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&security=reality&sni=addons.mozilla.org&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 2377ms | 185.189.195.6:443
-vless://373baa79-106f-415c-807e-6701d26e4218@185.189.195.6:443?encryption=none&flow=xtls-rprx-vision&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&security=reality&sni=addons.mozilla.org&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 2628ms | 185.189.195.6:443
-vless://373baa79-106f-415c-807e-6701d26e4218@185.189.195.6:443?encryption=none&flow=xtls-rprx-vision&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&security=reality&sni=addons.mozilla.org&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 4581ms | 185.189.195.6:443
-vless://373baa79-106f-415c-807e-6701d26e4218@185.189.195.6:443?encryption=none&flow=xtls-rprx-vision&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&security=reality&sni=addons.mozilla.org&type=raw&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 5894ms | 185.189.195.6:443
+vless://373baa79-106f-415c-807e-6701d26e4218@185.189.195.6:443?encryption=none&flow=xtls-rprx-vision&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&security=reality&sni=addons.mozilla.org&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
