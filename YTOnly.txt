@@ -1,23 +1,15 @@
-# YTOnly (9)
-# 2026-08-14 12:42:08.584601
+# YTOnly (5)
+# 2026-08-14 13:07:40.055797
 
 
 # ===== Россия =====
-# RU | 1748ms | 83.220.175.92:443
+# RU | 1933ms | 83.220.175.92:443
 vless://80bd9045-a93a-4065-86a9-02e9401b8f73@83.220.175.92:443?encryption=none&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=tunelio.ciphero.xyz&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 1953ms | 83.220.175.92:443
+# RU | 1934ms | 83.220.175.92:443
 vless://80bd9045-a93a-4065-86a9-02e9401b8f73@83.220.175.92:443?encryption=none&flow=xtls-rprx-vision&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=tunelio.ciphero.xyz&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 2109ms | tunelio.ciphero.xyz:443
-vless://80bd9045-a93a-4065-86a9-02e9401b8f73@tunelio.ciphero.xyz:443?security=reality&encryption=none&sni=tunelio.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 2124ms | tunelio.ciphero.xyz:443
-vless://80bd9045-a93a-4065-86a9-02e9401b8f73@tunelio.ciphero.xyz:443?security=reality&encryption=none&sni=tunelio.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 4863ms | veilora.orbvia.online:443
-vless://80bd9045-a93a-4065-86a9-02e9401b8f73@veilora.orbvia.online:443?security=reality&encryption=none&sni=veilora.orbvia.online&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 4937ms | 188.120.229.56:443
+# RU | 3334ms | 188.120.229.56:443
 vless://80bd9045-a93a-4065-86a9-02e9401b8f73@188.120.229.56:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=veilora.orbvia.online&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 5125ms | veilora.orbvia.online:443
-vless://80bd9045-a93a-4065-86a9-02e9401b8f73@veilora.orbvia.online:443?security=reality&encryption=none&sni=veilora.orbvia.online&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 5360ms | veilora.orbvia.online:443
-vless://80bd9045-a93a-4065-86a9-02e9401b8f73@veilora.orbvia.online:443?security=reality&encryption=none&sni=veilora.orbvia.online&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 5953ms | 188.120.229.56:443
+# RU | 5784ms | 188.120.229.56:443
 vless://80bd9045-a93a-4065-86a9-02e9401b8f73@188.120.229.56:443?encryption=none&flow=xtls-rprx-vision&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&security=reality&sid=08804e078e1257c8&sni=veilora.orbvia.online&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 8345ms | veilora.orbvia.online:443
+vless://80bd9045-a93a-4065-86a9-02e9401b8f73@veilora.orbvia.online:443?security=reality&encryption=none&sni=veilora.orbvia.online&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
