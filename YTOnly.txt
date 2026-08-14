@@ -1,3 +1,15 @@
-# YTOnly (0)
-# 2026-08-15 06:11:22.164046
+# YTOnly (5)
+# 2026-08-15 06:37:55.130642
 
+
+# ===== Россия =====
+# RU | 417ms | 157.22.207.182:21098
+vless://bebfd37f-4369-4d09-91e7-8a34ce5c3230@157.22.207.182:21098?type=tcp&security=none&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 637ms | rus.noooo.win:8443
+vless://78eb741d-579e-4738-b647-9a850646060f@rus.noooo.win:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=edge&sni=user-6a7eb845.noooo.win&mode=stream-one#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 853ms | 95.85.240.30:443
+vless://423b1d79-08c4-0002-9d5e-c541f791b55f@95.85.240.30:443?type=tcp&headerType=none&security=reality&encryption=none&sni=russia.cendora.ru&fp=qq&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 7900ms | 138.124.255.21:443
+vless://423b1d79-08c4-0006-9d5e-c541f791b55f@138.124.255.21:443?type=tcp&headerType=none&security=reality&encryption=none&sni=russia.cendora.ru&fp=qq&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
+# RU | 7975ms | 46.8.210.166:443
+vless://c099de6a-0805-0002-b959-fd4ab4fc209e@46.8.210.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&security=reality&sid=0f4daaf87f9dff&sni=smartcaptcha.yandexcloud.net&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
