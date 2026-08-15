@@ -1,9 +1,11 @@
-# YTOnly (2)
-# 2026-08-16 06:23:16.617819
+# YTOnly (3)
+# 2026-08-16 06:48:19.613734
 
 
 # ===== Россия =====
-# RU | 564ms | 45.81.33.215:443
+# RU | 607ms | 45.81.33.215:443
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.81.33.215:443?type=tcp&headerType=none&security=reality&encryption=none&sni=russia.cendora.ru&fp=edge&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1775ms | 217.16.31.162:443
-vless://34a38f21-310e-4da5-b549-35076e16993c@217.16.31.162:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+# RU | 1443ms | 90.156.218.143:59843
+vless://c99e66e0-b662-4d77-9559-a1f1d9d3ff26@90.156.218.143:59843?type=tcp&headerType=none&security=reality&encryption=none&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=1kpwQNJzgJg4EM1ahJrq1dDWM8briCR53o5LKJkA7UA&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B%2ACIDR%5D%20VK
+# RU | 1974ms | 217.16.31.218:443
+vless://34a38f21-310e-4da5-b549-35076e16993c@217.16.31.218:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
