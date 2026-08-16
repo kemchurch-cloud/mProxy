@@ -1,13 +1,9 @@
-# YTOnly (4)
-# 2026-08-17 04:28:28.644093
+# YTOnly (2)
+# 2026-08-17 04:53:30.425204
 
 
 # ===== Россия =====
-# RU | 506ms | 104.171.135.15:443
-vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?security=reality&type=tcp&fp=edge&sni=s3node1.tcpdoor.net&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 643ms | 104.171.135.15:443
-vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?security=reality&type=tcp&fp=firefox&sni=s3node1.tcpdoor.net&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 6474ms | 78.159.246.110:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.110:2027?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
-# RU | 6957ms | 78.159.246.110:2027
+# RU | 8298ms | 78.159.246.110:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.110:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
+# RU | 8595ms | 78.159.246.110:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.110:2027?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
