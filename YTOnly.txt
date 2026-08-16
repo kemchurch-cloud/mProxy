@@ -1,19 +1,21 @@
-# YTOnly (7)
-# 2026-08-16 09:43:31.282971
+# YTOnly (8)
+# 2026-08-16 10:08:30.871367
 
 
 # ===== Россия =====
-# RU | 558ms | 194.87.151.151:443
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.151:443?encryption=none&extra=null&fp=qq&mode=auto&path=%2F&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 787ms | 194.87.151.237:443
+# RU | 696ms | 194.87.151.237:443
 vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.237:443?type=xhttp&security=reality&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com&mode=auto&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 889ms | 194.87.151.237:443
+# RU | 717ms | 194.87.151.151:443
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.151:443?encryption=none&extra=null&fp=qq&mode=auto&path=%2F&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 720ms | 194.87.151.237:443
 vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.237:443?encryption=none&extra=null&fp=qq&mode=auto&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 896ms | ytp.speedpilot.net:443
-vless://45db7186-5863-4850-b1c0-858e3cd6ad3b@ytp.speedpilot.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ytp.speedpilot.net&fp=firefox&pbk=gu4r0v1ZsjhxuR-QNngpQ-tnrlZY7ZwOp16M0ZssEgI#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1053ms | id.tutdesignstudio.site:8443
+# RU | 862ms | id.tutdesignstudio.site:8443
 vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=http%2F1.1&sni=id.tutdesignstudio.site&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-# RU | 1201ms | id.tutdesignstudio.site:8443
+# RU | 880ms | id.tutdesignstudio.site:8443
 vless://b9125df6-2a60-4643-bcba-a5f78cb663a7@id.tutdesignstudio.site:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-# RU | 1481ms | finnode3.frost-api.com:443
-vless://34a38f21-310e-4da5-b549-35076e16993c@finnode3.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+# RU | 1158ms | finnode3.frost-api.com:443
+vless://34a38f21-310e-4da5-b549-35076e16993c@finnode3.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+# RU | 1206ms | 217.16.31.248:443
+vless://34a38f21-310e-4da5-b549-35076e16993c@217.16.31.248:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+# RU | 3716ms | 185.72.145.121:5000
+vless://1cf0f330-88c6-5b9b-866e-607e08cf87d6@185.72.145.121:5000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0XUuWS1x6kswbVN0rgXLpZ1pTCgnyhk7ItuoklaNoHI&security=reality&sid=9e&sni=www.vk.com&spx=/IQj85DYYi5bhobP&type=raw#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
