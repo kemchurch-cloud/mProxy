@@ -1,7 +1,11 @@
-# YTOnly (1)
-# 2026-08-17 06:08:15.471688
+# YTOnly (3)
+# 2026-08-17 06:33:22.204688
 
 
 # ===== Россия =====
-# RU | 5028ms | multi.techdatacloud.org:443
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@multi.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=tEisYGZCPOSXwo27_yQHOL5hz_9wCt0TDrtwajXXjUA&fp=firefox&sni=storage.yandex.net&sid=0e154760&spx=%2F&headerType=none&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
+# RU | 1466ms | 66.90.93.74:8444
+vless://2f41c3ac-627d-4a65-9f3c-b8e2a73f06d9@66.90.93.74:8444?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv1%2Fconnect&alpn=http/1.1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20Beeline
+# RU | 1562ms | ru-at.techdatacloud.org:443
+vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru-at.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=PM__cMUtCn3sMyH5mfQ8Ti6USaqHcHsli9CzVXt0W10&fp=firefox&sni=storage.yandex.net&sid=c142fd81e522ccf9&spx=%2F&headerType=none&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%5B%2ACIDR%5D
+# RU | 2012ms | 217.198.169.86:443
+vless://fc07967d-925b-4246-a535-9527a8242a16@217.198.169.86:443?encryption=none&extra=null&fp=chrome&path=/wk7Lj2YbQfCoLCnY5dZ3&pbk=h5rOWssRWMnFJ0Ka0-PwBwwg3PMPifPShXutXEoj2QM&security=reality&sid=b8ac5fcfceca&sni=avatars.mds.yandex.net&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
