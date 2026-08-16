@@ -1,7 +1,11 @@
-# YTOnly (1)
-# 2026-08-16 15:09:33.919954
+# YTOnly (3)
+# 2026-08-16 15:34:25.824631
 
 
 # ===== Россия =====
-# RU | 1675ms | 5.188.115.185:443
-vless://4ffe7c6d-a831-42f4-a28b-59e7e9229ec3@5.188.115.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DTQcr0ZwOnstMCB39fEXOhELSrHiepddwNgxGHobSRU&security=reality&sid=eb39a075a5881597&sni=vds.vps-cloud.uk&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | 528ms | 217.198.169.86:443
+vless://fc07967d-925b-4246-a535-9527a8242a16@217.198.169.86:443?encryption=none&extra=null&fp=chrome&path=/wk7Lj2YbQfCoLCnY5dZ3&pbk=h5rOWssRWMnFJ0Ka0-PwBwwg3PMPifPShXutXEoj2QM&security=reality&sid=b8ac5fcfceca&sni=avatars.mds.yandex.net&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+# RU | 873ms | 139.100.197.28:52006
+vless://b3dc8ecd-751d-07d0-b0a9-6ff6f5c74056@139.100.197.28:52006?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=search.setlisting.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 1466ms | id.tutdesignstudio.site:8443
+vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443?alpn=http%2F1.1&flow=xtls-rprx-vision-udp443&security=tls&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
