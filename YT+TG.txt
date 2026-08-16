@@ -1,6 +1,24 @@
-# YT+TG (1)
-# 2026-08-16 12:15:31.521533
+# YT+TG (7)
+# 2026-08-16 12:39:28.931003
 
-# RU | YT:1315ms TG:1391ms
-vless://4fc88d4c-6371-4c50-8a1a-db5289e59992@84.201.167.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WN0XIJgR2qVAMwaEgH3ps5msTGFAHFcuH0VHnfao83Y&security=reality&sid=27e53bbcab7593d3&sni=ads.x5.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+# RU | YT:994ms TG:1324ms
+vless://4fc88d4c-6371-4c50-8a1a-db5289e59992@84.201.167.190:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&pbk=WN0XIJgR2qVAMwaEgH3ps5msTGFAHFcuH0VHnfao83Y&sid=27e53bbcab7593d3&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+
+# RU | YT:1023ms TG:1418ms
+vless://4fc88d4c-6371-4c50-8a1a-db5289e59992@84.201.167.190:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&pbk=WN0XIJgR2qVAMwaEgH3ps5msTGFAHFcuH0VHnfao83Y&sid=27e53bbcab7593d3&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+
+# RU | YT:3646ms TG:4093ms
+vless://34a38f21-310e-4da5-b549-35076e16993c@finnode3.frost-api.com:443?security=reality&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&sni=eh.vk.com&type=tcp&headerType=none&host=eh.vk.com&path=%2F&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:2801ms TG:6586ms
+vless://34a38f21-310e-4da5-b549-35076e16993c@finnode3.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:4773ms TG:4294ms
+vless://34a38f21-310e-4da5-b549-35076e16993c@finnode3.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:6619ms TG:4150ms
+vless://34a38f21-310e-4da5-b549-35076e16993c@finnode3.frost-api.com:443?security=reality&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&sni=eh.vk.com&type=tcp&headerType=none&host=eh.vk.com&path=%2F&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:5820ms TG:3044ms
+vless://1cf0f330-88c6-5b9b-866e-607e08cf87d6@185.72.145.121:5000?encryption=none&flow=xtls-rprx-vision&pbk=0XUuWS1x6kswbVN0rgXLpZ1pTCgnyhk7ItuoklaNoHI&security=reality&sid=9e&sni=www.vk.com&spx=%2FIQj85DYYi5bhobP&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
 
