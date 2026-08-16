@@ -1,17 +1,11 @@
-# YTOnly (6)
-# 2026-08-16 08:02:41.220547
+# YTOnly (3)
+# 2026-08-16 08:28:21.314384
 
 
 # ===== Россия =====
-# RU | 903ms | id.tutdesignstudio.site:8443
+# RU | 1240ms | id.tutdesignstudio.site:8443
 vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-# RU | 1131ms | id.tutdesignstudio.site:8443
+# RU | 1627ms | finnode3.frost-api.com:443
+vless://34a38f21-310e-4da5-b549-35076e16993c@finnode3.frost-api.com:443?&security=reality&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=chrome&sni=eh.vk.com&type=tcp&headerType=none&host=eh.vk.com&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+# RU | 1764ms | id.tutdesignstudio.site:8443
 vless://b9125df6-2a60-4643-bcba-a5f78cb663a7@id.tutdesignstudio.site:8443?type=tcp&security=tls&sni=id.tutdesignstudio.site&fp=firefox&alpn=http%2F1.1&flow=xtls-rprx-vision&allowInsecure=0&insecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-# RU | 1636ms | sc.hambot.ru:4500
-hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@sc.hambot.ru:4500?sni=sc.hambot.ru#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
-# RU | 1738ms | ru-i-2.monkeyisland.xyz:443
-hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?sni=ru-i-2.monkeyisland.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 2971ms | 185-22-155-81.liao.kdns.fr:50160
-hysteria2://2a0099ded5baa93c55823af39229c5b1@185-22-155-81.liao.kdns.fr:50160#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 3254ms | rf3.helper-internet.com:443
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@rf3.helper-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=rf3.helper-internet.com&spx=/#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
