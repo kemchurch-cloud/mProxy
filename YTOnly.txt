@@ -1,3 +1,11 @@
-# YTOnly (0)
-# 2026-08-16 19:18:49.108665
+# YTOnly (3)
+# 2026-08-16 19:44:38.974285
 
+
+# ===== Россия =====
+# RU | 1888ms | id.tutdesignstudio.site:8443
+vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=http%2F1.1&sni=id.tutdesignstudio.site&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+# RU | 2748ms | id.tutdesignstudio.site:8443
+vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=http%2F1.1&sni=id.tutdesignstudio.site&flow=xtls-rprx-vision&encryption=none&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+# RU | 3658ms | id.tutdesignstudio.site:8443
+vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443?alpn=http%2F1.1&flow=xtls-rprx-vision-udp443&security=tls&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
