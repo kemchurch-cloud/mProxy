@@ -1,13 +1,13 @@
 # YTOnly (4)
-# 2026-08-17 04:03:19.740245
+# 2026-08-17 04:28:28.644093
 
 
 # ===== Россия =====
-# RU | 1009ms | 66.90.93.74:8449
-vless://2f41c3ac-627d-4a65-9f3c-b8e2a73f06d9@66.90.93.74:8449?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv6%2Fconnect&alpn=http/1.1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D%20Beeline
-# RU | 1477ms | 193.39.168.84:443
-vless://b4640899-28b4-472d-807c-c41186146204@193.39.168.84:443?type=xhttp&security=tls&fp=firefox&sni=ru2.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/stream-one/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 6349ms | 78.159.246.110:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.110:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
-# RU | 8148ms | 78.159.246.110:2027
+# RU | 506ms | 104.171.135.15:443
+vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?security=reality&type=tcp&fp=edge&sni=s3node1.tcpdoor.net&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 643ms | 104.171.135.15:443
+vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?security=reality&type=tcp&fp=firefox&sni=s3node1.tcpdoor.net&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 6474ms | 78.159.246.110:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.110:2027?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
+# RU | 6957ms | 78.159.246.110:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.110:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
