@@ -1,9 +1,7 @@
-# YTOnly (2)
-# 2026-08-18 03:22:49.428037
+# YTOnly (1)
+# 2026-08-18 03:47:31.166654
 
 
 # ===== Россия =====
-# RU | 1590ms | fast17.slopllex.app:443
-vless://11587f71-f97f-453d-9041-43eaa53ee636@fast17.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=fast17.slopllex.app&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%223-5%22%2C%226-8%22%2C%2210-20%22%5D%2C%22delays%22%3A%5B%2210-20%22%5D%2C%22maxSplit%22%3A%223-6%22%7D%7D&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 1702ms | fast17.slopllex.app:443
-vless://11587f71-f97f-453d-9041-43eaa53ee636@fast17.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=fast17.slopllex.app&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%223-5%22%2C%226-8%22%2C%2210-20%22%5D%2C%22delays%22%3A%5B%2210-20%22%5D%2C%22maxSplit%22%3A%223-6%22%7D%7D&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+# RU | 9247ms | 79.174.93.202:443
+vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@79.174.93.202:443?security=reality&encryption=none&pbk=s3DBlh5fMi4ykEZPRv4kq806W9sqiITthW5rlueic10&headerType=&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f4027ed0947859d3&fp=qq#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D
