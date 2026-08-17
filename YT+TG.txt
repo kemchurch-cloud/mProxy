@@ -1,12 +1,21 @@
-# YT+TG (3)
-# 2026-08-17 14:28:26.373017
+# YT+TG (6)
+# 2026-08-17 14:52:44.196732
 
-# RU | YT:545ms TG:1559ms
+# RU | YT:905ms TG:2190ms
+vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@193.233.255.46:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=fi.sellflow.org#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:720ms TG:1326ms
+vless://f0b752da-101e-46dd-9860-3f089e71ec91@89.19.223.155:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:636ms TG:1163ms
 vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?security=none&type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:1585ms TG:3825ms
-vless://a98f627f-99ff-44fc-89fc-b5aed8db49f9@95.163.232.98:443?encryption=none&fp=firefox&mode=gun&pbk=ZgSVwP_wlM4-oG8E03W3cMqK_VrS8oHXF4wzyBkISWo&security=reality&sid=a1b2c3d4&sni=max.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | YT:761ms TG:914ms
+vless://a98f627f-99ff-44fc-89fc-b5aed8db49f9@176.109.88.224:443?encryption=none&fp=firefox&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&security=reality&sid=a1b2c3d4&sni=hgdsds.denditop.site&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:2013ms TG:4562ms
-vless://28af86fc-34fa-4b4e-b96f-041a1b687823@nbb--ru28fab01b.vpn.partners:443?security=tls&encryption=none&sni=nbb--ru28fab01b.vpn.partners&alpn=h2&fp=firefox&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D
+# RU | YT:710ms TG:3595ms
+vless://a98f627f-99ff-44fc-89fc-b5aed8db49f9@hgdsds.denditop.site:443?encryption=none&security=reality&type=grpc&sni=hgdsds.denditop.site&fp=firefox&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&sid=a1b2c3d4&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:1510ms TG:3379ms
+vless://a98f627f-99ff-44fc-89fc-b5aed8db49f9@95.163.232.98:443?encryption=none&fp=firefox&mode=gun&pbk=ZgSVwP_wlM4-oG8E03W3cMqK_VrS8oHXF4wzyBkISWo&security=reality&sid=a1b2c3d4&sni=max.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
