@@ -1,12 +1,72 @@
-# YT+TG (3)
-# 2026-08-17 11:09:11.354985
+# YT+TG (23)
+# 2026-08-17 11:35:16.520023
 
-# RU | YT:712ms TG:751ms
-vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@176.109.88.224:443?encryption=none&fp=edge&mode=gun&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&security=reality&sid=a1b2c3d4&sni=hgdsds.denditop.site&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | YT:856ms TG:1086ms
+vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv25.strettenvpn.com:443?type=tcp&security=none&encryption=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:467ms TG:1128ms
+# RU | YT:822ms TG:1204ms
+vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv25.strettenvpn.com:443?type=tcp&security=none&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:850ms TG:1307ms
+vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv17.strettenvpn.com:443?type=tcp&security=none&encryption=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:685ms TG:1115ms
+vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv17.strettenvpn.com:443?type=tcp&security=none&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:1748ms TG:1250ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@72.56.38.234:8443?security=reality&encryption=none&sni=zoo.vprok.ru&fp=qq&pbk=YD4iS1SqRrC9rzilvKrTk4vp0-TQXm6VhHxq1kUsPRI&sid=91d0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+
+# RU | YT:554ms TG:1221ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@45.139.184.183:2053?type=ws&security=tls&encryption=none&sni=forfreeuse.rtqa.ru&path=%2F&host=forfreeuse.rtqa.ru&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:555ms TG:1155ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@84.38.189.17:9443?security=reality&type=tcp&sni=m.vkvideo.ru&fp=firefox&flow=xtls-rprx-vision&sid=dd42&pbk=ccQ_NEu7yDeesiPh8FP8eBIYHToC5eMtJRqDI8mHWgw&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+
+# RU | YT:575ms TG:1678ms
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@134.0.116.208:9878?encryption=none&fp=qq&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:800ms TG:1480ms
+vless://62a08ea5-0564-47b4-a92c-25be07ad6358@selec89.apruxdomain.website:443?type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=FfZptJgxYiyEemH_mO7I8BKHF9Nc5ZGEG_sYC1dWjEw&sid=78b8ebdb7007eccc&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:517ms TG:786ms
 vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?security=none&encryption=none&headerType=none&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
-# RU | YT:2759ms TG:2458ms
-vless://a98f627f-99ff-44fc-89fc-b5aed8db49f9@95.163.232.98:443?encryption=none&security=reality&type=grpc&sni=max.ru&fp=firefox&pbk=ZgSVwP_wlM4-oG8E03W3cMqK_VrS8oHXF4wzyBkISWo&sid=a1b2c3d4&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | YT:497ms TG:908ms
+vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?security=none&type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:982ms TG:2282ms
+vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@176.109.88.224:443?encryption=none&fp=edge&mode=gun&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&security=reality&sid=a1b2c3d4&sni=hgdsds.denditop.site&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:1198ms TG:2069ms
+vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@176.109.88.224:443?encryption=none&fp=qq&mode=gun&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&security=reality&sid=a1b2c3d4&sni=hgdsds.denditop.site&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:537ms TG:1341ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@212.193.30.202:8443?type=tcp&security=reality&sni=m.vkvideo.ru&pbk=CXTu2KjKQDXfUGCA94FnER3rmXrU_l32CfAtuvQLqBw&sid=192e68227510e3fc&fp=edge&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:1642ms TG:2492ms
+vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@hgdsds.denditop.site:443?type=grpc&security=reality&sni=hgdsds.denditop.site&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&sid=a1b2c3d4&fp=qq&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:536ms TG:1348ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@5.129.200.182:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rg8KyegSfi5a3qZo1y7NxZrPEx6cwr7lX74WmBLhfyA&security=reality&sid=d4b935c1&sni=zoo.vprok.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:646ms TG:4633ms
+vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@hgdsds.denditop.site:443?type=grpc&security=reality&sni=hgdsds.denditop.site&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&sid=a1b2c3d4&fp=firefox&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:489ms TG:1518ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@5.129.200.182:8443?type=tcp&security=reality&sni=zoo.vprok.ru&pbk=rg8KyegSfi5a3qZo1y7NxZrPEx6cwr7lX74WmBLhfyA&sid=d4b935c1&fp=edge&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:648ms TG:1744ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@5.42.110.68:8443?type=tcp&security=reality&sni=zoo.vprok.ru&pbk=CXTu2KjKQDXfUGCA94FnER3rmXrU_l32CfAtuvQLqBw&sid=192e68227510e3fc&fp=edge&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:733ms TG:1808ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@72.56.13.45:8443?type=tcp&security=reality&sni=m.vkvideo.ru&pbk=CXTu2KjKQDXfUGCA94FnER3rmXrU_l32CfAtuvQLqBw&sid=91d0&fp=edge&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:648ms TG:1844ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@72.56.36.106:8443?type=tcp&security=reality&sni=m.vkvideo.ru&pbk=CXTu2KjKQDXfUGCA94FnER3rmXrU_l32CfAtuvQLqBw&sid=d4b935c1&fp=qq&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:926ms TG:1839ms
+vless://dbacac09-9ee8-400c-b53b-745a769c220a@94.228.127.53:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2e6PMhiKNJKHpvReCcBEr_UWbL9bZxmfaBIIQLiizQ8&security=reality&sid=192e68227510e3fc&sni=m.vkvideo.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
+# RU | YT:6852ms TG:3801ms
+vless://8071f3cc-994f-4fe2-bb87-cdc79559cb56@176.109.88.224:443?encryption=none&fp=firefox&mode=gun&pbk=EJRE9V_up5luarZvZvYRz-6RuPSNDyJNEq3_mP2AJhw&security=reality&sid=a1b2c3d4&sni=hgdsds.denditop.site&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 
