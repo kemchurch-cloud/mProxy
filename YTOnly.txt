@@ -1,9 +1,9 @@
 # YTOnly (2)
-# 2026-08-18 02:32:33.788154
+# 2026-08-18 02:57:53.696581
 
 
 # ===== Россия =====
-# RU | 601ms | 37.252.20.41:204
-vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?headertype=none&security=none&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 7725ms | 37.252.20.41:204
-vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?security=none&type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 1551ms | fast17.slopllex.app:443
+vless://11587f71-f97f-453d-9041-43eaa53ee636@fast17.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=fast17.slopllex.app&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%223-5%22%2C%226-8%22%2C%2210-20%22%5D%2C%22delays%22%3A%5B%2210-20%22%5D%2C%22maxSplit%22%3A%223-6%22%7D%7D&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+# RU | 1954ms | fast17.slopllex.app:443
+vless://11587f71-f97f-453d-9041-43eaa53ee636@fast17.slopllex.app:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=fast17.slopllex.app&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%223-5%22%2C%226-8%22%2C%2210-20%22%5D%2C%22delays%22%3A%5B%2210-20%22%5D%2C%22maxSplit%22%3A%223-6%22%7D%7D&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
