@@ -1,6 +1,5 @@
-# failover-tg-fallback.txt (4 прокси) | 2026-08-17 12:04:41
+# failover-tg-fallback.txt (3 прокси) | 2026-08-17 12:34:38
 
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 8625ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 9135ms
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-FR%20%20%23%20ping%3A%202588ms  # ping: 9138ms
-vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@lucky-field-0220.191-de2.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20Dynamic-25574  # ping: 9141ms
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%5Bopenproxylist.com%5D%20trojan-KR  # ping: 7129ms
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 7130ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 10693ms
