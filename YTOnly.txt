@@ -1,17 +1,17 @@
 # YTOnly (6)
-# 2026-08-18 10:28:16.524075
+# 2026-08-18 10:52:49.156354
 
 
 # ===== Россия =====
-# RU | 474ms | 45.90.216.147:8080
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8080?encryption=none&extra=null&fp=firefox&mode=auto&pbk=mFF1ffE0RcXAVIbGzWc5EXJcAIqg1n8sJ1ZqjGeunGI&security=reality&sid=721a55c3&sni=cloud.mail.ru&spx=/&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 513ms | 194.87.151.237:443
+# RU | 495ms | 194.87.151.237:443
 vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.237:443?type=xhttp&security=reality&fp=firefox&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com&mode=auto&extra=null#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 563ms | 194.87.151.237:443
+# RU | 527ms | 104.171.135.15:443
+vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?security=reality&type=tcp&fp=edge&sni=s3node1.tcpdoor.net&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 550ms | 45.90.216.147:8080
+vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8080?encryption=none&extra=null&fp=firefox&mode=auto&pbk=mFF1ffE0RcXAVIbGzWc5EXJcAIqg1n8sJ1ZqjGeunGI&security=reality&sid=721a55c3&sni=cloud.mail.ru&spx=/&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 558ms | 194.87.151.237:443
 vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.237:443?encryption=none&extra=null&fp=qq&mode=auto&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 602ms | 194.87.151.237:443
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.237:443?encryption=none&extra=null&fp=edge&mode=auto&path=%2F&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 631ms | 194.87.151.151:443
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.151:443?encryption=none&security=reality&sni=deepl.com&fp=firefox&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&type=xhttp&path=%2F&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 743ms | ru.techdatacloud.org:8080
+# RU | 612ms | ru.techdatacloud.org:8080
 vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8080?type=xhttp&security=reality&fp=firefox&pbk=mFF1ffE0RcXAVIbGzWc5EXJcAIqg1n8sJ1ZqjGeunGI&sid=721a55c3&sni=cloud.mail.ru&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 1062ms | 194.87.151.237:443
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.237:443?encryption=none&extra=null&fp=edge&mode=auto&path=%2F&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
