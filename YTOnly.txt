@@ -1,13 +1,13 @@
 # YTOnly (4)
-# 2026-08-19 02:42:53.888143
+# 2026-08-19 03:08:15.296486
 
 
 # ===== Россия =====
-# RU | 2746ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 2908ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 4001ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 9938ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 536ms | 92.255.78.9:443
+vless://f6da8274-44be-4599-a8d8-66929c980677@92.255.78.9:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=NzaCxfbgTDajw93CJs3uFkFJzp7DWhzJIqcnzoZwGQ4&sid=5e6f7a8b&sni=max.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 6699ms | test.srv.anti-zapret.com:443
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.srv.anti-zapret.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 9236ms | 78.159.246.112:7447
+vless://16cbfce2-6559-4f5a-b948-54c1445c5953@78.159.246.112:7447?type=tcp&security=reality&sni=hd.kinopoisk.ru&pbk=1kpwQNJzgJg4EM1ahJrq1dDWM8briCR53o5LKJkA7UA&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 11187ms | 78.159.246.112:7447
+vless://16cbfce2-6559-4f5a-b948-54c1445c5953@78.159.246.112:7447?type=tcp&security=reality&sni=hd.kinopoisk.ru&pbk=1kpwQNJzgJg4EM1ahJrq1dDWM8briCR53o5LKJkA7UA&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20Beeline
