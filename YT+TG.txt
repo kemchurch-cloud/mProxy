@@ -1,15 +1,18 @@
-# YT+TG (4)
-# 2026-08-19 05:12:34.345816
+# YT+TG (5)
+# 2026-08-19 05:37:29.245968
 
-# RU | YT:2071ms TG:2698ms
+# RU | YT:710ms TG:1956ms
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@89.125.103.176:443?security=reality&type=tcp&sni=www.nespresso.com&pbk=O4of5fbG7Ns3fBdBF0bDU8Fa8q-mdk7YLgOgvAWPeF8&sid=f85aebea&spx=%2F&encryption=none&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1729ms TG:2753ms
 vless://fd3ff7be-f277-494b-a651-c210b93f2c19@usa1.wba-pn.ru:2053?type=ws&security=tls&sni=usa1.wba-pn.ru&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 
-# RU | YT:2161ms TG:2720ms
+# RU | YT:1872ms TG:2762ms
 vless://fd3ff7be-f277-494b-a651-c210b93f2c19@usa1.wba-pn.ru:2053?type=ws&security=tls&sni=usa1.wba-pn.ru&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 
-# RU | YT:1745ms TG:2705ms
-vless://fd3ff7be-f277-494b-a651-c210b93f2c19@usa1.wba-pn.ru:2053?type=ws&security=tls&sni=usa1.wba-pn.ru&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-
-# RU | YT:2046ms TG:3400ms
+# RU | YT:2042ms TG:2823ms
 vless://fd3ff7be-f277-494b-a651-c210b93f2c19@usa1.wba-pn.ru:2053?type=ws&security=tls&sni=usa1.wba-pn.ru&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
+
+# RU | YT:1750ms TG:3374ms
+vless://fd3ff7be-f277-494b-a651-c210b93f2c19@usa1.wba-pn.ru:2053?type=ws&security=tls&sni=usa1.wba-pn.ru&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 

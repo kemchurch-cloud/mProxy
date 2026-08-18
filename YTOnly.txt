@@ -1,7 +1,9 @@
-# YTOnly (1)
-# 2026-08-19 05:12:34.345816
+# YTOnly (2)
+# 2026-08-19 05:37:29.247973
 
 
 # ===== Россия =====
-# RU | 511ms | 92.255.78.9:443
+# RU | 483ms | 92.255.78.9:443
 vless://f6da8274-44be-4599-a8d8-66929c980677@92.255.78.9:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=NzaCxfbgTDajw93CJs3uFkFJzp7DWhzJIqcnzoZwGQ4&sid=5e6f7a8b&sni=max.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 4320ms | 89.125.103.176:443
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@89.125.103.176:443?security=reality&type=tcp&sni=www.nespresso.com&pbk=O4of5fbG7Ns3fBdBF0bDU8Fa8q-mdk7YLgOgvAWPeF8&sid=f85aebea&spx=%2F&encryption=none&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
