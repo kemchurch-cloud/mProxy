@@ -1,27 +1,9 @@
-# YTOnly (11)
-# 2026-08-19 03:32:53.861910
+# YTOnly (2)
+# 2026-08-19 03:58:13.950186
 
 
 # ===== Россия =====
-# RU | 526ms | 92.255.78.9:443
-vless://f6da8274-44be-4599-a8d8-66929c980677@92.255.78.9:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=NzaCxfbgTDajw93CJs3uFkFJzp7DWhzJIqcnzoZwGQ4&sid=5e6f7a8b&sni=max.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 1929ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 2121ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 2132ms | test.srv.anti-zapret.com:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.srv.anti-zapret.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 2412ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 2542ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 2774ms | test.srv.anti-zapret.com:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.srv.anti-zapret.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 3297ms | usa1.wba-pn.ru:2053
-vless://fd3ff7be-f277-494b-a651-c210b93f2c19@usa1.wba-pn.ru:2053?type=ws&security=tls&sni=usa1.wba-pn.ru&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-# RU | 3881ms | usa1.wba-pn.ru:2053
-vless://fd3ff7be-f277-494b-a651-c210b93f2c19@usa1.wba-pn.ru:2053?type=ws&security=tls&sni=usa1.wba-pn.ru&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-# RU | 7215ms | 80.87.104.138:443
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@80.87.104.138:443?encryption=none&flow=xtls-rprx-vision&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ekb-ru.servers.gracevpnbuy.com&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 7341ms | 80.87.104.138:443
+# RU | 4955ms | 80.87.104.138:443
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@80.87.104.138:443?encryption=none&flow=xtls-rprx-vision&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ekb-ru.servers.gracevpnbuy.com&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 6160ms | 80.87.104.138:443
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@80.87.104.138:443?encryption=none&flow=xtls-rprx-vision&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&security=reality&sid=b91a73752053b039&sni=ekb-ru.servers.gracevpnbuy.com&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
