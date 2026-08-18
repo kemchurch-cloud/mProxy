@@ -1,11 +1,15 @@
-# YTOnly (3)
-# 2026-08-19 01:52:56.907585
+# YTOnly (5)
+# 2026-08-19 02:17:47.873421
 
 
 # ===== Россия =====
-# RU | 6557ms | 194.55.244.184:443
+# RU | 1803ms | 85.198.85.55:8443
+vless://7e1dc732-1691-4699-8517-e3ca53887978@85.198.85.55:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=J5j_EwGWM1vgrApg31dnnu5cwMP-OgfJYYwl3kn9zFg&sni=api-maps.yandex.ru&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1818ms | 85.198.85.55:8443
+vless://7e1dc732-1691-4699-8517-e3ca53887978@85.198.85.55:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=J5j_EwGWM1vgrApg31dnnu5cwMP-OgfJYYwl3kn9zFg&sni=api-maps.yandex.ru&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 2912ms | 85.198.85.55:8443
+vless://7e1dc732-1691-4699-8517-e3ca53887978@85.198.85.55:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=J5j_EwGWM1vgrApg31dnnu5cwMP-OgfJYYwl3kn9zFg&sni=api-maps.yandex.ru&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 7222ms | 194.55.244.184:443
 vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 10225ms | 194.55.244.184:443
+# RU | 9040ms | 194.55.244.184:443
 vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 10646ms | 194.55.244.184:443
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@194.55.244.184:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
