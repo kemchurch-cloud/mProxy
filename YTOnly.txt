@@ -1,9 +1,37 @@
-# YTOnly (2)
-# 2026-08-19 13:32:59.854769
+# YTOnly (16)
+# 2026-08-19 14:01:02.180607
 
 
 # ===== Россия =====
-# RU | 552ms | 185.71.67.185:443
-vless://fecd4358-c037-4ae2-bae0-c72792fd8e40@185.71.67.185:443?alpn=http%2F1.1&encryption=none&host=mlt.spbculture.org&path=%2Fapi%2Fv2%2Fupload%2F2aec3a50a58a&security=tls&sni=mlt.spbculture.org&type=ws&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%B7%20%5B%2ACIDR%5D
-# RU | 868ms | mlt.spbculture.org:443
-vless://fecd4358-c037-4ae2-bae0-c72792fd8e40@mlt.spbculture.org:443?encryption=none&security=tls&sni=mlt.spbculture.org&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fapi%2Fv2%2Fupload%2F2aec3a50a58a&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%B7%20%5B%2ACIDR%5D
+# RU | 2511ms | vless.fresedvpn.site:36532
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:36532?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=b04052caa9e972e4&encryption=none&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+# RU | 4179ms | vless.fresedvpn.site:26791
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:26791?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=0310f496ef212f59&encryption=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 4420ms | vless.fresedvpn.site:21080
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:21080?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=1eef9b58dacbbfb8&encryption=none&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
+# RU | 5342ms | vless.fresedvpn.site:18291
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:18291?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=3ea1ca7301b61545&encryption=none&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+# RU | 5414ms | vless.fresedvpn.site:18291
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:18291?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=3ea1ca7301b61545&encryption=none&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+# RU | 5531ms | vless.fresedvpn.site:26791
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:26791?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=0310f496ef212f59&encryption=none&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 5607ms | vless.fresedvpn.site:30585
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:30585?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=6665929fd871543a&encryption=none&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
+# RU | 6611ms | vless.fresedvpn.site:14893
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:14893?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=3ea1ca7301b61545&encryption=none&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+# RU | 6689ms | vless.fresedvpn.site:21942
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:21942?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=614f8ee13bd5484a&encryption=none&fp=qq#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 7877ms | vless.fresedvpn.site:21942
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:21942?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=614f8ee13bd5484a&encryption=none&fp=ios#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 8287ms | vless.fresedvpn.site:32443
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:32443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=2_W3YdDic4IWl2-ODbRp0k5e4H0VJbyVrk0PmBdVfnc&sid=556f14b32413f284&encryption=none&fp=qq#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D
+# RU | 8963ms | vless.fresedvpn.site:27443
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:27443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=2_W3YdDic4IWl2-ODbRp0k5e4H0VJbyVrk0PmBdVfnc&sid=40df3cd3c76a24f4&encryption=none&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+# RU | 9173ms | vless.fresedvpn.site:43080
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:43080?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=596fcd5be626ec42&encryption=none&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
+# RU | 9721ms | vless.fresedvpn.site:14893
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:14893?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=3ea1ca7301b61545&encryption=none&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
+# RU | 10066ms | vless.fresedvpn.site:43080
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:43080?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=596fcd5be626ec42&encryption=none&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
+# RU | 10606ms | vless.fresedvpn.site:58553
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:58553?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&sid=1eef9b58dacbbfb8&encryption=none&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
