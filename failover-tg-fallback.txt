@@ -1,2 +1,10 @@
-# failover-tg-fallback.txt (0 прокси) | 2026-08-20 01:34:40
+# failover-tg-fallback.txt (8 прокси) | 2026-08-20 02:03:15
 
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.151:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-84  # ping: 2964ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.202.16:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10260  # ping: 3017ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.172.26:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10270  # ping: 3141ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.205.243:62145?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10266  # ping: 4373ms
+vless://b0105618-904b-48f8-8ffc-ea5754da6206@109.120.150.17:7443?encryption=none&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-9136  # ping: 4869ms
+vless://435d616b-f0e6-489d-a70d-bdde70750b43@94.139.250.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32292  # ping: 8387ms
+vless://3e553ebf-db9d-4858-b608-03d6ff615a41@104.21.23.72:8880?encryption=none&security=none&type=ws&host=rapid-waterfall-7270.255-22b.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22521  # ping: 8409ms
+vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mold.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%A9%20MD-12  # ping: 9090ms
