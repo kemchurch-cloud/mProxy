@@ -1,3 +1,4 @@
-# failover-tg-fallback.txt (1 прокси) | 2026-08-20 09:04:39
+# failover-tg-fallback.txt (2 прокси) | 2026-08-20 09:33:06
 
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 8614ms
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIltPcGVuUmF5XSBcdUQ4M0NcdURERjBcdUQ4M0NcdURERjcgS1ItMjMwOCIsDQogICJhZGQiOiAiMTMyLjE0NS44MC4yMzAiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9jY3R2MTMubTN1OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiLA0KICAidmNuIjogIiIsDQogICJwY3MiOiAiIg0KfQ==  # ping: 5251ms
+vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?encryption=none&security=none&type=ws&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21215  # ping: 6316ms
