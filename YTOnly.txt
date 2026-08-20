@@ -1,25 +1,23 @@
-# YTOnly (10)
-# 2026-08-20 22:27:52.131654
+# YTOnly (9)
+# 2026-08-20 22:52:42.233555
 
 
 # ===== Россия =====
-# RU | 4215ms | 5.23.53.167:8443
+# RU | 1354ms | 5.23.53.167:8443
 vless://cf70a85e-a966-4cad-89a3-ae1214e5cdd9@5.23.53.167:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=kAMUeKaC-R0Xqo-yknFK23mxzkfxp57w_oWf7yaIRAs&sid=41fa79d561d7addb&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 4743ms | 5.23.53.167:2083
-vless://ced66593-2bd0-482a-a205-29f0957f15c6@5.23.53.167:2083?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=vKRYvpGYWVYdX1ZUr74DbKRii5h3xvk9LTPP6JPznX8&sid=3a0ff4aa9b8c4299&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B%2ACIDR%5D
-# RU | 4752ms | 5.23.53.167:8443
-vless://cf70a85e-a966-4cad-89a3-ae1214e5cdd9@5.23.53.167:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=kAMUeKaC-R0Xqo-yknFK23mxzkfxp57w_oWf7yaIRAs&sid=41fa79d561d7addb&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 5098ms | 185.65.148.151:2007
-vless://3e24a03c-c398-43ab-b4c5-c5c953626496@185.65.148.151:2007?encryption=none&flow=xtls-rprx-vision&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 5430ms | 5.23.53.167:2083
-vless://ced66593-2bd0-482a-a205-29f0957f15c6@5.23.53.167:2083?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=vKRYvpGYWVYdX1ZUr74DbKRii5h3xvk9LTPP6JPznX8&sid=3a0ff4aa9b8c4299&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
-# RU | 5883ms | 185.65.148.151:2007
-vless://3e24a03c-c398-43ab-b4c5-c5c953626496@185.65.148.151:2007?encryption=none&flow=xtls-rprx-vision&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 6217ms | 5.23.53.167:8443
+# RU | 1971ms | 5.23.53.167:8443
 vless://cf70a85e-a966-4cad-89a3-ae1214e5cdd9@5.23.53.167:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=kAMUeKaC-R0Xqo-yknFK23mxzkfxp57w_oWf7yaIRAs&sid=41fa79d561d7addb&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 6276ms | 5.23.53.167:8443
+# RU | 2006ms | 5.23.53.167:8443
 vless://cf70a85e-a966-4cad-89a3-ae1214e5cdd9@5.23.53.167:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=kAMUeKaC-R0Xqo-yknFK23mxzkfxp57w_oWf7yaIRAs&sid=41fa79d561d7addb&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 8704ms | 185.65.148.151:2007
+# RU | 3238ms | 5.23.53.167:2083
+vless://ced66593-2bd0-482a-a205-29f0957f15c6@5.23.53.167:2083?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=vKRYvpGYWVYdX1ZUr74DbKRii5h3xvk9LTPP6JPznX8&sid=3a0ff4aa9b8c4299&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
+# RU | 4574ms | 5.23.53.167:8443
+vless://cf70a85e-a966-4cad-89a3-ae1214e5cdd9@5.23.53.167:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=kAMUeKaC-R0Xqo-yknFK23mxzkfxp57w_oWf7yaIRAs&sid=41fa79d561d7addb&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 6518ms | 185.65.148.151:2007
+vless://3e24a03c-c398-43ab-b4c5-c5c953626496@185.65.148.151:2007?encryption=none&flow=xtls-rprx-vision&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
+# RU | 7087ms | 185.65.148.151:2007
+vless://3e24a03c-c398-43ab-b4c5-c5c953626496@185.65.148.151:2007?encryption=none&flow=xtls-rprx-vision&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
+# RU | 7689ms | 185.65.148.151:2007
 vless://3e24a03c-c398-43ab-b4c5-c5c953626496@185.65.148.151:2007?encryption=none&flow=xtls-rprx-vision&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 8853ms | 185.65.148.151:2007
+# RU | 8088ms | 185.65.148.151:2007
 vless://3e24a03c-c398-43ab-b4c5-c5c953626496@185.65.148.151:2007?encryption=none&flow=xtls-rprx-vision&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
