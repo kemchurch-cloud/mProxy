@@ -1,21 +1,13 @@
-# YTOnly (8)
-# 2026-08-21 08:53:30.902597
+# YTOnly (4)
+# 2026-08-21 09:18:06.537036
 
 
 # ===== Россия =====
-# RU | 597ms | 201.51.5.44:27443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@201.51.5.44:27443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=SzQ67e8z2qNV5Ad-HpYTUOwbRphD31SSC9X9eVynPQw&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 740ms | 201.51.5.44:27443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@201.51.5.44:27443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=SzQ67e8z2qNV5Ad-HpYTUOwbRphD31SSC9X9eVynPQw&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-# RU | 1371ms | 72.56.250.133:443
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@72.56.250.133:443?security=reality&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 1616ms | 78.159.246.204:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
-# RU | 1694ms | 72.56.250.133:443
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@72.56.250.133:443?security=reality&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 1923ms | 78.159.246.204:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 2146ms | 78.159.246.204:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
-# RU | 2364ms | 78.159.246.204:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 616ms | 78.159.246.204:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 786ms | 78.159.246.204:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 1937ms | 46.254.17.186:443
+vless://68dc7ee8-179e-4dff-8275-2c4ebc5c03ea@46.254.17.186:443?encryption=none&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&security=reality&sid=a9dc98a7dc87a7dc&sni=ads.x5.ru&type=raw&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | 5104ms | 46.254.17.186:443
+vless://68dc7ee8-179e-4dff-8275-2c4ebc5c03ea@46.254.17.186:443?encryption=none&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&security=reality&sid=a9dc98a7dc87a7dc&sni=ads.x5.ru&type=raw&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
