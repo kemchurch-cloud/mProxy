@@ -1,51 +1,63 @@
-# YT+TG (16)
-# 2026-08-21 21:22:26.300957
+# YT+TG (20)
+# 2026-08-21 21:47:29.034081
 
-# RU | YT:863ms TG:1788ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
+# RU | YT:1728ms TG:1796ms
+vless://db0bb487-391b-400d-a61b-d5311a8c1836@s3.x10groupserver.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=s3.x10groupserver.top&pbk=pP2BhGsZTNo4LH_gjQwJz-DsV5y3yQKIPhyYo93RMTA&sid=a1b2c3d4&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:1002ms TG:2192ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
+# RU | YT:1749ms TG:2192ms
+vless://db0bb487-391b-400d-a61b-d5311a8c1836@s3.x10groupserver.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=s3.x10groupserver.top&pbk=pP2BhGsZTNo4LH_gjQwJz-DsV5y3yQKIPhyYo93RMTA&sid=a1b2c3d4&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:1403ms TG:2021ms
+# RU | YT:1026ms TG:862ms
+vless://a261baf0-8e37-4ff0-b9d1-7180c570073a@rus.deall.icu:443?type=grpc&headerType=none&security=reality&encryption=none&sni=rus.deall.icu&pbk=Zo3OftHANSWinV-kajh98gqzcjWnkB_q7JPaG87SMGA&spx=%2F&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1036ms TG:900ms
+vless://a261baf0-8e37-4ff0-b9d1-7180c570073a@rus.deall.icu:443?type=grpc&headerType=none&security=reality&encryption=none&sni=rus.deall.icu&pbk=Zo3OftHANSWinV-kajh98gqzcjWnkB_q7JPaG87SMGA&spx=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:679ms TG:1061ms
+vless://a261baf0-8e37-4ff0-b9d1-7180c570073a@rus.deall.icu:443?type=grpc&headerType=none&security=reality&encryption=none&sni=rus.deall.icu&pbk=Zo3OftHANSWinV-kajh98gqzcjWnkB_q7JPaG87SMGA&spx=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1122ms TG:1445ms
 vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
 
-# RU | YT:669ms TG:3048ms
-vless://afa92127-9235-4f03-9663-5eaef3f3d7bb@72.56.8.87:443?encryption=none&type=tcp&security=reality&sni=www.bing.com&flow=xtls-rprx-vision&pbk=jqvmkS71kRIg4vycIPj0vNlb_COI6K8hILmNwHp-xj4&sid=cdb849205ccb59b0&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | YT:703ms TG:1672ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
 
-# RU | YT:949ms TG:4054ms
-vless://afa92127-9235-4f03-9663-5eaef3f3d7bb@72.56.8.87:443?encryption=none&type=tcp&security=reality&sni=www.bing.com&flow=xtls-rprx-vision&pbk=jqvmkS71kRIg4vycIPj0vNlb_COI6K8hILmNwHp-xj4&sid=cdb849205ccb59b0&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1971ms TG:1631ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
-
-# RU | YT:1623ms TG:2974ms
+# RU | YT:985ms TG:2100ms
 vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=safari#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
 
-# RU | YT:1748ms TG:1115ms
+# RU | YT:4372ms TG:3429ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
+
+# RU | YT:1054ms TG:5019ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=dl.dell.com&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
+
+# RU | YT:634ms TG:6250ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+
+# RU | YT:657ms TG:5879ms
 vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 
-# RU | YT:760ms TG:1203ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-
-# RU | YT:757ms TG:944ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-
-# RU | YT:654ms TG:1920ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-
-# RU | YT:805ms TG:1126ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-
-# RU | YT:2351ms TG:2952ms
+# RU | YT:1688ms TG:4337ms
 vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 
-# RU | YT:5777ms TG:948ms
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | YT:1754ms TG:1232ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?encryption=none&extra=null&path=%2F&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&sni=download.nvidia.com&type=xhttp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1806ms TG:2827ms
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@ru.scaleservice.xyz:443?type=tcp&security=reality&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+# RU | YT:805ms TG:1021ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?encryption=none&extra=null&path=%2F&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&sni=download.nvidia.com&type=xhttp&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
 
-# RU | YT:1978ms TG:2817ms
-vless://9e27f64b-7ae9-461b-b4c4-99696276633b@ru.scaleservice.xyz:443?type=tcp&security=reality&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+# RU | YT:1194ms TG:1958ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?encryption=none&extra=null&path=%2F&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&sni=download.nvidia.com&type=xhttp&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:556ms TG:853ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?encryption=none&extra=null&path=%2F&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&sni=download.nvidia.com&type=xhttp&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1605ms TG:1235ms
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@109.120.152.114:443?encryption=none&flow=xtls-rprx-vision&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:768ms TG:3356ms
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@109.120.152.114:443?encryption=none&flow=xtls-rprx-vision&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:7755ms TG:976ms
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?encryption=none&extra=null&path=%2F&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&security=reality&sni=download.nvidia.com&type=xhttp&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
 
