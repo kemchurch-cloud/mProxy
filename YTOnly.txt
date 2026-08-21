@@ -1,7 +1,15 @@
-# YTOnly (1)
-# 2026-08-21 13:52:57.070991
+# YTOnly (5)
+# 2026-08-21 14:18:08.071948
 
 
 # ===== Россия =====
-# RU | 3217ms | 45.151.182.188:8444
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@45.151.182.188:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+# RU | 1002ms | 189.74.106.3:443
+vless://9e94beb2-de41-40f6-bd26-37602fa74e22@189.74.106.3:443?encryption=none&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1678ms | 189.74.106.131:443
+vless://9e94beb2-de41-40f6-bd26-37602fa74e22@189.74.106.131:443?encryption=none&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 2712ms | 189.74.106.3:443
+vless://9e94beb2-de41-40f6-bd26-37602fa74e22@189.74.106.3:443?encryption=none&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 2867ms | 189.74.106.67:443
+vless://9e94beb2-de41-40f6-bd26-37602fa74e22@189.74.106.67:443?encryption=none&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 5305ms | 189.74.106.131:443
+vless://9e94beb2-de41-40f6-bd26-37602fa74e22@189.74.106.131:443?encryption=none&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
