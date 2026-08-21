@@ -1,9 +1,9 @@
 # YTOnly (2)
-# 2026-08-21 22:12:04.586171
+# 2026-08-21 22:37:28.039503
 
 
 # ===== Россия =====
-# RU | 1487ms | 62.233.39.8:443
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-# RU | 2203ms | 62.233.39.8:443
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@62.233.39.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | 679ms | 72.56.8.87:443
+vless://afa92127-9235-4f03-9663-5eaef3f3d7bb@72.56.8.87:443?encryption=none&type=tcp&security=reality&sni=www.bing.com&flow=xtls-rprx-vision&pbk=jqvmkS71kRIg4vycIPj0vNlb_COI6K8hILmNwHp-xj4&sid=cdb849205ccb59b0&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 3150ms | rus.deall.icu:443
+vless://a261baf0-8e37-4ff0-b9d1-7180c570073a@rus.deall.icu:443?type=grpc&headerType=none&security=reality&encryption=none&sni=rus.deall.icu&pbk=Zo3OftHANSWinV-kajh98gqzcjWnkB_q7JPaG87SMGA&spx=%2F&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
