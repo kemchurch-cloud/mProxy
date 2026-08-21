@@ -1,57 +1,69 @@
-# YT+TG (18)
-# 2026-08-21 06:48:33.723447
+# YT+TG (22)
+# 2026-08-21 07:13:32.704174
 
-# RU | YT:1145ms TG:7052ms
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
+# RU | YT:2051ms TG:6369ms
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:4930ms TG:6064ms
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
-
-# RU | YT:1015ms TG:3236ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1244ms TG:4087ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
-
-# RU | YT:1307ms TG:4192ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
-
-# RU | YT:1328ms TG:3353ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
-
-# RU | YT:1076ms TG:3497ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:2096ms TG:3550ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
-
-# RU | YT:1006ms TG:3277ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1340ms TG:3155ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:977ms TG:3324ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1027ms TG:3872ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1079ms TG:3228ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:938ms TG:3854ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1055ms TG:3516ms
-vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1167ms TG:6538ms
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
-
-# RU | YT:2422ms TG:6593ms
+# RU | YT:1327ms TG:6341ms
 vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
 
-# RU | YT:5094ms TG:6644ms
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
+# RU | YT:699ms TG:1001ms
+vless://78eb4455-0d07-3138-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:708ms TG:1059ms
+vless://78eb4455-0d07-3138-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:784ms TG:1152ms
+vless://78eb4455-0d07-3138-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1248ms TG:3226ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
+
+# RU | YT:1104ms TG:3593ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
+
+# RU | YT:1471ms TG:3268ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
+
+# RU | YT:1451ms TG:3286ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B%2ACIDR%5D
+
+# RU | YT:1085ms TG:3153ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1637ms TG:3223ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=raw&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1061ms TG:3230ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1106ms TG:3424ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1205ms TG:3395ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:981ms TG:3225ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1014ms TG:3473ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1041ms TG:3915ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1143ms TG:3527ms
+vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@80.66.65.43:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:1280ms TG:6440ms
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+
+# RU | YT:1353ms TG:6007ms
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+
+# RU | YT:5085ms TG:1550ms
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:5055ms TG:1813ms
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
 

@@ -1,35 +1,29 @@
-# YTOnly (15)
-# 2026-08-21 06:48:33.727444
+# YTOnly (12)
+# 2026-08-21 07:13:32.706174
 
 
 # ===== Россия =====
-# RU | 532ms | 5.129.249.11:443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@5.129.249.11:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru1.dataroute.biz&pbk=-yeI0ekHEAovFeiF1q7UFNRYJ8Uq_U4yla4PEn1q-GY&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 582ms | 5.129.249.11:443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@5.129.249.11:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru1.dataroute.biz&pbk=-yeI0ekHEAovFeiF1q7UFNRYJ8Uq_U4yla4PEn1q-GY&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 582ms | 5.129.249.11:443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@5.129.249.11:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru1.dataroute.biz&pbk=-yeI0ekHEAovFeiF1q7UFNRYJ8Uq_U4yla4PEn1q-GY&flow=xtls-rprx-vision&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 583ms | 5.129.249.11:443
+# RU | 459ms | 5.129.249.11:443
 vless://8e85752d-c04f-427d-9d70-b10d144c8492@5.129.249.11:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru1.dataroute.biz&pbk=-yeI0ekHEAovFeiF1q7UFNRYJ8Uq_U4yla4PEn1q-GY&flow=xtls-rprx-vision&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 1106ms | 46.243.232.122:443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
-# RU | 1193ms | 46.243.232.122:443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 1479ms | 78.159.246.204:2027
+# RU | 498ms | 5.129.249.11:443
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@5.129.249.11:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru1.dataroute.biz&pbk=-yeI0ekHEAovFeiF1q7UFNRYJ8Uq_U4yla4PEn1q-GY&flow=xtls-rprx-vision&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 534ms | 5.129.249.11:443
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@5.129.249.11:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru1.dataroute.biz&pbk=-yeI0ekHEAovFeiF1q7UFNRYJ8Uq_U4yla4PEn1q-GY&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 570ms | 5.129.249.11:443
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@5.129.249.11:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru1.dataroute.biz&pbk=-yeI0ekHEAovFeiF1q7UFNRYJ8Uq_U4yla4PEn1q-GY&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 694ms | 78.159.246.204:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20Beeline
-# RU | 1529ms | 78.159.246.204:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 1730ms | 78.159.246.204:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 1776ms | 78.159.246.204:2027
+# RU | 748ms | 78.159.246.204:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 1810ms | 78.159.246.204:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 1812ms | 78.159.246.204:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
+# RU | 1847ms | 78.159.246.204:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 1966ms | 78.159.246.204:2027
+# RU | 1850ms | 78.159.246.204:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.246.204:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline
-# RU | 5483ms | 217.26.27.149:20443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
-# RU | 5678ms | 217.26.27.149:20443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
-# RU | 5769ms | 217.26.27.149:20443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
-# RU | 7782ms | 217.26.27.149:20443
-vless://8e85752d-c04f-427d-9d70-b10d144c8492@217.26.27.149:20443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&pbk=9vJourxbBUWOjkTd_gGVCAqUANwnBvMmQjcEel8SxHE&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+# RU | 2637ms | 46.243.232.122:443
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20CDN
+# RU | 6293ms | 46.243.232.122:443
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@46.243.232.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&pbk=NMEX862Hl5C5RIv-SbSc76pkKbKdB_3nnkiaSNVOTG0&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
