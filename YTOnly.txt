@@ -1,37 +1,25 @@
-# YTOnly (16)
-# 2026-08-23 01:43:15.375008
+# YTOnly (10)
+# 2026-08-23 02:08:15.346604
 
 
 # ===== Россия =====
-# RU | 476ms | 72.56.15.104:443
+# RU | 454ms | 72.56.15.104:443
 vless://e8546eae-f013-4c97-9af3-38d9a757ff52@72.56.15.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V2PbOXT9ot7dCiYyhepfXjFGy4ZD8SeY9JseJmQIvCY&security=reality&sid=8ee3a2f81176c597&sni=qweq.sishka.network&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 600ms | 45.139.27.242:443
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@45.139.27.242:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=ru.srv.anti-zapret.com&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 639ms | s4.archive.anti-zapret.com:443
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@s4.archive.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 689ms | 139.100.228.66:44001
-vless://7295486d-96c9-4148-a7ac-2a996c00fdf2@139.100.228.66:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=ace3e0&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 691ms | 201.51.13.154:443
+# RU | 498ms | 201.51.13.154:443
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@201.51.13.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=rf3.freeinternat.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 698ms | 45.139.27.242:443
+# RU | 668ms | s4.archive.anti-zapret.com:443
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@s4.archive.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 787ms | 45.139.27.242:443
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@45.139.27.242:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=ru.srv.anti-zapret.com&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 763ms | 139.100.228.66:44001
-vless://7295486d-96c9-4148-a7ac-2a996c00fdf2@139.100.228.66:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=ace3e0&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 1116ms | 45.139.27.242:443
+# RU | 820ms | 45.139.27.242:443
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@45.139.27.242:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=ru.srv.anti-zapret.com&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1372ms | 139.100.228.66:44001
-vless://7295486d-96c9-4148-a7ac-2a996c00fdf2@139.100.228.66:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=ace3e0&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 1555ms | 185.43.5.104:443
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@185.43.5.104:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&sni=google.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 4345ms | 176.109.88.217:9443
-vless://3b14e541-d0d2-4833-a98e-05d7aa0d14b6@176.109.88.217:9443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=nlSTIZeziCL_gR8HN1UF4F_Gbcrqr4Z9pr_sM6dGbig&sid=c303fd64bf463450&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-# RU | 6705ms | 212.233.99.132:6447
-vless://663836b2-f676-43fb-977f-47c495b1b383@212.233.99.132:6447?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&security=reality&sid=89e0494514ec&sni=www.oracle.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D%20VK
-# RU | 6926ms | 176.109.88.217:9443
-vless://3b14e541-d0d2-4833-a98e-05d7aa0d14b6@176.109.88.217:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nlSTIZeziCL_gR8HN1UF4F_Gbcrqr4Z9pr_sM6dGbig&security=reality&sid=c303fd64bf463450&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-# RU | 7993ms | 5.129.194.182:443
-vless://663836b2-f676-43fb-977f-47c495b1b383@5.129.194.182:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 8070ms | ru.chick-team.ru:6447
+# RU | 965ms | 147.45.108.169:443
+vless://663836b2-f676-43fb-977f-47c495b1b383@147.45.108.169:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 1303ms | 45.139.27.242:443
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@45.139.27.242:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=ru.srv.anti-zapret.com&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 3420ms | 159.194.196.46:8443
+vless://663836b2-f676-43fb-977f-47c495b1b383@159.194.196.46:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MXfd9WXeMKb5RApiIBz3do37MVVs7eSjAolIRoVT6zk&security=reality&sid=26b1888d30cae1f1&sni=fi.chick-team.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 5289ms | ru.chick-team.ru:6447
 vless://663836b2-f676-43fb-977f-47c495b1b383@ru.chick-team.ru:6447?type=tcp&security=reality&sni=www.oracle.com&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&sid=89e0494514ec&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D%20VK
-# RU | 9337ms | 176.109.88.217:9443
-vless://3b14e541-d0d2-4833-a98e-05d7aa0d14b6@176.109.88.217:9443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=nlSTIZeziCL_gR8HN1UF4F_Gbcrqr4Z9pr_sM6dGbig&sid=c303fd64bf463450&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+# RU | 5894ms | 212.233.99.132:6447
+vless://663836b2-f676-43fb-977f-47c495b1b383@212.233.99.132:6447?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&security=reality&sid=89e0494514ec&sni=www.oracle.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D%20VK
