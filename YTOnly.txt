@@ -1,75 +1,43 @@
-# YTOnly (35)
-# 2026-08-23 00:53:18.427296
+# YTOnly (19)
+# 2026-08-23 01:18:21.881488
 
 
 # ===== Россия =====
-# RU | 514ms | 139.100.228.69:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.69:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 520ms | 139.100.228.68:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.68:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 537ms | 139.100.228.68:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.68:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 537ms | 139.100.228.69:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.69:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 547ms | 139.100.228.67:44003
-vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.67:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=5dd3388b52296b89&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 550ms | 139.100.228.70:44003
-vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.70:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=90dd&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 550ms | 139.100.228.69:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.69:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 553ms | 139.100.228.70:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.70:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 555ms | 139.100.228.66:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.66:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 562ms | 139.100.228.67:44003
-vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.67:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=5dd3388b52296b89&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 562ms | 139.100.228.70:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.70:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 584ms | 139.100.228.66:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=f8&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 585ms | 139.100.228.67:44003
-vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.67:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=5dd3388b52296b89&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 593ms | 139.100.228.66:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=f8&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 602ms | 139.100.228.67:44003
-vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.67:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=90dd&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 614ms | 185.39.206.241:443
-vless://663836b2-f676-43fb-977f-47c495b1b383@185.39.206.241:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 674ms | 139.100.228.66:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 680ms | 185.39.206.241:443
-vless://663836b2-f676-43fb-977f-47c495b1b383@185.39.206.241:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 681ms | 139.100.228.70:44003
-vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.70:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=5dd3388b52296b89&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 686ms | 139.100.228.70:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.70:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 716ms | 139.100.228.68:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.68:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 718ms | 139.100.228.66:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.66:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 719ms | 81.19.135.191:443
-vless://663836b2-f676-43fb-977f-47c495b1b383@81.19.135.191:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 733ms | 139.100.228.66:44006
-vless://cde701a2-d905-4661-8ab0-0097baabb540@139.100.228.66:44006?encryption=none&flow=xtls-rprx-vision&pbk=cVZg8AuCM1z8Z_u9oz3otZKsBcOI1Yav66U5Wbb_ozg&security=reality&sid=175236a1893d863e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D
-# RU | 733ms | 139.100.228.68:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.68:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=f8&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 747ms | 139.100.228.68:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.68:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 750ms | 45.139.27.242:443
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@45.139.27.242:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=ru.srv.anti-zapret.com&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 751ms | 5.129.249.118:443
-vless://663836b2-f676-43fb-977f-47c495b1b383@5.129.249.118:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 772ms | 139.100.228.66:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 838ms | 139.100.228.66:44002
-vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 888ms | 139.100.228.68:44002
+# RU | 451ms | 139.100.228.69:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.69:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=f8&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 464ms | 139.100.228.69:44003
+vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.69:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=90dd&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 467ms | 139.100.228.69:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.69:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 481ms | 5.129.194.182:443
+vless://663836b2-f676-43fb-977f-47c495b1b383@5.129.194.182:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 489ms | 139.100.228.68:44002
 vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.68:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
-# RU | 1344ms | 139.100.228.67:44003
-vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.67:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=90dd&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 2989ms | 45.139.27.242:443
+# RU | 525ms | 139.100.228.69:44003
+vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.69:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=5dd3388b52296b89&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 526ms | 139.100.228.67:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.67:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 543ms | 139.100.228.69:44003
+vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.69:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=90dd&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 642ms | 139.100.228.69:44003
+vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.69:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=90dd&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 725ms | 139.100.228.66:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=f8&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 802ms | 139.100.228.69:44003
+vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.69:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=5dd3388b52296b89&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 860ms | 139.100.228.70:44003
+vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.70:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=90dd&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 913ms | 45.139.27.242:443
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@45.139.27.242:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=ru.srv.anti-zapret.com&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 975ms | 45.139.27.242:443
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@45.139.27.242:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=ru.srv.anti-zapret.com&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 3547ms | 81.19.135.191:443
-vless://663836b2-f676-43fb-977f-47c495b1b383@81.19.135.191:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 3830ms | 176.109.88.217:9443
-vless://3b14e541-d0d2-4833-a98e-05d7aa0d14b6@176.109.88.217:9443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=nlSTIZeziCL_gR8HN1UF4F_Gbcrqr4Z9pr_sM6dGbig&sid=c303fd64bf463450&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1353ms | 139.100.228.66:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=f8&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 1583ms | 139.100.228.66:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 1712ms | 139.100.228.66:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
+# RU | 1748ms | 139.100.228.66:44003
+vless://8cb4fd2f-896b-49e0-9110-1b99e55e6c80@139.100.228.66:44003?encryption=none&flow=xtls-rprx-vision&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&security=reality&sid=5dd3388b52296b89&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 3258ms | 139.100.228.66:44002
+vless://200c72d5-bb89-437d-bb0e-fb3005788804@139.100.228.66:44002?encryption=none&flow=xtls-rprx-vision&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e41e&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%5B%2ACIDR%5D
