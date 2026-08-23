@@ -1,37 +1,15 @@
-# YTOnly (16)
-# 2026-08-24 04:49:27.044270
+# YTOnly (5)
+# 2026-08-24 05:14:21.569796
 
 
 # ===== Россия =====
-# RU | 1462ms | 89.169.46.74:8448
-vless://b3198f79-b4e6-4da0-9088-a9ec89e5f8d7@89.169.46.74:8448?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=WvMqlTcY5BY7WbrsGCwtA4VzhXGaP-FkjoOHn-yMsSI&sid=a94eb0e19d010373&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 1744ms | 89.169.46.74:8448
-vless://b3198f79-b4e6-4da0-9088-a9ec89e5f8d7@89.169.46.74:8448?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=WvMqlTcY5BY7WbrsGCwtA4VzhXGaP-FkjoOHn-yMsSI&sid=a94eb0e19d010373&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 2226ms | 89.169.46.74:8448
-vless://b3198f79-b4e6-4da0-9088-a9ec89e5f8d7@89.169.46.74:8448?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=WvMqlTcY5BY7WbrsGCwtA4VzhXGaP-FkjoOHn-yMsSI&sid=a94eb0e19d010373&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 3784ms | in-ru-vk-01.ray-balance.space:443
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=ios#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 4648ms | 89.169.46.74:8443
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@89.169.46.74:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&sid=4f676caa93313eab&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 4707ms | in-ru-vk-01.ray-balance.space:443
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=edge#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 4715ms | in-ru-vk-01.ray-balance.space:443
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=safari#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 4921ms | 89.169.46.74:2053
-vless://246bf902-1b08-4bc4-b851-c4987d804bac@89.169.46.74:2053?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 5404ms | 89.169.46.74:2053
-vless://246bf902-1b08-4bc4-b851-c4987d804bac@89.169.46.74:2053?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 5466ms | in-ru-vk-01.ray-balance.space:443
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=firefox#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 5575ms | in-ru-vk-01.ray-balance.space:443
+# RU | 2743ms | in-ru-vk-01.ray-balance.space:443
 vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=qq#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 6041ms | 89.169.46.74:2053
-vless://246bf902-1b08-4bc4-b851-c4987d804bac@89.169.46.74:2053?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&sid=688c54e7b1ebddec&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-# RU | 6629ms | 89.169.46.74:8443
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@89.169.46.74:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&sid=4f676caa93313eab&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 7694ms | 89.169.46.74:8443
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@89.169.46.74:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&sid=4f676caa93313eab&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 9195ms | 72.56.34.223:15205
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@72.56.34.223:15205?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&fp=edge#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%5B%2ACIDR%5D
-# RU | 9491ms | 72.56.34.223:15205
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@72.56.34.223:15205?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&fp=firefox#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20%5B%2ACIDR%5D
+# RU | 3049ms | 84.23.54.213:443
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+# RU | 3110ms | in-ru-vk-01.ray-balance.space:443
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=ios#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 3195ms | in-ru-vk-01.ray-balance.space:443
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=safari#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 4124ms | in-ru-vk-01.ray-balance.space:443
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=edge#%F0%9F%87%BB%F0%9F%87%AE%20U.S.%20Virgin%20Islands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
