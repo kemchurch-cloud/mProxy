@@ -1,17 +1,17 @@
 # YTOnly (6)
-# 2026-08-23 11:17:17.899707
+# 2026-08-23 11:42:15.762178
 
 
 # ===== Россия =====
 # RU | 481ms | 139.100.228.69:44001
-vless://8a46f9a6-be9c-45a6-952f-3c75f4d38c67@139.100.228.69:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=20&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 482ms | 139.100.228.69:44001
-vless://8a46f9a6-be9c-45a6-952f-3c75f4d38c67@139.100.228.69:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=20&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 504ms | 139.100.228.69:44001
 vless://8a46f9a6-be9c-45a6-952f-3c75f4d38c67@139.100.228.69:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=20&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 562ms | 109.73.206.180:443
+# RU | 496ms | 139.100.228.69:44001
+vless://8a46f9a6-be9c-45a6-952f-3c75f4d38c67@139.100.228.69:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=20&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 505ms | 139.100.228.69:44001
+vless://8a46f9a6-be9c-45a6-952f-3c75f4d38c67@139.100.228.69:44001?encryption=none&flow=xtls-rprx-vision&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&security=reality&sid=20&sni=pool-c.pools.netcenter-cdn.com&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 1097ms | 72.56.236.77:443
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@72.56.236.77:443?encryption=none&flow=xtls-rprx-vision&pbk=6gz_3tpT8L9jwst8r9r-FRdekpGNobE6AVDMjQaRvlo&security=reality&sid=b44f10d2fc37a45a&sni=r.windconnect.pro&type=tcp&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 3143ms | 72.56.236.77:443
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@72.56.236.77:443?encryption=none&flow=xtls-rprx-vision&pbk=6gz_3tpT8L9jwst8r9r-FRdekpGNobE6AVDMjQaRvlo&security=reality&sid=b44f10d2fc37a45a&sni=r.windconnect.pro&type=tcp&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 5550ms | 109.73.206.180:443
 vless://663836b2-f676-43fb-977f-47c495b1b383@109.73.206.180:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 6119ms | 72.56.236.77:443
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@72.56.236.77:443?encryption=none&flow=xtls-rprx-vision&pbk=6gz_3tpT8L9jwst8r9r-FRdekpGNobE6AVDMjQaRvlo&security=reality&sid=b44f10d2fc37a45a&sni=r.windconnect.pro&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%5B%2ACIDR%5D
-# RU | 8961ms | 72.56.236.77:443
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@72.56.236.77:443?encryption=none&flow=xtls-rprx-vision&pbk=6gz_3tpT8L9jwst8r9r-FRdekpGNobE6AVDMjQaRvlo&security=reality&sid=b44f10d2fc37a45a&sni=r.windconnect.pro&type=tcp&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
