@@ -1,15 +1,17 @@
-# YTOnly (5)
-# 2026-08-23 23:48:21.303146
+# YTOnly (6)
+# 2026-08-24 00:13:17.564485
 
 
 # ===== Россия =====
-# RU | 887ms | api.yandex-dev.com:443
-vless://5e50f2b6-0cf8-4cc5-b68a-1c47b89bd257@api.yandex-dev.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex-dev.com&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%7C%20%5B%2ACIDR%5D
-# RU | 1820ms | in-ru-vk-01.ray-balance.space:443
+# RU | 907ms | in-ru-vk-01.ray-balance.space:443
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 1167ms | in-ru-vk-01.ray-balance.space:443
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 1698ms | in-ru-vk-01.ray-balance.space:443
 vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 1934ms | in-ru-vk-01.ray-balance.space:443
+# RU | 1709ms | in-ru-vk-01.ray-balance.space:443
 vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D%20VK
-# RU | 6398ms | api.yandex-api.org:443
-vless://5e50f2b6-0cf8-4cc5-b68a-1c47b89bd257@api.yandex-api.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex-api.org&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
-# RU | 9361ms | api.yandex-api.org:443
-vless://5e50f2b6-0cf8-4cc5-b68a-1c47b89bd257@api.yandex-api.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex-api.org&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
+# RU | 8297ms | api.yandex-api.org:443
+vless://5e50f2b6-0cf8-4cc5-b68a-1c47b89bd257@api.yandex-api.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex-api.org&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
+# RU | 9962ms | api.yandex-api.org:443
+vless://5e50f2b6-0cf8-4cc5-b68a-1c47b89bd257@api.yandex-api.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.yandex-api.org&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
