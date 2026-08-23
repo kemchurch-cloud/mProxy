@@ -1,21 +1,25 @@
-# YTOnly (8)
-# 2026-08-23 18:23:46.386350
+# YTOnly (10)
+# 2026-08-23 18:48:49.422257
 
 
 # ===== Россия =====
-# RU | 4522ms | 46.243.234.205:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
-# RU | 4532ms | 46.243.234.205:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 5020ms | 46.243.234.205:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 5081ms | 46.243.234.205:2027
+# RU | 2359ms | medicine.repaironline.biz:443
+vless://f463819c-5e64-458a-808b-6693afb47aa4@medicine.repaironline.biz:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=medicine.repaironline.biz&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+# RU | 2595ms | medicine.repaironline.biz:443
+vless://f463819c-5e64-458a-808b-6693afb47aa4@medicine.repaironline.biz:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=medicine.repaironline.biz&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+# RU | 4127ms | medicine.repaironline.biz:443
+vless://f463819c-5e64-458a-808b-6693afb47aa4@medicine.repaironline.biz:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=medicine.repaironline.biz&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+# RU | 5562ms | 46.243.234.205:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
-# RU | 5100ms | 46.243.234.205:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 5123ms | 46.243.234.205:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 5587ms | 46.243.234.205:2027
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
-# RU | 6444ms | 46.243.234.205:2027
+# RU | 5698ms | 46.243.234.205:2027
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20CDN
+# RU | 5902ms | medicine.repaironline.biz:443
+vless://f463819c-5e64-458a-808b-6693afb47aa4@medicine.repaironline.biz:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=medicine.repaironline.biz&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+# RU | 6471ms | medicine.repaironline.biz:443
+vless://f463819c-5e64-458a-808b-6693afb47aa4@medicine.repaironline.biz:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=medicine.repaironline.biz&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5B%2ACIDR%5D
+# RU | 7487ms | 46.243.234.205:2027
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.234.205:2027?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20CDN
+# RU | 7640ms | 46.243.232.131:7449
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@46.243.232.131:7449?security=reality&encryption=none&pbk=-IBlhBn8rn8BwgG60YXaz3-o6mR_wvn6WlXLDYvVLkU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl1.cdnvideo.app&sid=b9f8f9772217538f&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20CDN
+# RU | 8205ms | 46.243.232.131:7449
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@46.243.232.131:7449?security=reality&encryption=none&pbk=-IBlhBn8rn8BwgG60YXaz3-o6mR_wvn6WlXLDYvVLkU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl1.cdnvideo.app&sid=b9f8f9772217538f&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20CDN
