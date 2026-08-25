@@ -1,23 +1,23 @@
 # YTOnly (9)
-# 2026-08-25 09:58:35.417389
+# 2026-08-25 10:23:40.360552
 
 
 # ===== Россия =====
-# RU | 586ms | 84.23.54.213:443
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
-# RU | 678ms | 185.147.26.216:443
+# RU | 557ms | xhttpru.enotvpn.net:443
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@xhttpru.enotvpn.net:443?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&type=xhttp&path=/&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 608ms | 84.23.54.213:443
+vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@84.23.54.213:443?flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+# RU | 620ms | 185.147.26.216:443
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@185.147.26.216:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 727ms | 185.147.26.216:443
-vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@185.147.26.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 815ms | 185.147.26.216:443
-vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@185.147.26.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 890ms | s4.arch.anti-zapret.com:443
-vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@s4.arch.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 912ms | s4.arch.anti-zapret.com:443
+# RU | 645ms | s4.arch.anti-zapret.com:443
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@s4.arch.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1887ms | edge6.rumedia-cdn.com:2053
-vless://246bf902-1b08-4bc4-b851-c4987d804bac@edge6.rumedia-cdn.com:2053?flow=xtls-rprx-vision&fp=chrome&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&security=reality&sid=688c54e7b1ebddec&sni=www.rumedia-cdn.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 4177ms | in-ru-vk-01.ray-balance.space:443
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
-# RU | 4596ms | in-ru-vk-01.ray-balance.space:443
-vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+# RU | 660ms | in-ru-vk-01.ray-balance.space:443
+vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?encryption=none&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&flow=xtls-rprx-vision&type=tcp&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+# RU | 702ms | s4.arch.anti-zapret.com:443
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@s4.arch.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 755ms | 185.147.26.216:443
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@185.147.26.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 887ms | 185.147.26.216:443
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@185.147.26.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 934ms | 188.68.220.99:443
+vless://2daa9f67-8edc-41a2-a401-4a2497640c53@188.68.220.99:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=D-OHTModvYqWAvNpZUlIEB4he1pQ0HUHB4fUd6LyOic&security=reality&sid=ecc652c213fed5d1&sni=uk.nightproducts.ru&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
