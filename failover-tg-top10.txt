@@ -1,4 +1,8 @@
-# failover-tg-top10.txt (2 прокси) | 2026-08-25 06:33:29
+# failover-tg-top10.txt (6 прокси) | 2026-08-25 07:03:15
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D  # ping: 6069ms
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&security=reality&sni=bgcpartners.com&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sid=e6ac18b63f23&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vless-JP  # ping: 7091ms
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIltPcGVuUmF5XSBcdUQ4M0NcdURERjBcdUQ4M0NcdURERjcgS1ItMjMwOCIsDQogICJhZGQiOiAiMTMyLjE0NS44MC4yMzAiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9jY3R2MTMubTN1OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiLA0KICAidmNuIjogIiIsDQogICJwY3MiOiAiIg0KfQ==  # ping: 1244ms
+trojan://FH72359861@settled-camel.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 1265ms
+trojan://EQ30679154@54.199.234.4:443?security=tls&sni=liked-eft.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 1458ms
+trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 1501ms
+trojan://FH72359861@light-filly.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20trojan-JP  # ping: 2891ms
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20trojan-DE  # ping: 4318ms
