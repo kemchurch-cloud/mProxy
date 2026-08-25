@@ -1,21 +1,17 @@
-# YTOnly (8)
-# 2026-08-25 07:54:22.341218
+# YTOnly (6)
+# 2026-08-25 08:19:16.408046
 
 
 # ===== Россия =====
-# RU | 696ms | edge3.rumedia-cdn.com:2084
-vless://a95974c3-29ed-4548-ab42-b588b321a5ce@edge3.rumedia-cdn.com:2084?security=reality&encryption=none&pbk=mrsI2kSF8FmNnFKn_-bpDU8VS6Tews7wkABJGdwMUAg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=3578bd8a4032dcab#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
-# RU | 714ms | s4.arch.anti-zapret.com:443
+# RU | 650ms | 217.149.30.225:2083
+vless://51afc65b-70f9-46f9-bbf5-6dab07fb94c6@217.149.30.225:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UPNrOP5K4VMKioVmi1o15crjzHP3tkeMQr-ivgBNNQU&security=reality&sid=eb95c48c14152f51&sni=www.rumedia-cdn.com&type=raw#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+# RU | 652ms | s4.arch.anti-zapret.com:443
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@s4.arch.anti-zapret.com:443?encryption=none&security=reality&sni=ru.srv.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 760ms | 185.147.26.216:443
+# RU | 660ms | 185.147.26.216:443
 vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@185.147.26.216:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 772ms | 138.16.129.32:2083
-vless://51afc65b-70f9-46f9-bbf5-6dab07fb94c6@138.16.129.32:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UPNrOP5K4VMKioVmi1o15crjzHP3tkeMQr-ivgBNNQU&security=reality&sid=eb95c48c14152f51&sni=www.rumedia-cdn.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-# RU | 1775ms | 217.149.30.225:8449
-vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@217.149.30.225:8449?encryption=none&flow=xtls-rprx-vision&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&security=reality&sid=60ccd0e5ab46ac4f&sni=www.rumedia-cdn.com&type=tcp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
-# RU | 2882ms | 217.149.30.225:2084
-vless://a95974c3-29ed-4548-ab42-b588b321a5ce@217.149.30.225:2084?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mrsI2kSF8FmNnFKn_-bpDU8VS6Tews7wkABJGdwMUAg&security=reality&sid=3578bd8a4032dcab&sni=www.rumedia-cdn.com&type=raw#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
-# RU | 3960ms | 217.149.30.225:8449
-vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@217.149.30.225:8449?flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=60ccd0e5ab46ac4f&security=reality&type=tcp&fp=firefox&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
-# RU | 6439ms | rf3.helper-internet.com:443
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@rf3.helper-internet.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rf3.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+# RU | 1535ms | edge2.rumedia-cdn.com:2083
+vless://51afc65b-70f9-46f9-bbf5-6dab07fb94c6@edge2.rumedia-cdn.com:2083?type=tcp&security=reality&sni=edge2.rumedia-cdn.com&pbk=UPNrOP5K4VMKioVmi1o15crjzHP3tkeMQr-ivgBNNQU&sid=eb95c48c14152f51&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+# RU | 1645ms | edge3.rumedia-cdn.com:2084
+vless://a95974c3-29ed-4548-ab42-b588b321a5ce@edge3.rumedia-cdn.com:2084?security=reality&encryption=none&pbk=mrsI2kSF8FmNnFKn_-bpDU8VS6Tews7wkABJGdwMUAg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=3578bd8a4032dcab#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
+# RU | 1857ms | edge1.rumedia-cdn.com:443
+vless://42a6ff62-1d4e-4065-8e44-bab910e19e3b@edge1.rumedia-cdn.com:443?type=tcp&security=reality&sni=edge1.rumedia-cdn.com&pbk=MFVPHZoccZWr4YZLcIaVedY07BhRfdT4y1XWpp2IWnA&sid=97fbc6738543f9dc&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
