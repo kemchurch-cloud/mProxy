@@ -1,18 +1,25 @@
-# CheckedRU (15)
-# 2026-08-25 23:19:07.240596
+# CheckedRU (22)
+# 2026-08-25 23:43:16.615029
 
-vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&type=tcp&headerType=none&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
+vless://3499f741-a304-4212-8bb9-4d809e154e28@178.248.238.84:40443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://3499f741-a304-4212-8bb9-4d809e154e28@178.248.238.84:40443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@45.8.228.221:443?encryption=none&flow=xtls-rprx-vision&pbk=jH4V3uiaouX2CttfTf0vnyJjsxaJgXZs_x1ZwVQneTE&security=reality&sid=7aef2202&sni=fr.esimpson.org&spx=%2F&type=raw&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://aec0d79c-7f35-4855-b794-14dd5739efa3@147.45.249.77:443?encryption=none&flow=xtls-rprx-vision&pbk=uFzv_DhDhQUc2PYaMJCM7mD5Ed670K3ubHHej52XNU0&security=reality&sni=ndcdn.protectednetwork.shop&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=android#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
+vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=android#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D
 vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
-vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
-vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
-vless://aec0d79c-7f35-4855-b794-14dd5739efa3@ndnode.protectednetwork.shop:443?security=reality&flow=xtls-rprx-vision&pbk=uFzv_DhDhQUc2PYaMJCM7mD5Ed670K3ubHHej52XNU0&sni=ndcdn.protectednetwork.shop&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://aec0d79c-7f35-4855-b794-14dd5739efa3@ndnode.protectednetwork.shop:443?security=reality&flow=xtls-rprx-vision&pbk=uFzv_DhDhQUc2PYaMJCM7mD5Ed670K3ubHHej52XNU0&sni=ndcdn.protectednetwork.shop&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://aec0d79c-7f35-4855-b794-14dd5739efa3@ndnode.protectednetwork.shop:443?security=reality&flow=xtls-rprx-vision&pbk=uFzv_DhDhQUc2PYaMJCM7mD5Ed670K3ubHHej52XNU0&sni=ndcdn.protectednetwork.shop&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
-vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?type=ws&security=tls&sni=run5.wba-pn.ru&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D
+vless://aec0d79c-7f35-4855-b794-14dd5739efa3@ndnode.protectednetwork.shop:443?encryption=none&security=reality&sni=ndcdn.protectednetwork.shop&pbk=uFzv_DhDhQUc2PYaMJCM7mD5Ed670K3ubHHej52XNU0&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+vless://aec0d79c-7f35-4855-b794-14dd5739efa3@ndnode.protectednetwork.shop:443?encryption=none&security=reality&sni=ndcdn.protectednetwork.shop&pbk=uFzv_DhDhQUc2PYaMJCM7mD5Ed670K3ubHHej52XNU0&flow=xtls-rprx-vision&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@84.23.54.213:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&sni=www.ray-balance.space&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D%20VK
+vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@45.8.228.221:443?encryption=none&flow=xtls-rprx-vision&pbk=jH4V3uiaouX2CttfTf0vnyJjsxaJgXZs_x1ZwVQneTE&security=reality&sid=7aef2202&sni=fr.esimpson.org&spx=%2F&type=raw&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@84.23.54.213:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&sni=www.ray-balance.space&fp=safari#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D%20VK
+vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?type=ws&security=tls&sni=run5.wba-pn.ru&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?type=ws&security=tls&sni=run5.wba-pn.ru&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?type=ws&security=tls&sni=run5.wba-pn.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?type=ws&security=tls&sni=run5.wba-pn.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?type=ws&security=tls&sni=run5.wba-pn.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-vless://11f3e7b1-5507-46da-a268-1f70a543e40a@run5.wba-pn.ru:8443?type=ws&security=tls&sni=run5.wba-pn.ru&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&type=tcp&headerType=none&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
