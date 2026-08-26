@@ -1,51 +1,15 @@
-# YTOnly (23)
-# 2026-08-27 02:26:20.916787
+# YTOnly (5)
+# 2026-08-27 02:47:18.685179
 
 
 # ===== Россия =====
-# RU | 709ms | ru.rkn.life:7443
-vless://119b8617-9b17-4b60-974c-139d59ee823f@ru.rkn.life:7443?security=tls&encryption=none&sni=ru.rkn.life&alpn=http%2F1.1&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 742ms | ru-2.rkn.life:8443
-vless://119b8617-9b17-4b60-974c-139d59ee823f@ru-2.rkn.life:8443?security=tls&encryption=none&sni=ru-2.rkn.life&alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 755ms | ru-3.rkn.life:7443
-vless://119b8617-9b17-4b60-974c-139d59ee823f@ru-3.rkn.life:7443?security=tls&encryption=none&sni=ru-3.rkn.life&alpn=http%2F1.1&flow=xtls-rprx-vision&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 839ms | 84.23.54.213:443
-vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 1109ms | ru-2.rkn.life:7443
-vless://119b8617-9b17-4b60-974c-139d59ee823f@ru-2.rkn.life:7443?security=tls&encryption=none&sni=ru-2.rkn.life&alpn=http%2F1.1&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 1150ms | ru-2.rkn.life:7443
-vless://119b8617-9b17-4b60-974c-139d59ee823f@ru-2.rkn.life:7443?security=tls&encryption=none&sni=ru-2.rkn.life&alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 1671ms | ru.rkn.life:8443
-vless://119b8617-9b17-4b60-974c-139d59ee823f@ru.rkn.life:8443?security=tls&encryption=none&sni=ru.rkn.life&alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 1689ms | multi2.techdatacloud.org:8080
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 1759ms | multi2.techdatacloud.org:8080
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 1936ms | 84.23.54.213:443
-vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 1999ms | in-ru-vk-01.ray-balance.space:443
-vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&sni=www.ray-balance.space&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 2257ms | multi2.techdatacloud.org:8080
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 2690ms | ru-de.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 2763ms | ru-de.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 2913ms | multi2.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 3414ms | in-ru-vk-01.ray-balance.space:443
-vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&sni=www.ray-balance.space&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 3933ms | multi2.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 5398ms | multi2.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
-# RU | 5734ms | 84.23.54.213:443
-vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 6347ms | 84.23.54.213:443
-vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 7024ms | ru-de.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 7834ms | ru-de.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-# RU | 8815ms | ru-de.techdatacloud.org:8080
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 954ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 960ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 1681ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 1905ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 8427ms | ru-at.techdatacloud.org:443
+vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-at.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D
