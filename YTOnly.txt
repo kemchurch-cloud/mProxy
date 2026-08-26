@@ -1,29 +1,27 @@
-# YTOnly (12)
-# 2026-08-27 04:04:00.586660
+# YTOnly (11)
+# 2026-08-27 04:29:17.070408
 
 
 # ===== Россия =====
-# RU | 490ms | 139.100.227.176:443
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 527ms | 139.100.227.176:443
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 586ms | 139.100.227.176:443
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 592ms | 139.100.227.176:443
+# RU | 473ms | ru-bridge.monkeyvillage.pro:443
+vless://a954d810-f9af-4950-9a96-d95a759b12d7@ru-bridge.monkeyvillage.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-bridge.monkeyvillage.pro&pbk=H0bAU_r0uJoCA-yq9TXr54tZZ13jON20h8oGPkvWuS0&sid=be2ee1fd01f17f0e&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 505ms | 139.100.227.176:443
 vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?type=tcp&security=reality&sni=ya.ru&flow=xtls-rprx-vision&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&sid=5726b22c209c49&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 622ms | 84.23.54.213:443
-vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 671ms | 139.100.227.176:443
+# RU | 549ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 653ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 737ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+# RU | 895ms | 139.100.227.176:443
 vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1450ms | 84.23.54.213:443
-vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 1756ms | in-ru-vk-01.ray-balance.space:443
-vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&type=tcp&headerType=none&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 1847ms | 84.23.54.213:443
-vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 2069ms | 84.23.54.213:443
+# RU | 1900ms | 84.23.54.213:443
 vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 2074ms | 84.23.54.213:443
+# RU | 2185ms | in-ru-vk-01.ray-balance.space:443
+vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&sni=www.ray-balance.space&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+# RU | 4618ms | 84.23.54.213:443
+vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+# RU | 5737ms | 84.23.54.213:443
 vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
-# RU | 2454ms | 139.100.227.176:443
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 8025ms | 84.23.54.213:443
+vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
