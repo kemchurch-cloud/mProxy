@@ -1,24 +1,42 @@
-# YT+TG (7)
-# 2026-08-26 15:11:48.688064
+# YT+TG (13)
+# 2026-08-26 15:37:18.855973
 
-# RU | YT:1671ms TG:2732ms
-vless://72cb684a-2227-4bcb-b40a-ad99904b5979@109.120.191.142:443?encryption=none&flow=xtls-rprx-vision&pbk=_KOPwSi3ejhLJoYOFT4bz0qB_0r064ae-XuG5sKAZS4&security=reality&sid=6Da46894f6a521A1&sni=ads.x5.ru&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | YT:3962ms TG:6824ms
+vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&type=tcp&headerType=none&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:2493ms TG:3376ms
-vless://72cb684a-2227-4bcb-b40a-ad99904b5979@109.120.191.142:443?encryption=none&flow=xtls-rprx-vision&pbk=_KOPwSi3ejhLJoYOFT4bz0qB_0r064ae-XuG5sKAZS4&security=reality&sid=6Da46894f6a521A1&sni=ads.x5.ru&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | YT:4453ms TG:8121ms
+vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&type=tcp&headerType=none&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
 
-# RU | YT:1273ms TG:817ms
+# RU | YT:4208ms TG:3722ms
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:7742ms TG:5420ms
+vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&type=tcp&headerType=none&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:7440ms TG:5879ms
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:2876ms TG:9289ms
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:5675ms TG:6441ms
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:4720ms TG:7467ms
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:6040ms TG:6819ms
+vless://710fc22f-06b2-03ef-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BB%F0%9F%87%AE%20%5B%2ACIDR%5D%20VK
+
+# RU | YT:2762ms TG:3477ms
+vless://8c47da55-d009-4ed7-9bd3-cb1b7d37c217@se.nurvps.de:443?encryption=none&flow=xtls-rprx-vision&pbk=KyjoodHNlOIZbMeq1zt7J2jq2JAuNIDsuYK5HiHSaAY&security=reality&sid=244a05b59dcb0e4f&sni=rutube.ru&type=tcp&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:912ms TG:689ms
 vless://becd3b04-62a8-4b74-be67-be746008b4c2@80.90.190.25:443?type=grpc&security=reality&pbk=BvtGZPVt__5mZgyhhpe-pfuGHQuJQyi2N2fRr-IMryI&sid=6a1e9c3d5b7f0284&sni=stepik.org&mode=gun&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
 
-# RU | YT:1222ms TG:890ms
-vless://becd3b04-62a8-4b74-be67-be746008b4c2@80.90.190.25:443?type=grpc&security=reality&pbk=BvtGZPVt__5mZgyhhpe-pfuGHQuJQyi2N2fRr-IMryI&sid=6a1e9c3d5b7f0284&sni=stepik.org&mode=gun&fp=edge#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
-
-# RU | YT:1259ms TG:851ms
+# RU | YT:746ms TG:701ms
 vless://becd3b04-62a8-4b74-be67-be746008b4c2@80.90.190.25:443?type=grpc&security=reality&pbk=BvtGZPVt__5mZgyhhpe-pfuGHQuJQyi2N2fRr-IMryI&sid=6a1e9c3d5b7f0284&sni=stepik.org&mode=gun&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
 
-# RU | YT:1261ms TG:2857ms
-vless://d9588457-8753-411f-8368-a667bdc12c51@90.156.225.184:443?security=reality&flow=xtls-rprx-vision&sni=cdnjs.com&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-
-# RU | YT:1303ms TG:2952ms
-vless://d9588457-8753-411f-8368-a667bdc12c51@90.156.225.184:443?security=reality&flow=xtls-rprx-vision&sni=cdnjs.com&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | YT:734ms TG:733ms
+vless://becd3b04-62a8-4b74-be67-be746008b4c2@80.90.190.25:443?type=grpc&security=reality&pbk=BvtGZPVt__5mZgyhhpe-pfuGHQuJQyi2N2fRr-IMryI&sid=6a1e9c3d5b7f0284&sni=stepik.org&mode=gun&fp=edge#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
 
