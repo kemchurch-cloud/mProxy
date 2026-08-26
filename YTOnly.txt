@@ -1,15 +1,21 @@
-# YTOnly (5)
-# 2026-08-27 02:47:18.685179
+# YTOnly (8)
+# 2026-08-27 03:12:17.756256
 
 
 # ===== Россия =====
-# RU | 954ms | 139.100.227.176:443
-vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 960ms | 139.100.227.176:443
+# RU | 662ms | 139.100.227.176:443
 vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 1681ms | 139.100.227.176:443
+# RU | 1181ms | 139.100.227.176:443
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 1359ms | 139.100.227.176:443
 vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 1905ms | 139.100.227.176:443
+# RU | 1423ms | 139.100.227.176:443
 vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@139.100.227.176:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=ya.ru&pbk=Sm9bhIqBASg1A0frr4ogMq47_QfufVAkaY4bp5HhyE8&security=reality&sid=5726b22c209c49&sni=ya.ru&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-# RU | 8427ms | ru-at.techdatacloud.org:443
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-at.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sni=cloud.mail.ru&sid=0234177e87d942bf&spx=%2F&headerType=none&encryption=none&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D
+# RU | 5298ms | ru-de.techdatacloud.org:8080
+vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 5532ms | ru-de.techdatacloud.org:8080
+vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+# RU | 5596ms | ru-de.techdatacloud.org:8080
+vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 6437ms | ru-de.techdatacloud.org:8080
+vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-de.techdatacloud.org:8080?type=xhttp&security=reality&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sni=cloud.mail.ru&sid=6e643d2d54ab470d&spx=%2F&path=%2F&mode=auto&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
