@@ -1,11 +1,15 @@
-# YTOnly (3)
-# 2026-08-27 11:58:53.670759
+# YTOnly (5)
+# 2026-08-27 12:22:32.354766
 
 
 # ===== Россия =====
-# RU | 562ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?encryption=none&flow=xtls-rprx-vision&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&security=reality&sni=ru01.tuna-transfer.xyz&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 577ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?encryption=none&flow=xtls-rprx-vision&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&security=reality&sni=ru01.tuna-transfer.xyz&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 723ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?encryption=none&flow=xtls-rprx-vision&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&security=reality&sni=ru01.tuna-transfer.xyz&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 1120ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1121ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1628ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1638ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1646ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
