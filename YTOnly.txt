@@ -1,9 +1,11 @@
-# YTOnly (2)
-# 2026-08-27 11:32:27.083533
+# YTOnly (3)
+# 2026-08-27 11:58:53.670759
 
 
 # ===== Россия =====
-# RU | 888ms | 45.91.55.123:443
+# RU | 562ms | 45.91.55.123:443
+vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?encryption=none&flow=xtls-rprx-vision&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&security=reality&sni=ru01.tuna-transfer.xyz&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 577ms | 45.91.55.123:443
 vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?encryption=none&flow=xtls-rprx-vision&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&security=reality&sni=ru01.tuna-transfer.xyz&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
-# RU | 1158ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?encryption=none&flow=xtls-rprx-vision&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&security=reality&sni=ru01.tuna-transfer.xyz&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+# RU | 723ms | 45.91.55.123:443
+vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?encryption=none&flow=xtls-rprx-vision&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&security=reality&sni=ru01.tuna-transfer.xyz&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
