@@ -1,23 +1,21 @@
-# YTOnly (9)
-# 2026-08-27 12:47:28.244411
+# YTOnly (8)
+# 2026-08-27 13:12:43.111601
 
 
 # ===== Россия =====
-# RU | 649ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?security=reality&encryption=none&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru01.tuna-transfer.xyz&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 673ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?security=reality&encryption=none&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru01.tuna-transfer.xyz&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 693ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?security=reality&encryption=none&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru01.tuna-transfer.xyz&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 808ms | 45.91.55.123:443
-vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?security=reality&encryption=none&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru01.tuna-transfer.xyz&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-# RU | 811ms | ad-1.yandex-cloud.org:443
-vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 831ms | ad-1.yandex-cloud.org:443
-vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 845ms | ad-1.yandex-cloud.org:443
+# RU | 1110ms | ad-1.yandex-cloud.org:443
 vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 857ms | ad-1.yandex-cloud.org:443
-vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
-# RU | 866ms | ad-1.yandex-cloud.org:443
+# RU | 1171ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1370ms | 45.91.55.123:443
+vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?security=reality&encryption=none&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru01.tuna-transfer.xyz&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 1485ms | 45.91.55.123:443
+vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?security=reality&encryption=none&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru01.tuna-transfer.xyz&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+# RU | 1638ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1668ms | ad-1.yandex-cloud.org:443
 vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1669ms | ad-1.yandex-cloud.org:443
+vless://67f08dc0-0483-4bb1-9557-c7f48c3a5f81@ad-1.yandex-cloud.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+# RU | 1881ms | 45.91.55.123:443
+vless://51f6d362-ab6a-47f6-8aac-3ce04af14bd2@45.91.55.123:443?security=reality&encryption=none&pbk=4n4x1w9ePtXxkUdxwsbk56wmp5rnc6yK8LWqICVgORk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru01.tuna-transfer.xyz&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
