@@ -1,25 +1,25 @@
 # YTOnly (10)
-# 2026-08-27 16:08:56.676170
+# 2026-08-27 16:34:16.677161
 
 
 # ===== Россия =====
-# RU | 518ms | survio.shieldix.top:443
-vless://7f14c36b-d116-4de6-bf84-168cb56bd290@survio.shieldix.top:443?security=reality&flow=xtls-rprx-vision&sni=survio.shieldix.top&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B%2ACIDR%5D
-# RU | 534ms | harvex.ciphero.xyz:443
-vless://7f14c36b-d116-4de6-bf84-168cb56bd290@harvex.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&sni=harvex.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 564ms | harvex.ciphero.xyz:443
+# RU | 453ms | harvex.ciphero.xyz:443
 vless://7f14c36b-d116-4de6-bf84-168cb56bd290@harvex.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&sni=harvex.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 596ms | harvex.ciphero.xyz:443
-vless://7f14c36b-d116-4de6-bf84-168cb56bd290@harvex.ciphero.xyz:443?security=reality&flow=xtls-rprx-vision&sni=harvex.ciphero.xyz&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&sid=33b5887524592cad&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 751ms | 51.250.0.253:443
-vless://afa41ec4-3e2d-4bba-af0f-8f7c739f0ae3@51.250.0.253:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&pbk=13j_pxXhqzRxtIZEEpRv0qdUHuKK3VtR4mTzofaivXA&sid=9d180f0535f4235e&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 795ms | 135.106.194.254:52
-vless://9972a440-39a6-4672-8883-5dd188863acf@135.106.194.254:52?encryption=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-# RU | 1368ms | 51.250.0.253:443
-vless://afa41ec4-3e2d-4bba-af0f-8f7c739f0ae3@51.250.0.253:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&pbk=13j_pxXhqzRxtIZEEpRv0qdUHuKK3VtR4mTzofaivXA&sid=9d180f0535f4235e&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 1408ms | 51.250.0.253:443
-vless://afa41ec4-3e2d-4bba-af0f-8f7c739f0ae3@51.250.0.253:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&pbk=13j_pxXhqzRxtIZEEpRv0qdUHuKK3VtR4mTzofaivXA&sid=9d180f0535f4235e&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5B%2ACIDR%5D%20YA
-# RU | 1824ms | 185.91.54.150:443
+# RU | 783ms | 91.185.83.17:443
+vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@91.185.83.17:443?security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 1077ms | 81.90.31.208:443
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@81.90.31.208:443?encryption=none&type=xhttp&security=reality&sni=www.aviasales.com&pbk=PE9mzsnJ_wNPPxxPb-s2rD7qNQuyrFarLkB4aGiAc0Y&sid=047a2a40&path=%252F99ad04ff-593f-47e8-ad0e-dc29d11446d6&host=www.aviasales.com&alpn=http%2F1.1&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%5B%2ACIDR%5D
+# RU | 1527ms | 81.90.31.208:443
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@81.90.31.208:443?encryption=none&type=xhttp&security=reality&sni=www.aviasales.com&pbk=PE9mzsnJ_wNPPxxPb-s2rD7qNQuyrFarLkB4aGiAc0Y&sid=047a2a40&path=%252F99ad04ff-593f-47e8-ad0e-dc29d11446d6&host=www.aviasales.com&alpn=http%2F1.1&fp=ios#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%5B%2ACIDR%5D
+# RU | 1807ms | 185.91.54.150:443
 vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@185.91.54.150:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&alpn=http%2F1.1&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
-# RU | 8712ms | 176.109.85.69:9443
-vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@176.109.85.69:9443?security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 3140ms | in-ru-vk-01.ray-balance.space:443
+vless://bc6a863f-f482-03ea-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
+# RU | 4509ms | 81.163.23.131:443
+vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@81.163.23.131:443?security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 5284ms | 176.109.85.87:443
+vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@176.109.85.87:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&alpn=http%2F1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 5669ms | 176.109.85.69:9443
+vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@176.109.85.69:9443?security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+# RU | 6864ms | 81.163.23.131:443
+vless://54a33907-c356-40fa-b6f3-844b3e6a8b7c@81.163.23.131:443?security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
