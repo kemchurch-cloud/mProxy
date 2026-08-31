@@ -1,5 +1,5 @@
-# failover-tg-fallback.txt (3 прокси) | 2026-09-01 04:33:38
+# failover-tg-fallback.txt (3 прокси) | 2026-09-01 05:03:37
 
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 4355ms
-vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&sid=3fc9b11ceeb2cc6b&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-re-ra%5D%20%5B260828-040404.644%5D  # ping: 4577ms
-vless://8e16742a-78d5-4327-9052-f86a9ce50f49@46.250.250.149:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=SIBS0hevQuPeJiBQUoN5MYq8Gs_ZWyBlkHK6miz__kM&sid=90decc62dab9873f&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2933  # ping: 5638ms
+vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&sid=3fc9b11ceeb2cc6b&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-re-ra%5D%20%5B260828-040404.644%5D  # ping: 4009ms
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28882  # ping: 4107ms
+vless://8e16742a-78d5-4327-9052-f86a9ce50f49@46.250.250.149:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=SIBS0hevQuPeJiBQUoN5MYq8Gs_ZWyBlkHK6miz__kM&sid=90decc62dab9873f&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2933  # ping: 4431ms
