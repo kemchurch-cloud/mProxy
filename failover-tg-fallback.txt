@@ -1,4 +1,4 @@
-# failover-tg-fallback.txt (2 прокси) | 2026-09-01 03:03:37
+# failover-tg-fallback.txt (2 прокси) | 2026-09-01 03:33:37
 
-vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28882  # ping: 4554ms
-vless://8e16742a-78d5-4327-9052-f86a9ce50f49@46.250.250.149:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=SIBS0hevQuPeJiBQUoN5MYq8Gs_ZWyBlkHK6miz__kM&sid=90decc62dab9873f&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-2933  # ping: 4820ms
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28882  # ping: 4991ms
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.71.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28881  # ping: 5030ms
