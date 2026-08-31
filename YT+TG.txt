@@ -1,3 +1,18 @@
-# YT+TG (0)
-# 2026-08-31 12:36:46.998311
+# YT+TG (5)
+# 2026-08-31 13:02:37.732925
+
+# RU | YT:871ms TG:1552ms
+vless://04d17971-314f-4922-8e91-d03dc2303353@46.243.234.23:2026?encryption=none&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&security=reality&serviceName=grpc&sid=a1b2c3d4&sni=ads.x5.ru&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+
+# RU | YT:1600ms TG:3327ms
+vless://04d17971-314f-4922-8e91-d03dc2303353@46.243.234.23:2026?encryption=none&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&security=reality&serviceName=grpc&sid=a1b2c3d4&sni=ads.x5.ru&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+
+# RU | YT:2372ms TG:3091ms
+vless://04d17971-314f-4922-8e91-d03dc2303353@46.243.234.23:2026?encryption=none&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&security=reality&serviceName=grpc&sid=a1b2c3d4&sni=ads.x5.ru&type=grpc&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20CDN
+
+# RU | YT:3818ms TG:9212ms
+vless://04d17971-314f-4922-8e91-d03dc2303353@185.229.9.237:49115?encryption=none&pbk=geXwVgf-K3Ad-eg1Ge4TsUycerqXhJMG2_ZdKtG4SzQ&security=reality&serviceName=grpc&sid=a1b2c3d4&sni=ads.x5.ru&type=grpc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+
+# RU | YT:3665ms TG:6593ms
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.34.121:443?security=reality&encryption=none&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=russia.cendora.ru&sid=bef240e96a8474a3&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 
