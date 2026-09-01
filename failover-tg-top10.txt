@@ -1,9 +1,9 @@
-# failover-tg-top10.txt (7 прокси) | 2026-09-02 02:03:42
+# failover-tg-top10.txt (7 прокси) | 2026-09-02 02:33:45
 
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 2598ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 2754ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&sni=40.160.69.180&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25536  # ping: 2763ms
-vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28882  # ping: 3971ms
-vless://542fd687-5160-4f80-9223-56678567dd29@104.17.71.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28881  # ping: 4056ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 4312ms
-vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&sid=3fc9b11ceeb2cc6b&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-re-ra%5D%20%5B260828-040404.644%5D  # ping: 7553ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&sni=40.160.69.180&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25536  # ping: 2778ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 2805ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 3201ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 3650ms
+vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&sid=3fc9b11ceeb2cc6b&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-re-ra%5D%20%5B260828-040404.644%5D  # ping: 4004ms
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28882  # ping: 6929ms
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.71.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28881  # ping: 8959ms
