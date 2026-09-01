@@ -1,3 +1,4 @@
-# failover-tg-fallback.txt (1 прокси) | 2026-09-02 00:03:38
+# failover-tg-fallback.txt (2 прокси) | 2026-09-02 00:33:40
 
-vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28882  # ping: 10289ms
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28882  # ping: 7721ms
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.71.206:8443?encryption=none&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28881  # ping: 10111ms
