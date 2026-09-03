@@ -1,12 +1,8 @@
-# failover-tg-fallback.txt (10 прокси) | 2026-09-03 14:35:13
+# failover-tg-fallback.txt (6 прокси) | 2026-09-03 15:05:13
 
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 2654ms
-vless://1742863c-ce4b-4bb7-b807-80da29cbec86@www.gov.ua:8880?encryption=none&security=none&type=ws&host=icy-fog-9a41.70-a39.workers.dev&path=%2Fpyip%3Dproxyip.%CE%93%C3%87%C2%AA#%5BOpenRay%5D%20Dynamic-27606  # ping: 3191ms
-vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&security=none&type=ws&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21372  # ping: 3279ms
-vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.baipiao.eu.org:8880?encryption=none&security=none&type=ws&host=morning-cell-6297.66-b87.workers.dev&path=%2F#%5BOpenRay%5D%20Dynamic-25077  # ping: 3367ms
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@www.baipiao.eu.org:8880?encryption=none&security=none&type=ws&host=curly-surf-4401.75-08c.workers.dev&path=%2F#%5BOpenRay%5D%20Dynamic-21016  # ping: 3391ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 3590ms
-vless://81b3fa7e-12b0-4c2b-9866-324edd26ef7f@www.baipiao.eu.org:8880?encryption=none&security=none&type=ws&host=falling-lake-0b5a.192-3e2.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net%2B#%5BOpenRay%5D%20Dynamic-27788  # ping: 4517ms
-vless://392ed37c-c0cd-472e-8765-a94677005b0b@172.67.179.98:8880?encryption=none&security=none&type=ws&host=frosty-bread-788f.398.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22742  # ping: 4796ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 6247ms
-vless://8c56b4af-4762-4299-a1f8-799790dbaac7@188.114.97.6:8080?encryption=none&security=none&type=ws&host=lively-lab-4fd2.150-6f7.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net%2B#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28149  # ping: 9257ms
+vless://81b3fa7e-12b0-4c2b-9866-324edd26ef7f@www.baipiao.eu.org:8880?encryption=none&security=none&type=ws&host=falling-lake-0b5a.192-3e2.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net%2B#%5BOpenRay%5D%20Dynamic-27788  # ping: 3015ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 3191ms
+vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&security=none&type=ws&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21372  # ping: 3216ms
+vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@www.baipiao.eu.org:8880?encryption=none&security=none&type=ws&host=curly-surf-4401.75-08c.workers.dev&path=%2F#%5BOpenRay%5D%20Dynamic-21016  # ping: 3230ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 3887ms
+vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.baipiao.eu.org:8880?encryption=none&security=none&type=ws&host=morning-cell-6297.66-b87.workers.dev&path=%2F#%5BOpenRay%5D%20Dynamic-25077  # ping: 5071ms
