@@ -1,9 +1,7 @@
-# failover-tg-top10.txt (7 прокси) | 2026-09-03 17:06:34
+# failover-tg-top10.txt (5 прокси) | 2026-09-03 17:35:19
 
-vless://4a40e7a6-9179-42c1-9bd7-eefec23a62f8@skk.moe:8880?encryption=none&security=none&type=ws&host=soft-meadow-980a.458.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20Dynamic-21830  # ping: 1584ms
-vless://c18fd69e-92ba-446e-981b-213dbb551593@billowing-wind-5b29.133-323.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20Dynamic-25201  # ping: 2082ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 2743ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 4122ms
-vless://41ce10f9-748b-46a0-be7c-e29d863aa028@www.ipget.net:8880?encryption=none&security=none&type=ws&host=gentle-violet-ceef.497-2fe.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#%5BOpenRay%5D%20Dynamic-22647  # ping: 4123ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 5372ms
-vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.baipiao.eu.org:8880?encryption=none&security=none&type=ws&host=morning-cell-6297.66-b87.workers.dev&path=%2F#%5BOpenRay%5D%20Dynamic-25077  # ping: 8444ms
+vless://c18fd69e-92ba-446e-981b-213dbb551593@billowing-wind-5b29.133-323.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20Dynamic-25201  # ping: 2749ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 2869ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 3592ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 4177ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&sni=40.160.69.180&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25536  # ping: 16326ms
