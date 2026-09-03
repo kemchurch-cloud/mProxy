@@ -1,5 +1,5 @@
-# failover-tg-top10.txt (3 прокси) | 2026-09-03 20:35:19
+# failover-tg-top10.txt (3 прокси) | 2026-09-03 21:05:19
 
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 3879ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 4173ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 4370ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 3040ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 4653ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 5451ms
