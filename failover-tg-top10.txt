@@ -1,6 +1,6 @@
-# failover-tg-top10.txt (4 прокси) | 2026-09-03 18:05:14
+# failover-tg-top10.txt (4 прокси) | 2026-09-03 18:35:19
 
-vless://c18fd69e-92ba-446e-981b-213dbb551593@billowing-wind-5b29.133-323.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20Dynamic-25201  # ping: 1892ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 2677ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 2860ms
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 5350ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25489  # ping: 2965ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=none&fp=chrome&type=ws&host=40.160.69.214&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25188  # ping: 3033ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.97:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-23922  # ping: 3862ms
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.180:8080?encryption=none&security=none&sni=40.160.69.180&type=ws&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25536  # ping: 13279ms
