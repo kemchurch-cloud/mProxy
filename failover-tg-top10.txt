@@ -1,6 +1,4 @@
-# failover-tg-top10.txt (4 прокси) | 2026-09-04 20:35:10
+# failover-tg-top10.txt (2 прокси) | 2026-09-04 21:05:11
 
-vless://a7b8b48e-1000-46f5-a974-f6606d94f3b4@misty-hill-4b94.146-c18.workers.dev:8880?encryption=none&security=none&type=ws&path=%2F#%5BOpenRay%5D%20Dynamic-27865  # ping: 1228ms
-vless://cfb74ef3-f868-43c5-b05a-56509e2c948f@162.159.156.214:8880?encryption=none&security=none&type=ws&host=flat-limit-5b5e.472-cf5.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20293  # ping: 1232ms
-vless://090e5985-bbeb-4400-8278-d3a8e9ae5d92@162.159.156.214:8880?encryption=none&security=none&type=ws&host=shy-star-7967.311-f0b.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5B%F0%9F%87%AF%F0%9F%87%B5%5D%20%5Bvl-no-ws%5D%20%5B260828-040340.923%5D  # ping: 3005ms
-vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?encryption=none&security=tls&sni=dark-rain-2989.gzgshsgs.workers.dev&fp=chrome&type=ws&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B260828-040401.731%5D  # ping: 3231ms
+vless://090e5985-bbeb-4400-8278-d3a8e9ae5d92@162.159.156.214:8880?encryption=none&security=none&type=ws&host=shy-star-7967.311-f0b.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5B%F0%9F%87%AF%F0%9F%87%B5%5D%20%5Bvl-no-ws%5D%20%5B260828-040340.923%5D  # ping: 3031ms
+vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?encryption=none&security=tls&sni=dark-rain-2989.gzgshsgs.workers.dev&fp=chrome&type=ws&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B260828-040401.731%5D  # ping: 3164ms
