@@ -1,4 +1,4 @@
-# failover-tg-top10.txt (2 прокси) | 2026-09-07 01:05:55
+# failover-tg-top10.txt (2 прокси) | 2026-09-07 01:35:54
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.182.18:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=viper-20.moriarty-web.com&alpn=h2&type=tcp&headerType=none#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-tl-ra%5D%20%5B260906-144941.978%5D  # ping: 3250ms
-vless://5fca9c0b-5575-4e98-8af2-8cd867ab731d@185.204.171.221:443?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ra%5D%20%5B260906-144814.522%5D  # ping: 16496ms
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.182.18:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=viper-20.moriarty-web.com&alpn=h2&type=tcp&headerType=none#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-tl-ra%5D%20%5B260906-144941.978%5D  # ping: 3287ms
+vless://5fca9c0b-5575-4e98-8af2-8cd867ab731d@185.204.171.221:443?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ra%5D%20%5B260906-144814.522%5D  # ping: 4081ms
