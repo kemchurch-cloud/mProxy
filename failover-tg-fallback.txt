@@ -1,5 +1,3 @@
-# failover-tg-fallback.txt (3 прокси) | 2026-09-07 18:03:35
+# failover-tg-fallback.txt (1 прокси) | 2026-09-07 18:33:35
 
-vless://14e0ab2e-fb3e-4fd1-a6d9-62eeae62976b@104.17.58.113:8880?encryption=none&security=none&type=ws&host=jolly-shape-3ce6.392.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21947  # ping: 2897ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.248:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-213  # ping: 2954ms
-vless://ecf789a5-edc3-4eef-bdea-837d048afd9a@144.31.141.134:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=setbacks.hb-website.ru-msk.vkcloud-storage.ru&fp=firefox&pbk=8qUiIosG5-OQWo0tD29BQCbxb50neUg8BynxdAvDzB4&sid=132142&type=tcp&headerType=none#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-re-ra%5D%20%5B260906-083304.775%5D  # ping: 10420ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.248:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4%20CO-213  # ping: 2885ms
