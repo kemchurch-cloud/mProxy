@@ -1,8 +1,5 @@
-# failover-tg-fallback.txt (6 прокси) | 2026-09-11 19:03:33
+# failover-tg-fallback.txt (3 прокси) | 2026-09-11 19:33:34
 
-vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@ancient-tooth-af89.500-ba0.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20Dynamic-29013  # ping: 1478ms
-vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?encryption=none&security=tls&sni=dark-rain-2989.gzgshsgs.workers.dev&fp=chrome&type=ws&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B260906-083027.276%5D  # ping: 1490ms
-vless://90f0ae37-5a8f-4649-98ad-ac5323840f93@104.21.15.212:8880?encryption=none&security=none&type=ws&host=silent-king-06b6.297-842.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28664  # ping: 1704ms
-vless://f7ed4770-81f4-47a1-9490-8b8cd684c97e@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=silent-cloud-aa63.324-7d8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20Dynamic-22085  # ping: 1797ms
-vless://41ce10f9-748b-46a0-be7c-e29d863aa028@www.ipget.net:8880?encryption=none&security=none&fp=chrome&type=ws&host=gentle-violet-ceef.497-2fe.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#%5BOpenRay%5D%20Dynamic-24591  # ping: 1815ms
-vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@188.114.97.6:8080?encryption=none&security=none&fm=%7B&type=ws&host=quiet-frost-ac61.333-07d.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28572  # ping: 1983ms
+vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?encryption=none&security=tls&sni=dark-rain-2989.gzgshsgs.workers.dev&fp=chrome&type=ws&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B260906-083027.276%5D  # ping: 1569ms
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228  # ping: 1807ms
+vless://90f0ae37-5a8f-4649-98ad-ac5323840f93@104.21.15.212:8880?encryption=none&security=none&type=ws&host=silent-king-06b6.297-842.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28664  # ping: 2407ms
