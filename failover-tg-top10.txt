@@ -1,8 +1,6 @@
-# failover-tg-top10.txt (6 прокси) | 2026-09-15 20:03:36
+# failover-tg-top10.txt (4 прокси) | 2026-09-15 20:33:36
 
-vless://fbd6ffcc-f07b-4790-898e-2a6827f6d10f@104.17.58.113:8880?encryption=none&security=none&type=ws&host=old-disk-b667.399-1b9.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B260906-083314.739%5D  # ping: 1168ms
-vless://1742863c-ce4b-4bb7-b807-80da29cbec86@www.gov.ua:8880?encryption=none&security=none&type=ws&host=icy-fog-9a41.70-a39.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#%5BOpenRay%5D%20Dynamic-27526  # ping: 1288ms
-vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?encryption=none&security=none&type=ws&host=mute-river-6aee.421-bd7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21910  # ping: 1467ms
-vless://4f74ff26-25af-41d6-9d39-be46fe8ff1a8@steep-resonance-1ffb.274.workers.dev:8880?encryption=none&security=none&fp=qq&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20Dynamic-25588  # ping: 1583ms
-vless://70ca8aec-42ba-41df-a874-ec9517053dec@rough-mouse-2a3a.424-e94.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20Dynamic-28112  # ping: 1627ms
-vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228  # ping: 1789ms
+vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?encryption=none&security=none&type=ws&host=mute-river-6aee.421-bd7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21910  # ping: 1129ms
+vless://4f74ff26-25af-41d6-9d39-be46fe8ff1a8@steep-resonance-1ffb.274.workers.dev:8880?encryption=none&security=none&fp=qq&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20Dynamic-25588  # ping: 1257ms
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228  # ping: 1416ms
+vless://70ca8aec-42ba-41df-a874-ec9517053dec@rough-mouse-2a3a.424-e94.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20Dynamic-28112  # ping: 1661ms
