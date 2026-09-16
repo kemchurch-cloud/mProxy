@@ -1,6 +1,5 @@
-# failover-tg-top10.txt (4 прокси) | 2026-09-16 21:33:41
+# failover-tg-top10.txt (3 прокси) | 2026-09-16 22:03:39
 
-vless://fbd6ffcc-f07b-4790-898e-2a6827f6d10f@104.17.58.113:8880?encryption=none&security=none&type=ws&host=old-disk-b667.399-1b9.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B260906-083314.739%5D  # ping: 1206ms
-vless://6d6b7a8d-a9fa-4889-a5f4-d112c6b6f494@104.17.58.113:8880?encryption=none&security=none&type=ws&host=small-cake-e99b.390-a20.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-no-ws%5D%20%5B260906-083127.573%5D  # ping: 1214ms
-vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?encryption=none&security=none&type=ws&host=mute-river-6aee.421-bd7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21910  # ping: 1861ms
-vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228  # ping: 5486ms
+vless://6d6b7a8d-a9fa-4889-a5f4-d112c6b6f494@104.17.58.113:8880?encryption=none&security=none&type=ws&host=small-cake-e99b.390-a20.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-no-ws%5D%20%5B260906-083127.573%5D  # ping: 1284ms
+vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?encryption=none&security=none&type=ws&host=mute-river-6aee.421-bd7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21910  # ping: 1291ms
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?encryption=none&security=reality&sni=timeline.www.cloudflare.com&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228  # ping: 3172ms
