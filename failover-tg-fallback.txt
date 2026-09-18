@@ -1,7 +1,3 @@
-# failover-tg-fallback.txt (5 прокси) | 2026-09-18 19:34:01
+# failover-tg-fallback.txt (1 прокси) | 2026-09-18 20:04:01
 
-vless://70ca8aec-42ba-41df-a874-ec9517053dec@rough-mouse-2a3a.424-e94.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20Dynamic-28112  # ping: 1458ms
-vless://3fe8191f-52ae-4e38-8385-5869ab47fb70@104.16.100.66:8880?encryption=none&security=none&fp=chrome&type=ws&host=jolly-violet-a006.10-ae8.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20993  # ping: 1476ms
-vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@188.114.97.6:8880?encryption=none&security=none&type=ws&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28024  # ping: 1492ms
-vless://f7ed4770-81f4-47a1-9490-8b8cd684c97e@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=silent-cloud-aa63.324-7d8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20Dynamic-22085  # ping: 1701ms
-vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@ancient-tooth-af89.500-ba0.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20Dynamic-29013  # ping: 1788ms
+vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@188.114.97.6:8880?encryption=none&security=none&type=ws&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28024  # ping: 2186ms
