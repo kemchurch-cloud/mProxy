@@ -1,5 +1,3 @@
-# failover-tg-fallback.txt (3 прокси) | 2026-09-29 01:08:58
+# failover-tg-fallback.txt (1 прокси) | 2026-09-29 01:38:53
 
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.72.106:23070?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=px79hKhwQDhnVMdX3CF8dHKQsAVT8-FJ8ilk7JZAO2U&sid=c7f5ef2673cc86bc&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-3296  # ping: 6155ms
-vless://25284368-40d5-4abe-9f56-54a07e88a7af@129.101.120.5:37951?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl2.dzvn.space&fp=chrome&pbk=O6ZOpoz4sxon8iHxCd5EEvx2K9NUThd4SvOCBEvADEI&sid=a9e21fd097d019c6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-12670  # ping: 8480ms
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&security=none&type=ws&host=platform117.halalkhor.info&path=%2Fplatform117#%F0%9F%87%A8%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-CL  # ping: 9064ms
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.72.106:23070?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=px79hKhwQDhnVMdX3CF8dHKQsAVT8-FJ8ilk7JZAO2U&sid=c7f5ef2673cc86bc&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-3296  # ping: 6645ms
