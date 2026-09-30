@@ -1,4 +1,4 @@
-# failover-tg-fallback.txt (2 прокси) | 2026-09-30 19:39:09
+# failover-tg-fallback.txt (2 прокси) | 2026-09-30 20:09:12
 
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%B9%F0%9F%87%B7%5D%20%5Bvl-no-ra%5D%20%5B260925-153949.629%5D  # ping: 6129ms
-hysteria2://my_super_password_123@open.2ml.bid:443?sni=open.2ml.bid&insecure=1#%E6%97%A5%E6%9C%AC_093007132%20%7C%20307ms  # ping: 7634ms
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?sni=www.bing.com&insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7#%F0%9F%87%A6%F0%9F%87%BAAU_4%7C123KB%2Fs%7CR002-260618%2001%20%7C%20200ms  # ping: 7639ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=firefox&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3459  # ping: 9295ms
