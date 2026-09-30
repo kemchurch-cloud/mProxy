@@ -1,8 +1,9 @@
-# failover-tg-top10.txt (6 прокси) | 2026-10-01 04:39:10
+# failover-tg-top10.txt (7 прокси) | 2026-10-01 05:09:09
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=firefox&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3459  # ping: 1405ms
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=chrome&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3508  # ping: 1627ms
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?sni=germany3.h2corp.local&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_17%7C5.4MB%2Fs%7CA001-260618%2001%20%7C%20346ms  # ping: 3337ms
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?sni=germany3.h2corp.local&insecure=1#%20By%20EbraSha%20%F0%9F%93%9F%20%7C%20156ms  # ping: 4899ms
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%B9%F0%9F%87%B7%5D%20%5Bvl-no-ra%5D%20%5B260925-153949.629%5D  # ping: 5045ms
-hysteria2://my_super_password_123@open.2ml.bid:443?sni=open.2ml.bid&insecure=1#%E6%97%A5%E6%9C%AC_093007132%20%7C%20307ms  # ping: 7760ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=chrome&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3508  # ping: 1443ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=firefox&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3459  # ping: 1509ms
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?sni=germany3.h2corp.local&insecure=1#%20By%20EbraSha%20%F0%9F%93%9F%20%7C%20156ms  # ping: 3350ms
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?sni=germany3.h2corp.local&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_17%7C5.4MB%2Fs%7CA001-260618%2001%20%7C%20346ms  # ping: 3437ms
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%B9%F0%9F%87%B7%5D%20%5Bvl-no-ra%5D%20%5B260925-153949.629%5D  # ping: 4955ms
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?sni=www.bing.com&insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7#%F0%9F%87%A6%F0%9F%87%BAAU_4%7C123KB%2Fs%7CR002-260618%2001%20%7C%20200ms  # ping: 7698ms
+hysteria2://my_super_password_123@open.2ml.bid:443?sni=open.2ml.bid&insecure=1#%E6%97%A5%E6%9C%AC_093007132%20%7C%20307ms  # ping: 7698ms
