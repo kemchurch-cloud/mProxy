@@ -1,9 +1,12 @@
-# failover-tg-top10.txt (7 прокси) | 2026-10-01 06:39:08
+# failover-tg-top10.txt (10 прокси) | 2026-10-01 07:08:46
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=chrome&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3508  # ping: 1418ms
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=firefox&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3459  # ping: 2193ms
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?sni=germany3.h2corp.local&insecure=1#%20By%20EbraSha%20%F0%9F%93%9F%20%7C%20156ms  # ping: 3019ms
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?sni=germany3.h2corp.local&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_17%7C5.4MB%2Fs%7CA001-260618%2001%20%7C%20346ms  # ping: 3193ms
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%B9%F0%9F%87%B7%5D%20%5Bvl-no-ra%5D%20%5B260925-153949.629%5D  # ping: 3288ms
-hysteria2://my_super_password_123@open.2ml.cc.cd:5443?#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%2BOracle%2BCloud  # ping: 7566ms
-hysteria2://my_super_password_123@open.2ml.bid:443?sni=open.2ml.bid&insecure=1#%E6%97%A5%E6%9C%AC_093007132%20%7C%20307ms  # ping: 7584ms
+vless://3adac494-0eb1-4d89-a187-b2181691444d@172.66.132.196:8880?encryption=none&security=none&type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21175  # ping: 1056ms
+vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&security=none&type=ws&host=cold-shadow-66a0.278.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21427  # ping: 1086ms
+vless://380de97f-1d87-4394-acb8-f9ad7a422ac1@104.18.12.229:8880?encryption=none&security=none&type=ws&host=proud-recipe-239d.305-0da.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-24665  # ping: 1088ms
+vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&security=none&type=ws&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21372  # ping: 1096ms
+vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@172.66.140.62:8880?encryption=none&security=none&sni=orange-block-5cd1.124-199.workers.dev&type=ws&host=orange-block-5cd1.124-199.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-27717  # ping: 1105ms
+vless://2a8cafda-479d-4e30-82d1-0bd4c6da6db9@172.67.152.71:8880?encryption=none&security=none&type=ws&host=delicate-meadow-15da.423-c77.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22735  # ping: 1119ms
+vless://a8985e6a-f338-4b44-9a41-f94495603a96@skk.moe:8880?encryption=none&security=none&type=ws&host=dawn-cell-346f.238-df6.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20Dynamic-21154  # ping: 1120ms
+vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.gov.ua:8880?encryption=none&security=none&type=ws&host=morning-cell-6297.66-b87.workers.dev&path=%2Fpyip#%5BOpenRay%5D%20Dynamic-22548  # ping: 1121ms
+vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@104.21.74.214:8880?encryption=none&security=none&type=ws&host=wild-frog-54a9.170-dcc.workers.dev&path=%2Fpyip#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-27866  # ping: 1128ms
+vless://7121d0be-40f5-4eda-b3d1-1556e71ea4fa@188.114.97.6:8080?encryption=none&security=none&fm=%7B&type=ws&host=shrill-recipe-0c1d.404-a1d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28589  # ping: 1131ms
