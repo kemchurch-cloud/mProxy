@@ -1,4 +1,6 @@
-# failover-tg-fallback.txt (2 прокси) | 2026-10-01 23:42:03
+# failover-tg-fallback.txt (4 прокси) | 2026-10-02 00:12:03
 
-hysteria2://my_super_password_123@open.2ml.cc.cd:5443?#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%2BOracle%2BCloud  # ping: 11039ms
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=random&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd  # ping: 11306ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@spanish67.kovsh.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spanish67.kovsh.lol&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%E4%B9%8C%E5%85%8B%E5%85%B0_100111004%20t.me%2Frjsxrd  # ping: 6069ms
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=ios&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd  # ping: 6956ms
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?sni=www.bing.com&insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7#%F0%9F%87%A6%F0%9F%87%BAAU_4%7C123KB%2Fs%7CR002-260618%2001%20%7C%20200ms  # ping: 8315ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polka.stopingiphatered.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polka.stopingiphatered.shop&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B_100111026%20t.me%2Frjsxrd  # ping: 10392ms
