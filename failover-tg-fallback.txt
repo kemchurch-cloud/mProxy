@@ -1,7 +1,8 @@
-# failover-tg-fallback.txt (5 прокси) | 2026-10-02 05:12:09
+# failover-tg-fallback.txt (6 прокси) | 2026-10-02 05:42:02
 
-hysteria2://my_super_password_123@open.2ml.cc.cd:5443?#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%2BOracle%2BCloud  # ping: 5875ms
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polka.stopingiphatered.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polka.stopingiphatered.shop&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B_100111026%20t.me%2Frjsxrd  # ping: 7034ms
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%B9%F0%9F%87%B7%5D%20%5Bvl-no-ra%5D%20%5B260925-153949.629%5D  # ping: 7579ms
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3902  # ping: 7642ms
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@slowkd.sadiepinki.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb&spx=%2F&type=tcp&headerType=none#%5B3501ms%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20NL%20%F0%9F%87%B3%F0%9F%87%B1%20%40vlesstrojan%5D%20t.me%2Frjsxrd  # ping: 8472ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@spanish67.kovsh.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spanish67.kovsh.lol&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%E4%B9%8C%E5%85%8B%E5%85%B0_100111004%20t.me%2Frjsxrd  # ping: 4397ms
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#%5B%F0%9F%87%B9%F0%9F%87%B7%5D%20%5Bvl-no-ra%5D%20%5B260925-153949.629%5D  # ping: 4689ms
+hysteria2://my_super_password_123@open.2ml.cc.cd:5443?#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%2BOracle%2BCloud  # ping: 5017ms
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3902  # ping: 6155ms
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polka.stopingiphatered.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polka.stopingiphatered.shop&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B_100111026%20t.me%2Frjsxrd  # ping: 9066ms
+hysteria2://my_super_password_123@open.2ml.bid:443?sni=open.2ml.bid&insecure=1#%E6%97%A5%E6%9C%AC_093007132%20%7C%20307ms  # ping: 9400ms
