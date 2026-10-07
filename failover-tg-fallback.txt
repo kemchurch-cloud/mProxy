@@ -1,7 +1,6 @@
-# failover-tg-fallback.txt (5 прокси) | 2026-10-07 17:42:11
+# failover-tg-fallback.txt (4 прокси) | 2026-10-07 18:12:14
 
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?encryption=none&security=none&sni=platform109.halalkhor.info&type=ws&host=platform109.halalkhor.info&path=%2Fplatform109#%F0%9F%87%BF%F0%9F%87%A6%5Bopenproxylist.com%5D%20vless-ZA  # ping: 4115ms
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?encryption=none&security=none&sni=platform103.halalkhor.info&type=ws&host=platform103.halalkhor.info&path=%2Fplatform103#%F0%9F%87%A8%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-CL  # ping: 4162ms
-hysteria2://my_super_password_123@open.2ml.cc.cd:5443?#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%2BOracle%2BCloud  # ping: 4269ms
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3902  # ping: 6168ms
-vless://adcce8be-9de7-41bd-abcd-52939cec108b@104.21.70.21:443?encryption=none&security=tls&sni=fancy-haze-ab00.236-68b.workers.dev&fp=unsafe&type=ws&host=fancy-haze-ab00.236-68b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20t.me%2Frjsxrd  # ping: 7566ms
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?encryption=none&security=none&sni=platform103.halalkhor.info&type=ws&host=platform103.halalkhor.info&path=%2Fplatform103#%F0%9F%87%A8%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-CL  # ping: 4520ms
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=ios&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd  # ping: 6533ms
+vless://adcce8be-9de7-41bd-abcd-52939cec108b@104.21.70.21:443?encryption=none&security=tls&sni=fancy-haze-ab00.236-68b.workers.dev&fp=unsafe&type=ws&host=fancy-haze-ab00.236-68b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20t.me%2Frjsxrd  # ping: 7018ms
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=safari&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd  # ping: 11610ms
