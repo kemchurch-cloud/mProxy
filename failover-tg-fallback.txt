@@ -1,4 +1,6 @@
-# failover-tg-fallback.txt (2 прокси) | 2026-10-13 20:13:00
+# failover-tg-fallback.txt (4 прокси) | 2026-10-13 20:42:57
 
-vless://565326ee-c588-4843-9472-a051578ab1ae@104.21.12.116:8880?encryption=none&security=none&type=ws&host=lucky-cell-e8c5.490-f12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-24634  # ping: 3559ms
-vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@188.114.97.6:8880?encryption=none&security=none&type=ws&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28024  # ping: 5199ms
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=ios&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd  # ping: 4239ms
+vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@188.114.97.6:8880?encryption=none&security=none&type=ws&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28024  # ping: 5301ms
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=random&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd  # ping: 9951ms
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?sni=www.bing.com&insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7#%F0%9F%87%A6%F0%9F%87%BAAU_4%7C123KB%2Fs%7CR002-260618%2001%20%7C%20200ms  # ping: 13575ms
