@@ -1,4 +1,4 @@
-# failover-tg-top10.txt (2 прокси) | 2026-10-23 04:43:18
+# failover-tg-top10.txt (2 прокси) | 2026-10-23 05:13:16
 
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?encryption=none&security=none&sni=13.140.56.100&type=ws&host=13.140.56.100&path=%2Fvless#%F0%9F%87%AE%F0%9F%87%B3%5Bopenproxylist.com%5D%20vless-IN  # ping: 4672ms
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3902  # ping: 7507ms
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?encryption=none&security=none&sni=13.140.56.100&type=ws&host=13.140.56.100&path=%2Fvless#%F0%9F%87%AE%F0%9F%87%B3%5Bopenproxylist.com%5D%20vless-IN  # ping: 4556ms
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3902  # ping: 6673ms
