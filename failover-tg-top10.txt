@@ -1,5 +1,5 @@
-# failover-tg-top10.txt (3 прокси) | 2026-10-24 14:43:08
+# failover-tg-top10.txt (3 прокси) | 2026-10-24 15:13:07
 
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%2B%E7%94%B2%E9%AA%A8%E6%96%87%E6%9C%BA%E6%88%BF  # ping: 6714ms
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3902  # ping: 7532ms
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.248.107.186:2053?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-336  # ping: 10784ms
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-3902  # ping: 6527ms
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%2B%E7%94%B2%E9%AA%A8%E6%96%87%E6%9C%BA%E6%88%BF  # ping: 6613ms
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.248.107.186:2053?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-336  # ping: 9674ms
