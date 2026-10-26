@@ -1,12 +1,3 @@
-# failover-tg-top10.txt (10 прокси) | 2026-10-26 09:40:17
+# failover-tg-top10.txt (1 прокси) | 2026-10-26 10:13:05
 
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?encryption=none&security=none&type=tcp&headerType=none&host=site.teslamotor.site&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-2683  # ping: 1077ms
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@us-4bf85a22b1.shamanapp.online:10453?encryption=none&security=reality&sni=www.google.com&fp=edge&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&type=grpc&authority=&serviceName=TunService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-2358  # ping: 1223ms
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.67.118.45:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%8C%90XX-2632  # ping: 1230ms
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=unsafe&alpn=http%2F1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%5BOpenRay%5D%20%F0%9F%8C%90XX-2674  # ping: 1260ms
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.18.0.181:2052?encryption=none&security=none&sni=eu02.123450908.xyz&type=ws&host=eu02.123450908.xyz&path=%2Frain1226#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%20329%20%7C%20Meh-27%7C%20MTSRVRS  # ping: 1291ms
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.67.118.45:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#%5BOpenRay%5D%20%F0%9F%8C%90XX-2392  # ping: 1314ms
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.172.97.15:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-336  # ping: 1319ms
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-2406  # ping: 1344ms
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.147.22:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-2330  # ping: 1395ms
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=1&insecure=1&security=tls&sni=de7.dedushka.top&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20trojan-DE  # ping: 1550ms
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%2B%E7%94%B2%E9%AA%A8%E6%96%87%E6%9C%BA%E6%88%BF  # ping: 7668ms
